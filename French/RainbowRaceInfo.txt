@@ -1,11 +1,11 @@
-﻿#b Race Information #nb
-Rainbow Race is an opportunity for all players to compete in an interactive and intense flying race. Players must use their own flying mount during the race.
+﻿﻿#b Informations sur la Course #nb
+La Course Arc-en-ciel est une occasion pour tous les joueurs de s’affronter dans une course aérienne interactive et intense. Les joueurs doivent utiliser leur propre monture volante pendant la course.
 
-#iNote: The application fee cannot be refunded. Each player is responsible for providing themselves with a flying mount.#ni
+#iNote : Les frais d’inscription ne peuvent pas être remboursés. Chaque joueur est responsable de fournir sa propre monture volante.#ni
 
-Rewards:
-First Place: Title, Mount, and Rainbow Race First Place Box.
-Second Place: Rainbow Race Second Place Box.
-Third Place: Rainbow Race Third Place Box.
-Fourth to Tenth Place: Rainbow Race Honorable Box.
-The Rest: Participation Reward.
+Récompenses :
+Première place : Titre, Monture et Boîte de la Première Place de la Course Arc-en-ciel.
+Deuxième place : Boîte de la Deuxième Place de la Course Arc-en-ciel.
+Troisième place : Boîte de la Troisième Place de la Course Arc-en-ciel.
+Quatrième à dixième place : Boîte Honorable de la Course Arc-en-ciel.
+Les autres : Récompense de Participation.
