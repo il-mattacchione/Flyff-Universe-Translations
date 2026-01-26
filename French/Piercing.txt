@@ -1,4 +1,4 @@
-﻿#bItem Piercing#nb
+﻿#bPiercing d’objet#nb
 
-Piercing an item will unlock slots for piercing cards that can greatly enhance the item's capabilities and power.
-#cffff0000Using a G-Protect scroll guarantees that your item cannot be destroyed in the process.#nc
+Le piercing d’un objet débloquera des emplacements pour les cartes de piercing, pouvant considérablement améliorer ses capacités et sa puissance.
+#cffff0000L’utilisation d’un parchemin G-Protect garantit que votre objet ne pourra pas être détruit pendant le processus.#nc
