@@ -1140,7 +1140,7 @@ PROPSKILL_TXT_150603,Improved Scaling,Évolution Améliorée
 PROPSKILL_TXT_150604,"Skill damage scaling is improved, but cooldown is increased.","L’évolution des dégâts de la compétence est améliorée, mais le temps de recharge est augmenté."
 PROPSKILL_TXT_150605,"Base damage is increased, but scaling is reduced.","Les dégâts de base sont augmentés, mais l’évolution est réduite."
 PROPSKILL_TXT_150606,Increased Lifesteal,Vol de Vie Amélioré
-PROPSKILL_TXT_150607,Health stolen in enhanced effect is increased by 10%,,Les PV volés avec l’effet amélioré sont augmentés de 10 %.
+PROPSKILL_TXT_150607,Health stolen in enhanced effect is increased by 10%,Les PV volés avec l’effet amélioré sont augmentés de 10 %.
 PROPSKILL_TXT_150608,Chance to gain an extra Stigma stack.,Chance de gagner une pile supplémentaire de Stigmate.
 PROPSKILL_TXT_150609,Nen Release,Libération de Nen
 PROPSKILL_TXT_150610,Remove all your Nen stacks at a cost of power.,Supprime toutes vos piles de Nen au prix de la puissance.
