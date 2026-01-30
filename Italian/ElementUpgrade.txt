@@ -1,5 +1,4 @@
-﻿#bElement Upgrading#nb
+#bPotenziamenti Elementali#nb
 
-Infusing an item with an element enhances its capabilities against enemies of weaker element types, and dimishes its abilities against enemies with stronger element types.
-#cffff0000Using a protection scroll guarantees that your item cannot be destroyed in the process.
-Low S-Protect scrolls will reduce the upgrade level upon failure.#nc
+Infondere un oggetto con un elemento ne potenzia le capacità contro i nemici di tipo elementale più debole e ne riduce le abilità contro i nemici di tipo elementale più forte.#cffff0000L'uso di una pergamena protettiva garantisce che il tuo oggetto non possa essere distrutto durante il processo.
+Permagene Basso S-Protezione ridurranno l livello di potenziamento in caso i fallimento.#nc
