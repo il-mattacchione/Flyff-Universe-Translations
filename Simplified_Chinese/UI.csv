@@ -1718,13 +1718,13 @@ UI_TICKETCHANNEL,Layer ,层
 UI_TICKETLEAVE,Leave Area,离开地区
 UI_TARGETITEMLEVEL,Required Target Level: %d,所需目标等级: %d
 UI_DUNGEON_REQ_ITEM,Required Items:,所需物品：
-UI_DUNGEON_MAX_ENTRY_COUNT,Max Entrance Per Day: %d / %d,每日最高入场次数: %d / %d
-UI_DROP_DISTRIBUTE_TITLE,Loot Distribution,拾取分配
-UI_DROP_DISTRIBUTE_INFO,"Either roll a random number for the above item, or pass if you are not interested. After the timer, the player with the highest number gets the item.",为以上物品roll一个随机数，或者如果你不感兴趣，点击略过。计时器结束后，随机数字最高的玩家将获得该物品。
+UI_DUNGEON_MAX_ENTRY_COUNT,Max Entrance Per Day: %d / %d,每日最大入场次数: %d / %d
+UI_DROP_DISTRIBUTE_TITLE,Loot Distribution,掉落分配
+UI_DROP_DISTRIBUTE_INFO,"Either roll a random number for the above item, or pass if you are not interested. After the timer, the player with the highest number gets the item.",请为上方物品掷出一个随机点数；若不感兴趣可选择放弃。倒计时结束后，点数最高的玩家将获得该物品。
 UI_DROP_DISTRIBUTE_ROLL,Need,需要
-UI_DROP_DISTRIBUTE_PASS,Pass,略过
-UI_DROP_DISTRIBUTE_ROLL_TOOLTIP,Roll a number for a chance to get this item. Player with the highest roll wins.,为以上物品roll一个随机数，随机数字最高的玩家将获得该物品。
-UI_DROP_DISTRIBUTE_PASS_TOOLTIP,Pass on this item if you are not interested.,略过该物品，如果你对它不感兴趣。
+UI_DROP_DISTRIBUTE_PASS,Pass,放弃
+UI_DROP_DISTRIBUTE_ROLL_TOOLTIP,Roll a number for a chance to get this item. Player with the highest roll wins.,请掷点赢得此物品。点数最高者获胜。
+UI_DROP_DISTRIBUTE_PASS_TOOLTIP,Pass on this item if you are not interested.,若对此物品不感兴趣，请选择放弃。
 UI_DROP_DISTRIBUTE_RESULT,%s was awarded the item.,%s 获得了该物品。
 UI_DROP_DISTRIBUTE_RESULT_MAIL,A player who is no longer available has been mailed the item.,A player who is no longer available has been mailed the item.
 UI_DROP_DISTRIBUTE_CURRENT,Item: %d/%d,物品: %d/%d
@@ -1773,11 +1773,11 @@ UI_COSTUMECOLLECTION_GRP3,Event costumes,Event costumes
 UI_COSTUMECOLLECTION_GRP3_SET1,Spy\nCostume Set\n(7Days),Spy\nCostume Set\n(7Days)
 UI_COSTUMECOLLECTION_GRP3_SET2,Giraffe\nCostume Set\n(7Days),Giraffe\nCostume Set\n(7Days)
 UI_COSTUMECOLLECTION_GRP3_SET3,Steam Punk\nCostume Set\n(7Days),Steam Punk\nCostume Set\n(7Days)
-UI_COSTUMECOLLECTION_PART1,Hat,Hat
+UI_COSTUMECOLLECTION_PART1,Hat,帽子
 UI_COSTUMECOLLECTION_PART2,Suit,衣服
 UI_COSTUMECOLLECTION_PART3,Gloves,手套
 UI_COSTUMECOLLECTION_PART4,Boots,靴子
-UI_ACHIEVEMENTS_SUBMITBTN,Submit,Submit
+UI_ACHIEVEMENTS_SUBMITBTN,Submit,提交
 UI_ACHIEVEMENTS_SUBMITTIP,Submit your costumes!,Submit your costumes!
 UI_BATTLEPASS_MISSION_SAFETYALL,Try Safe Upgrade or Piercing,Try Safe Upgrade or Piercing
 UI_TOOLTIP_DST_UPGRADERATE,Upgrade Rate,Upgrade Rate
@@ -3263,15 +3263,15 @@ UI_TOOLTIP_VS_SHOCK_DEF,Damage from Shocked Enemies,Damage from Shocked Enemies
 UI_TOOLTIP_HP_SHIELD,Max. Health Shield,Max. Health Shield
 UI_TOOLTIP_AA_DMG,Auto Attack Damage,Auto Attack Damage
 UI_LEVELCHANGE_NONE,No available jobs at this level,No available jobs at this level
-UI_SKILL_PAGE_SELECT,Select your skill page:,Select your skill page:
+UI_SKILL_PAGE_SELECT,Select your skill page:,选择你的技能页:
 UI_TOOLTIP_DST_MOBEXP,Monsters experience gain,Monsters experience gain
 UI_TOOLTIP_DST_MOBEXPDROP,Monsters experience/drop gain,Monsters experience/drop gain
 UI_TOOLTIP_TENACITY,Tenacity,Tenacity
 UI_TOOLTIP_DST_SOULUPLIFT,Soul Uplift,Soul Uplift
 UI_15UPDATE_PASS,1.5 Update Pass,1.5 Update Pass
-UI_TOOLTIP_DEBUFFDURATION,Debuff Duration,Debuff Duration
+UI_TOOLTIP_DEBUFFDURATION,Debuff Duration,Debuff持续时间
 UI_TOOLTIP_DST_SAME_JEWEL_RATE,Chance to equip the same ultimate jewel,Chance to equip the same ultimate jewel
 UI_NEWYEARPASS_2026,2026 New Year Pass,2026 New Year Pass
-UI_TOOLTIP_WARDROBE_YES,In your wardrobe,In your wardrobe
-UI_TOOLTIP_WARDROBE_NO,Not in your wardrobe,Not in your wardrobe
+UI_TOOLTIP_WARDROBE_YES,In your wardrobe,在衣橱中
+UI_TOOLTIP_WARDROBE_NO,Not in your wardrobe,不在衣橱中
 UI_QUEST_PET_LEVEL,Reach pet EXP 99.99%,Reach pet EXP 99.99%
