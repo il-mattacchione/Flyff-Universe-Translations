@@ -81,7 +81,7 @@ TEXTCLIENT_SPEED_FAST,Fast,Schnell
 TEXTCLIENT_SPEED_VERYFAST,Very fast,Sehr schnell
 TEXTCLIENT_SPEED_FASTEST,Fastest,Schnellster
 TEXTCLIENT_ITEMPRIORITY,The %s belongs to another player at the moment. Please wait a while.,%s gehört zur Zeit einem anderen Spieler. Warte bitte.
-TEXTCLIENT_LACKSPACE,Inventory is full. Please make room and try again.,Dein Inventar ist voll. Bitte machen Sie Platz und versuchen Sie es erneut.
+TEXTCLIENT_LACKSPACE,Inventory is full. Please make room and try again.,Dein Inventar ist voll. Bitte mach Platz und versuche es erneut.
 TEXTCLIENT_REAPITEM,You received %s.,Du hast %s erhalten.
 TEXTCLIENT_REAPITEM_UPGRADE,You received %s +%d.,Du hast %s +%d erhalten.
 TEXTCLIENT_TROUPEREAPITEM,%s has gained %s.,%s hat %s bekommen.
