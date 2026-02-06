@@ -2310,7 +2310,7 @@ UI_TOOLTIP_PVPBLOCK_RATE,PvP Melee/Range Block,PvP Melee/Range Block
 UI_TOOLTIP_PVPCRITICALBONUS,PvP Critical Damage,PvP Critical Damage
 UI_TOOLTIP_PVPCRITICALCHANCE,PvP Critical Chance,PvP Critical Chance
 UI_TOOLTIP_PENYA_RATE,Penya Drop Bonus,Penya Drop Bonus
-UI_OPTION_UNDERWATER,Underwater Effect,Underwater Effect
+UI_OPTION_UNDERWATER,Underwater Effect,Efecto submarino
 UI_REVIVAL_LODELIGHT_CONFIRM,Are you sure that you want to resurrect to the Lodelight?,Are you sure that you want to resurrect to the Lodelight?
 UI_REVIVAL_LODESTAR_CONFIRM,Are you sure that you want to resurrect to the Lodestar?,Are you sure that you want to resurrect to the Lodestar?
 UI_CASHSHOP_CONFIRM_MSG_CMT,Do you want to purchase %dx %s (x%d) for %s?,Do you want to purchase %dx %s (x%d) for %s?
@@ -2337,17 +2337,17 @@ UI_SERVICE_AGREEMENT_TERMSOFSERVICE,Check the Terms of Service,Check the Terms o
 UI_SERVICE_AGREEMENT_PRIVACY_POLICY,Check the Privacy Policy,Check the Privacy Policy
 UI_SERVICE_AGREEMENT_ADVERTISEMENTS,(Optional) I agree to receive advertisements and updates and updates about Flyff Universe and related services published on Flyff Universe,(Optional) I agree to receive advertisements and updates and updates about Flyff Universe and related services published on Flyff Universe
 UI_SERVICE_AGREEMENT_NOTIFICATIONS,In-app push notifications,In-app push notifications
-UI_SERVICE_AGREEMENT_EMAIL,Email,Email
-UI_SERVICE_AGREEMENT_PHONE,Phone,Phone
-UI_SERVICE_AGREEMENT_CALIFORNIA_RESIDENT,Are you a California resident?,Are you a California resident?
+UI_SERVICE_AGREEMENT_EMAIL,Email,Correo electrónico
+UI_SERVICE_AGREEMENT_PHONE,Phone,Teléfono
+UI_SERVICE_AGREEMENT_CALIFORNIA_RESIDENT,Are you a California resident?,¿Es usted residente de California?
 UI_SERVICE_AGREEMENT_ZIPCODE,ZIPCODE,ZIPCODE
 UI_SERVICE_AGREEMENT_CALIFORNIA_PRIVACY,Check the California Privacy Statement,Check the California Privacy Statement
 UI_SERVICE_AGREEMENT_AGREE_ALL,Agree All,Agree All
 UI_SERVICE_AGREEMENT_ERROR_TITLE,Agreement error,Agreement error
-UI_SERVICE_AGREEMENT_ERROR_BIRTH,Please enter a valid date of birth.,Please enter a valid date of birth.
-UI_SERVICE_AGREEMENT_ERROR_AGE,You must be at least 16 years old to play the game.,You must be at least 16 years old to play the game.
-UI_SERVICE_AGREEMENT_ERROR_TERMS,You must read and accept the terms of service and privacy policy to continue.,You must read and accept the terms of service and privacy policy to continue.
-UI_SERVICE_AGREEMENT_ERROR_ZIPCODE,Please enter a valid zip code.,Please enter a valid zip code.
+UI_SERVICE_AGREEMENT_ERROR_BIRTH,Please enter a valid date of birth.,Por favor, introduzca una fecha de nacimiento válido.
+UI_SERVICE_AGREEMENT_ERROR_AGE,You must be at least 16 years old to play the game.,Debes tener al menos 16 años para jugar el juego.
+UI_SERVICE_AGREEMENT_ERROR_TERMS,You must read and accept the terms of service and privacy policy to continue.,Debes leer y aceptar los términos de servicio y la política de privacidad para continuar.
+UI_SERVICE_AGREEMENT_ERROR_ZIPCODE,Please enter a valid zip code.,Por favor, introduzca un código postal válido.
 UI_ROLL_AND_MOVE_START,START,START
 UI_ROLL_AND_MOVE_ROLLBTN,Roll the dice,Roll the dice
 UI_ROLL_AND_MOVE_COMPLETIONREWARD,Completion Reward,Completion Reward
@@ -2371,8 +2371,8 @@ UI_MENU_REMOVE_SHORTCUT,Remove this shortcut,Remove this shortcut
 UI_MENU_SAVE,Save changes,Guardar Cambios
 UI_MENU_EDIT,Edit the menu,Editar el menú
 UI_MENU_FULL,No more highlighted menus can be set.,No more highlighted menus can be set.
-UI_MENU_UNSPECIFIED,Unspecified,Unspecified
-UI_OPTION_KEYREPEAT,Holding Keys,Holding Keys
+UI_MENU_UNSPECIFIED,Unspecified,No especificado
+UI_OPTION_KEYREPEAT,Holding Keys,Sosteniendo llaves
 UI_DELETEACCOUNT_TITLE,Delete Account,Eliminar Cuenta
 UI_DELETEACCOUNT_PASS,Password for deleting account\nEnter the password,Password for deleting account\nEnter the password
 UI_DELETEACCOUNT_NOPASS,Do you confirm?,¿Deseas continuar?
@@ -2380,8 +2380,8 @@ UI_DELETEACCOUNT_NOTICE,"When you withdraw your membership, all data will be del
 UI_APP_SEARCHSHOP_TIP,Find items in Personal and Vendor shops.,Find items in Personal and Vendor shops.
 UI_SEARCHSHOP_RARITY,Rarity,Rarity
 UI_SEARCHSHOP_UPGRADE,Upgrade:,Upgrade:
-UI_SEARCHSHOP_INCLUDEKEYWORK,Include Keyword,Include Keyword
-UI_SEARCHSHOP_EXACTKEYWORK,Exact Keyword,Exact Keyword
+UI_SEARCHSHOP_INCLUDEKEYWORK,Include Keyword,Incluir palabra clave
+UI_SEARCHSHOP_EXACTKEYWORK,Exact Keyword,Exacto palabra clave
 UI_SEARCHSHOP_SORTDISTANCE,Distance to Shop,Distance to Shop
 UI_SEARCHSHOP_NBITEMS,Total # of items: %d,Total # of items: %d
 UI_SEARCHSHOP_NOSHOP,No shop matching your search.,No shop matching your search.
@@ -2448,12 +2448,12 @@ UI_MATOURNAMENT_MATCH_RESULT_WIN,Win,Ganado
 UI_MATOURNAMENT_MATCH_RESULT_LOSE,Lose,Perdido
 UI_MATOURNAMENT_MATCH_RESULT_DRAW,Draw,Saca
 UI_MATOURNAMENT_MATCH_RESULT_NORECORD,You do not have a record for this day.,You do not have a record for this day.
-UI_MATOURNAMENT_DAILY_RESULT_TYPE,Type : %s,Type : %s
+UI_MATOURNAMENT_DAILY_RESULT_TYPE,Type : %s,Tipo : %s
 UI_MATOURNAMENT_DAILY_RESULT_OTHERTEAM,Other Team : %s,Otros Equipos : %s
-UI_MATOURNAMENT_DAILY_RESULT_PLAYTIME,Play Time : %s,Play Time : %s
+UI_MATOURNAMENT_DAILY_RESULT_PLAYTIME,Play Time : %s,Tiempos Juego : %s
 UI_MATOURNAMENT_DAILY_RESULT_RESULT,Result : %s,Resultado : %s
 UI_MATOURNAMENT_CALENDAR_TODAY,(Today),(Hoy)
-UI_MATOURNAMENT_WEEK_RESULT_NONE,NONE,NONE
+UI_MATOURNAMENT_WEEK_RESULT_NONE,NONE,NINGUNO
 UI_MATOURNAMENT_WEEK_RESULT_REGISTRATION,REG,REG
 UI_MATOURNAMENT_WEEK_RESULT_PRELIMINARY,PRE,PRE
 UI_MATOURNAMENT_WEEK_RESULT_FINAL16,FINAL 16,FINAL 16
@@ -2554,7 +2554,7 @@ UI_RAINBOW_ULTIMATE_JEWEL_DISMANTLE_NOTICE,"If you fail, you will lose your item
 UI_HOUSINGWARDROBE_INFO,Your wardrobe items can only be worn by #bone#nb NPC at a time.,Your wardrobe items can only be worn by #bone#nb NPC at a time.
 UI_HOUSINGWARDROBE_CONFIRM,Equip,Equipar
 UI_HOUSINGWARDROBE_CONFIRMMESSAGE,This will make the selected NPC wear the chosen costume item. Only one NPC at a time can wear the same costume item. Do you want to proceed?,This will make the selected NPC wear the chosen costume item. Only one NPC at a time can wear the same costume item. Do you want to proceed?
-UI_HOUSINGWARDROBE_USEDBY,Used by %s,Used by %s
+UI_HOUSINGWARDROBE_USEDBY,Used by %s,Usado en %s
 UI_HOUSINGWARDROBE_UNEQUIP,Unequip,Unequip
 UI_HOUSINGWARDROBE_MSGBOX_TITLE,Unequip that item?,Unequip that item?
 UI_HOUSINGWARDROBE_MSGBOX_CONFIRM,Are you sure you want to unequip that item from your NPC?,Are you sure you want to unequip that item from your NPC?
@@ -2600,54 +2600,54 @@ UI_LIFE_FISHING_GUESS,Guess which bait the fish will take.,Guess which bait the 
 UI_LIFE_FISHING_SUCCESS_RATE_INCREASE,Fishing success %% goes up when you win.\n(Current success rate %.1f%%),Fishing success %% goes up when you win.\n(Current success rate %.1f%%)
 UI_SEC,%d sec,%d seg
 UI_CONFIRM,Confirm,Confirmar
-UI_LIFE_FISHING_TIME,Fishing Time:,Fishing Time:
+UI_LIFE_FISHING_TIME,Fishing Time:,Tiempo de Pesca:
 UI_LIFE_FISHING_NUMBEROF_ATTEMPTS,Number of attempts:,Number of attempts:
 UI_LIFE_FISHING_NUMBEROF_FISH_CAUGHT,Number of fish caught:,Number of fish caught:
 UI_LIFE_FISHING_NUMBEROF_LARGEFISH_CAUGHT,Number of trophy fish caught:,Number of trophy fish caught:
-UI_LIFE_FISHING_SUCCESS_RATE,Success rate:,Success rate:
-UI_LIFE_FISHING_TIME_FORMAT,%d hrs %d min %d sec,%d hrs %d min %d sec
-UI_TIMES,%d time(s),%d time(s)
-UI_LIFE_FISHING_STATUS,Fishing Status,Fishing Status
+UI_LIFE_FISHING_SUCCESS_RATE,Success rate:,Tasa de éxito:
+UI_LIFE_FISHING_TIME_FORMAT,%d hrs %d min %d sec,%d hrs %d min %d seg
+UI_TIMES,%d time(s),%d tiempo(s)
+UI_LIFE_FISHING_STATUS,Fishing Status,Estado de Pesca
 UI_WAITING,Waiting,Waiting
 UI_LIFE_RECIPEBTN,See related recipes,See related recipes
 UI_LIFE_RECIPES,Recipes,Recipes
-UI_LIFE_RECIPES_CATEGORY,Category,Category
-UI_LIFE_RECIPES_DETAILS,Details,Details
+UI_LIFE_RECIPES_CATEGORY,Category,Categoría
+UI_LIFE_RECIPES_DETAILS,Details,Detalles
 UI_LIFE_RECIPES_NOSELECTED,No recipe selected,No recipe selected
 UI_LIFE_RECIPES_TEXT_INFO,Required Mastery: %d\nRequired Title: [%s]\nRequired\nIngredients:,Required Mastery: %d\nRequired Title: [%s]\nRequired\nIngredients:
 UI_LIFE_RECIPES_TEXT_INFO_NOTITLE,Required Mastery: %d\nRequired Title: \nRequired\nIngredients:,Required Mastery: %d\nRequired Title: \nRequired\nIngredients:
-UI_LIFE_PRODUCTION_TITLE,Production,Production
-UI_LIFE_PRODUCTION_SUCCESS_RATE,Success rate,Success rate
+UI_LIFE_PRODUCTION_TITLE,Production,Producción
+UI_LIFE_PRODUCTION_SUCCESS_RATE,Success rate,Tasa de éxito
 UI_LIFE_PRODUCTION_TIME,Production time per cycle,Production time per cycle
 UI_LIFE_PRODUCTION_REQUIREMENTS,Required Mastery: %d\nRequired Title: [%s],Required Mastery: %d\nRequired Title: [%s]
 UI_LIFE_PRODUCTION_REQUIREMENTS_NOTITLE,Required Mastery: %d\nRequired Title: ,Required Mastery: %d\nRequired Title: 
-UI_LIFE_RECIPE_CATEGORY_0,Ingredient,Ingredient
-UI_LIFE_RECIPE_CATEGORY_1,Drink,Drink
-UI_LIFE_RECIPE_CATEGORY_2,Pill,Pill
+UI_LIFE_RECIPE_CATEGORY_0,Ingredient,Ingrediente
+UI_LIFE_RECIPE_CATEGORY_1,Drink,Bebida
+UI_LIFE_RECIPE_CATEGORY_2,Pill,Píldora
 UI_ALL,All,Todo
 UI_LIFE_PRODUCTION_INFORMATION,"Add material items to produce. If no recipe is selected, a hidden recipe will be attempted. When producing randomly, only one production attempt will be made.","Add material items to produce. If no recipe is selected, a hidden recipe will be attempted. When producing randomly, only one production attempt will be made."
 UI_LIFE_PRODUCTION_PROGRESS_INFORMATION,Production is currently in progress.,Production is currently in progress.
-UI_LIFE_PRODUCTION_PROGRESS_REMAINING,Remaining Time,Remaining Time
-UI_LIFE_PRODUCTION_DUTAION_REDUCTION,Item is used immediately.,Item is used immediately.
+UI_LIFE_PRODUCTION_PROGRESS_REMAINING,Remaining Time,Tiempo Pendiente
+UI_LIFE_PRODUCTION_DUTAION_REDUCTION,Item is used immediately.,El objetos se utiliza inmediatamente.
 UI_LIFE_MASTERY_ORDINALY_HERB,Herb that you can see anywhere. You can obtain Common Herbs.,Herb that you can see anywhere. You can obtain Common Herbs.
 UI_LIFE_MASTERY_REGULAR_HERB,Regular looking herb. You can obtain Common-Uncommon Herbs.,Regular looking herb. You can obtain Common-Uncommon Herbs.
 UI_LIFE_MASTERY_ORDINALY_TREE,Tree that you can see anywhere. You can obtain Common Trees.,Tree that you can see anywhere. You can obtain Common Trees.
 UI_LIFE_MASTERY_REGULAR_TREE,Regular looking Tree. You can obtain Common-Uncommon Trees.,Regular looking Tree. You can obtain Common-Uncommon Trees.
 UI_LIFE_MASTERY_ORDINALY_ORE,Ore that you can see anywhere. You can obtain Common Ores.,Ore that you can see anywhere. You can obtain Common Ores.
 UI_LIFE_MASTERY_REGULAR_ORE,Regular looking Ore. You can obtain Common-Uncommon Ores.,Regular looking Ore. You can obtain Common-Uncommon Ores.
-UI_PRODUCTION_INGREDIENT,Ingredient,Ingredient
+UI_PRODUCTION_INGREDIENT,Ingredient,Ingrediente
 UI_PRODUCTION_FOOD,Food,Comida
 UI_PRODUCTION_BUFF,Buff,Impulso
-UI_PRODUCTION_DRINK,Drink,Drink
+UI_PRODUCTION_DRINK,Drink,Bebida
 UI_PRODUCTION_REFRESHER,Refresher,Refresco
-UI_PRODUCTION_PILL,Pill,Pill
-UI_PRODUCTION_FURNITURE,Furniture,Furniture
+UI_PRODUCTION_PILL,Pill,Píldora
+UI_PRODUCTION_FURNITURE,Furniture,Mobiliario
 UI_PRODUCTION_ACCESSORY,Accessory,Accesorio
 UI_PRODUCTION_COUPLERING,Couple Ring,Anillo de Pareja
-UI_TOOLTIP_PRODUCTION_CREATOR,Creator: %s,Creator: %s
-UI_TOOLTIP_PRODUCTION_QUALITY,Quality: %s,Quality: %s
-UI_TOOLTIP_BUFF_STACKABLE,Stackable: %dx,Stackable: %dx
-UI_TOOLTIP_TOOL_DURABILITY,Durability: %d/%d,Durability: %d/%d
+UI_TOOLTIP_PRODUCTION_CREATOR,Creator: %s,Creador: %s
+UI_TOOLTIP_PRODUCTION_QUALITY,Quality: %s,Calidad: %s
+UI_TOOLTIP_BUFF_STACKABLE,Stackable: %dx,Apilable: %dx
+UI_TOOLTIP_TOOL_DURABILITY,Durability: %d/%d,Durabilidad: %d/%d
 UI_TOOLTIP_PRODUCTION_GRADE_D,D,D
 UI_TOOLTIP_PRODUCTION_GRADE_C,C,C
 UI_TOOLTIP_PRODUCTION_GRADE_B,B,B
@@ -2678,27 +2678,27 @@ UI_LIFE_MASTERY_PRODUCTION_EXPERT,(Expert) Earn unbound item for Great Success,(
 UI_LIFE_PRODUCTION_STATUS_TIME,Production Time:,Production Time:
 UI_LIFE_PRODUCTION_STATUS_NUMBEROF_ATTEMPTS,Number of Attempts:,Number of Attempts:
 UI_LIFE_PRODUCTION_STATUS_NUMBEROF_SUCCESSES,Number of Successes:,Number of Successes:
-UI_LIFE_PRODUCTION_STATUS_SUCCESS_RATE,Success Rate:,Success Rate:
+UI_LIFE_PRODUCTION_STATUS_SUCCESS_RATE,Success Rate:,Tasa de éxito:
 UI_LIFE_REPRODUCTION_TITLE,Production Upgrade,Production Upgrade
 UI_LIFE_REPRODUCTION_REGISTER_ITEM,Please register the material items.,Please register the material items.
 UI_LIFE_REPRODUCTION_INFO,"You can get a item of higher tier by putting in a certain amount of production items.\nExchange ratio: D:C=10:1, C:B=15:1, B:A=20:1","You can get a item of higher tier by putting in a certain amount of production items.\nExchange ratio: D:C=10:1, C:B=15:1, B:A=20:1"
-UI_LIFE_SHOP_REFRESH_TITLE,Shop Refresh,Shop Refresh
+UI_LIFE_SHOP_REFRESH_TITLE,Shop Refresh,Refrescar Tienda
 UI_LIFE_WANDERING_SHOP_REFRESH_MSG,Would you like to use the Wandering Shop Refresh Ticket to refresh the shop?,Would you like to use the Wandering Shop Refresh Ticket to refresh the shop?
 UI_LIFE_SHOP_REFRESH_BUTTON_TOOLTIP,Use %s to refresh the items,Use %s to refresh the items
 UI_LIFE_MASTERY_RANKING_TITLE,Mastery Rankings,Mastery Rankings
 UI_LIFE_MASTERY_RANKING_RANK,Rank,Rango
 UI_LIFE_MASTERY_RANKING_CHARNAME,Character Name,Nombre del Personaje
 UI_LIFE_MASTERY_RANKING_JOB,Job,Clase
-UI_LIFE_MASTERY_RANKING_POINT,Mastery Points,Mastery Points
+UI_LIFE_MASTERY_RANKING_POINT,Mastery Points,Puntos de maestría
 UI_LIFE_MASTERY_RANKING_CLOSE,Close,Cerrar
-UI_LIFE_MASTERY_RANKING_REWARD_TITLE,Mastery	Ranking Rewards,Mastery	Ranking Rewards
+UI_LIFE_MASTERY_RANKING_REWARD_TITLE,Mastery	Ranking Rewards,Recompensas de clasificación de maestría
 UI_LIFE_MASTERY_RANKING_REWARD_CLAIM_REWARD,Claim Rewards,Reclamar Recompensas
 UI_LIFE_MASTERY_RANKING_REWARD_DESC_ITEM_COUNT,%s x %d,%s x %d
 UI_LIFE_MASTERY_RANKING_REWARD_DESC_TITLE_ITEM_COUNT,"[%s]Title, %s x %d","[%s]Title, %s x %d"
-UI_LIFE_MASTERY_RANKING_REWARD_REWARD,Rewards,Rewards
+UI_LIFE_MASTERY_RANKING_REWARD_REWARD,Rewards,Recompensas
 UI_ACHIEVEMENTS_TITLE_TITLE,Achievement titles,Achievement titles
 UI_ACHIEVEMENTS_INDEPENDENTTITLE_TITLE,Independent titles,Independent titles
-UI_ACHIEVEMENTS_INDEPENDENTTITLE_REMAININGTIME,remaining time : \n%dday(s) %d:%d:%d,remaining time : \n%dday(s) %d:%d:%d
+UI_ACHIEVEMENTS_INDEPENDENTTITLE_REMAININGTIME,remaining time : \n%dday(s) %d:%d:%d,tiempo pendiente : \n%ddía(s) %d:%d:%d
 UI_LIFE_MASTERY_UNIQUE_HERB,Herb with a unique fragrance. You can obtain Common-Rare Herbs.,Herb with a unique fragrance. You can obtain Common-Rare Herbs.
 UI_LIFE_MASTERY_RARE_HERB,Herb that is hard to find. You can obtain Common-Very Rare Herbs.,Herb that is hard to find. You can obtain Common-Very Rare Herbs.
 UI_LIFE_MASTERY_LEGENDARY_HERB,Legendary Herb that only few ever found. You can obtain Rare-Very Rare Herbs.,Legendary Herb that only few ever found. You can obtain Rare-Very Rare Herbs.
@@ -2727,7 +2727,7 @@ UI_CREATENPC_TITLE,Create NPC,Crear NPC
 UI_CREATENPC_AGRESSIVE,Aggressive,Aggressive
 UI_CREATENPC_NOWNER,No Owner,No Owner
 UI_CREATENPC_NOEXPLOSS,No Exp Loss,No Exp Loss
-UI_CREATEITEM_FLAGS,Flags,Flags
+UI_CREATEITEM_FLAGS,Flags,Banderas
 UI_CREATEITEM_TIME,Time (Sec),Tiempo (Seg)
 UI_CREATEITEM_CHARGED,Charged,Cargado
 UI_TOOLTIP_ALCHEMY_SUCCESS_RATE,Alchemy Success Rate,Alchemy Success Rate
@@ -2735,7 +2735,7 @@ UI_TOOLTIP_COOKING_SUCCESS_RATE,Cooking Success Rate,Cooking Success Rate
 UI_TOOLTIP_CARPENTRY_SUCCESS_RATE,Carpentry Success Rate,Carpentry Success Rate
 UI_TOOLTIP_SMITHING_SUCCESS_RATE,Smithing Success Rate,Smithing Success Rate
 UI_HOUSINGSETUP_GATHERING,Gathering,Gathering
-UI_HOUSINGSETUP_NEXTHARVEST,Ready in,Ready in
+UI_HOUSINGSETUP_NEXTHARVEST,Ready in,Listos en
 UI_HOUSINGSETUP_HARVESTREADY,Harvest ready,Harvest ready
 UI_GACHA_HOUSINGGATHERING,Harvest cooltime,Harvest cooltime
 UI_HOUSINGSETUP_HARVESTCOUNT,Harvests count %d/%d,Harvests count %d/%d
@@ -2784,9 +2784,9 @@ UI_DEAD,Dead,Dead
 UI_NOW_SPECTATING,Spectating %s,Spectating %s
 UI_EASTER_EGG_MISSION,Gather Easter Eggs,Gather Easter Eggs
 UI_LIFE_MASTERY_CHROMA_ORE,Ore that you can see anywhere. You can obtain Common Ores.,Ore that you can see anywhere. You can obtain Common Ores.
-UI_TARGET_HEALTH,Health: ,Health: 
+UI_TARGET_HEALTH,Health: ,Salud: 
 UI_TARGET_PENYA,- Penya: ,- Penya: 
-UI_ACHIEVEMENTS_LIFE_TAB,Life,Life
+UI_ACHIEVEMENTS_LIFE_TAB,Life,Vida
 UI_MENU_REFRESH,Refresh,Actualizar
 UI_MENU_MESSAGE,Message,Mensajes
 UI_MENU_SUMMON,Summon,Invocar
@@ -2803,11 +2803,11 @@ UI_MENU_BAN_IP,Ban IP,Ban IP
 UI_MENU_KICK_IP,Kick IP,Kick IP
 UI_MENU_MUTE_SHA,Mute Sha,Mute Sha
 UI_APP_INSPECTION,Inspection,Inspection
-UI_TARGET_PLAYERS_KILLED,- Players killed: ,- Players killed: 
+UI_TARGET_PLAYERS_KILLED,- Players killed: ,- Jugadores asesinados: 
 UI_TARGET_PK_VALUE,- PK Value : ,- PK Value : 
 UI_TARGET_PLAYER_ID,- PlayerID: #,- PlayerID: #
-UI_PUBLISHED_BY,Published by ,Published by 
-UI_ALL_RIGHTS_RESERVED,. All rights reserved.,. All rights reserved.
+UI_PUBLISHED_BY,Published by ,Publicado por 
+UI_ALL_RIGHTS_RESERVED,. All rights reserved.,. Reservados todos los derechos.
 UI_QUEST_DISTANCE_M,m,m
 UI_QUEST_DISTANCE_KM,km,km
 UI_SKILL_MAX,MAX,MAX
@@ -3029,7 +3029,7 @@ UI_WHISPERREFUSE,whisperrefuse,whisperrefuse
 UI_MS,ms,ms
 UI_FPS,FPS,FPS
 UI_DEBUG_2D_OVERLAY,2D overlay,2D overlay
-UI_DEBUG_CURRENT_P,Current player,Current player
+UI_DEBUG_CURRENT_P,Current player,Jugador actual
 UI_DEBUG_OBJS,Objects,Objetos
 UI_DEBUG_SHD,Shadows,Sombras
 UI_DEBUG_TERRAIN,Terrain,Terrain
@@ -3058,10 +3058,10 @@ UI_TITLE_VOLUM_LIGHT_SHD,Volum. Light Shader,Volum. Light Shader
 UI_TITLE_BLOOM_SHD,Bloom Shader,Bloom Shader
 UI_TITLE_FLARE_SHD,Flare Shader,Flare Shader
 UI_TITLE_GENERIC_SHD,Generic,Generic
-UI_GENERIC_1,Setting 1,Setting 1
-UI_GENERIC_2,Setting 2,Setting 2
-UI_GENERIC_3,Setting 3,Setting 3
-UI_GENERIC_4,Setting 4,Setting 4
+UI_GENERIC_1,Setting 1,Configuración 1
+UI_GENERIC_2,Setting 2,Configuración 2
+UI_GENERIC_3,Setting 3,Configuración 3
+UI_GENERIC_4,Setting 4,Configuración 4
 UI_SBX_TIME,Time,Tiempo
 UI_SBX_LIGHT_OFFSET,Light Offset,Light Offset
 UI_SSAO_SHD_STR,Strength,Fuerza
@@ -3069,7 +3069,7 @@ UI_SSAO_SHD_MAX_D,Max Distance,Max Distance
 UI_SSAO_SHD_FALLOFF,Falloff,Falloff
 UI_SSAO_SHD_RADIUS,Radius,Radius
 UI_SSAO_SHD_ALPHA,Alpha,Alfa
-UI_SSAO_SHD_BLURSZ,Blur Size,Blur Size
+UI_SSAO_SHD_BLURSZ,Blur Size,Desenfoque de Tamaño
 UI_SSAO_SHD_BLURSAMPLE,Blur Samples,Blur Samples
 UI_BLOOM_SHD_SATUR,Saturation,Saturation
 UI_FLARE_SHD_DISTORTSIZE,Distortion Size,Distortion Size
@@ -3080,7 +3080,7 @@ UI_ATTR_LANDSCAPE,Landscapes: ,Landscapes:
 UI_ATTR_PING,Ping: ,Ping: 
 UI_ATTR_FPS,FPS: ,FPS: 
 UI_CCU,CCU,CCU
-UI_APP_ACCOUNT_TIP,Manage your account,Manage your account
+UI_APP_ACCOUNT_TIP,Manage your account,Administra tu cuenta
 UI_3RD_ANNIV_PASS,3rd Anniversary Pass,3rd Anniversary Pass
 UI_BATTLEPASS_REPEAT,Repeat,Repeat
 UI_UPGRADE_FAILURE_PROB,Failure: #b%s#nb,Failure: #b%s#nb
@@ -3091,13 +3091,13 @@ UI_QUEST_CONSUMABLE_ITEM_COUNT,Number of Consumption Items Usage #cffc32f07#b%d/
 UI_ACHIEVEMENTS_REWARD_STATUE,Personal statue created,Personal statue created
 UI_FORCEWEEKLYLIFESTYLERESET,forceweeklylifestylereset,forceweeklylifestylereset
 UI_SHOP_REFRESH_IN,Refresh in,Actualizar en
-UI_DAYS_MON,Mon,Mon
-UI_DAYS_TUE,Tue,Tue
-UI_DAYS_WED,Wed,Wed
-UI_DAYS_THU,Thu,Thu
-UI_DAYS_FRI,Fri,Fri
-UI_DAYS_SAT,Sat,Sat
-UI_DAYS_SUN,Sun,Sun
+UI_DAYS_MON,Mon,lun
+UI_DAYS_TUE,Tue,mar
+UI_DAYS_WED,Wed,miérc.
+UI_DAYS_THU,Thu,jue
+UI_DAYS_FRI,Fri,vie
+UI_DAYS_SAT,Sat,sáb
+UI_DAYS_SUN,Sun,dom
 UI_SEARCHPARTY_LEVEL,Lv.,Nv.
 UI_RANKING_UNIT1,st,st
 UI_RANKING_UNIT2,nd,nd
@@ -3107,7 +3107,7 @@ UI_KALGAS_BLACK,Black,Negra
 UI_KALGAS_WHITE,White,Blanca
 UI_KALGAS_TEAM,Team,Equipo
 UI_WARDROBE_NONE,None,Ninguno
-UI_ACHIEVEMENT_SLOTS_N,slot(s),slot(s)
+UI_ACHIEVEMENT_SLOTS_N,slot(s),ranura(s)
 UI_STATUS_LEVEL,Lv.%d,Lv.%d
 UI_BOSSRAID_JOIN_TITLE,Enter Boss Raid Area,Enter Boss Raid Area
 UI_BOSSRAID_JOIN_CONFIRM,Do you want to join the Boss Raid?,Do you want to join the Boss Raid?
