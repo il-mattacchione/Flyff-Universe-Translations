@@ -1411,7 +1411,7 @@ TEXTCLIENT_COUPLE_MOTION_REFUSE,Your partner refused to perform the motion.,Your
 TEXTCLIENT_COUPLE_MOTION_RANGE,You are too far away from each other to perform this motion.,You are too far away from each other to perform this motion.
 TEXTCLIENT_APP_LIFE,Life,Vida
 TEXTCLIENT_GATHERING_EQUIP,You need to equip a(n) %s.,Necesitas equipar un %s.
-TEXTCLIENT_GATHERING_EQUIP_CHECK,Please check the correct tool.,Por favor verifique la herramienta correcto.
+TEXTCLIENT_GATHERING_EQUIP_CHECK,Please check the correct tool.,Por favor verifique la herramienta correcta.
 TEXTCLIENT_GATHERING_FAIL,Gathering failed.,Gathering failed.
 TEXTCLIENT_GATHERING_HOE,hoe,hoe
 TEXTCLIENT_GATHERING_AXE,axe,axe
