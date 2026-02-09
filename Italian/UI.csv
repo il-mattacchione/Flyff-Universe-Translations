@@ -2486,7 +2486,7 @@ UI_MATOURNAMENT_REWARD_GRADE_FINAL16,Round of 16,Round of 16
 UI_MATOURNAMENT_REWARD_GRADE_PARTICIPATION,Participation,Participation
 UI_MATOURNAMENT_REWARD_TITLE,Madrigal Tournament Reward,Madrigal Tournament Reward
 UI_MATOURNAMENT_REGISTRATION_MINLEVEL,Min Player Lv.,Min Player Lv.
-UI_MSGBOX_RECIEVE,Receive,Ricevere
+UI_MSGBOX_RECIEVE,Receive,Ricevi
 UI_MATOURNAMENT_RANKING_CALENDAR_INFO,"This window contains information about your Madrigal Tournament matches and participation history. You can see information for the last four weeks, including the current week.\nYou can click on a date to see details about that day's battles.","This window contains information about your Madrigal Tournament matches and participation history. You can see information for the last four weeks, including the current week.\nYou can click on a date to see details about that day's battles."
 UI_MATOURNAMENT_RANKING_TOP50_INFO,"This window contains information about Madrigal Tournament's Matches and Rankings.\nIf only one team is listed in the qualifiers, it means that they will be forfeited due to lack of opponents.","This window contains information about Madrigal Tournament's Matches and Rankings.\nIf only one team is listed in the qualifiers, it means that they will be forfeited due to lack of opponents."
 UI_MATOURNAMENT_RANKING_TOURNAMENT_INFO,"This window contains information about Madrigal Tournament Matches and Rankings. If only one team is listed in the qualifiers, it means that they will be forfeited due to lack of opponents.","This window contains information about Madrigal Tournament Matches and Rankings. If only one team is listed in the qualifiers, it means that they will be forfeited due to lack of opponents."
