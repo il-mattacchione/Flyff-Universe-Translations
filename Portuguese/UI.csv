@@ -1595,16 +1595,16 @@ UI_LEVELREACH,Level Reach,Level Reach
 UI_LEVELREACH_DESC,"Reach new levels during the event period and receive rewards! The number of rewards is limited per level so hurry up. First come, first served!","Atinja novos níveis durante o período do evento e ganhe recompensas! As recompensas são limitadas por nível, então seja rápido. A distribuição é feita por ordem de chegada!"
 UI_LEVELREACH_LVL01,Level 1,Nível 1
 UI_LEVELREACH_LVL02,Level 2,Nível 2
-UI_LEVELREACH_LVL15,Level 15,Level 15
+UI_LEVELREACH_LVL15,Level 15,Nivel 15
 UI_LEVELREACH_LVL16,Level 16,Nível 16
 UI_LEVELREACH_LVL20,Level 20,Nível 20
-UI_LEVELREACH_LVL30,Level 30,Level 30
+UI_LEVELREACH_LVL30,Level 30,Nivel 30
 UI_LEVELREACH_LVL40,Level 40,Nível 40
-UI_LEVELREACH_LVL45,Level 45,Level 45
+UI_LEVELREACH_LVL45,Level 45,Nivel 45
 UI_LEVELREACH_LVL60,Level 60,Nível 60
 UI_LEVELREACH_LVL80,Level 80,Nível 80
 UI_LEVELREACH_LVL100,Level 100,Nível 100
-UI_LEVELREACH_LVL110,Level 110,Level 110
+UI_LEVELREACH_LVL110,Level 110,Nivel 110
 UI_LEVELREACH_LVL120,Level 120,Nível 120
 UI_LEVELREACH_LVL125,Level 125,Nível 125
 UI_LEVELREACH_LVL126,Level 126,Nível 126
@@ -1625,19 +1625,19 @@ UI_LEVELREACH_LVL154,Level 154,Nível 154
 UI_LEVELREACH_LVL156,Level 156,Nível 156
 UI_LEVELREACH_LVL158,Level 158,Nível 158
 UI_LEVELREACH_LVL160,Level 160,Nível 160
-UI_LEVELREACH_LVL161,Level 161,Level 161
-UI_LEVELREACH_LVL162,Level 162,Level 162
-UI_LEVELREACH_LVL163,Level 163,Level 163
-UI_LEVELREACH_LVL164,Level 164,Level 164
-UI_LEVELREACH_LVL165,Level 165,Level 165
-UI_LEVELREACH_LVL169,Level 169,Level 169
-UI_LEVELREACH_LVL172,Level 172,Level 172
-UI_LEVELREACH_LVL175,Level 175,Level 175
-UI_LEVELREACH_LVL178,Level 178,Level 178
-UI_LEVELREACH_LVL181,Level 181,Level 181
-UI_LEVELREACH_LVL184,Level 184,Level 184
-UI_LEVELREACH_LVL187,Level 187,Level 187
-UI_LEVELREACH_LVL190,Level 190,Level 190
+UI_LEVELREACH_LVL161,Level 161,Nivel 161
+UI_LEVELREACH_LVL162,Level 162,Nivel 162
+UI_LEVELREACH_LVL163,Level 163,Nivel 163
+UI_LEVELREACH_LVL164,Level 164,Nivel 164
+UI_LEVELREACH_LVL165,Level 165,Nivel 165
+UI_LEVELREACH_LVL169,Level 169,Nivel 169
+UI_LEVELREACH_LVL172,Level 172,Nivel 172
+UI_LEVELREACH_LVL175,Level 175,Nivel 175
+UI_LEVELREACH_LVL178,Level 178,Nivel 178
+UI_LEVELREACH_LVL181,Level 181,Nivel 181
+UI_LEVELREACH_LVL184,Level 184,Nivel 184
+UI_LEVELREACH_LVL187,Level 187,Nivel 187
+UI_LEVELREACH_LVL190,Level 190,Nivel 190
 UI_GIANTHUNTING,Giant Hunting,Caça aos Gigantes
 UI_WORLDCUP,GET'EM B'ALL,⚽ GET'EM B'ALL ⚽
 UI_WORLDCUP_TITLE,GET'EM B'ALL Scoreboard,Placar do GET'EM B'ALL
@@ -2220,13 +2220,13 @@ UI_KALGAS_ASSAULT_ENTERTIME_DESC,Do you want to enter the Kalgas Assault?\n\nTim
 UI_KALGAS_ASSAULT_REGISTRATIONTIME_DESC,Can't enter yet Kalgas Assault.\n\nEntry Star: %02d:%02d:%02d,Can't enter yet Kalgas Assault.\n\nEntry Star: %02d:%02d:%02d
 UI_KALGAS_ASSAULT_LATE_DESC,Todays Kalgas Assault is already start.,Todays Kalgas Assault is already start.
 UI_KALGAS_ASSAULT_REG_DESC,"#cff0000ffRegistration#nc\nTime until registration:\n %s \nTime until entry:\n %s \nMinimum Level: %d\n\nCurrent number of registered players: %d\n\n※ Only users who have registered for Kalgas Assault can participate.\n※ You will not be able to enter after the time limit has passed.\n※ Maximum 200 players per an instance (100 vs 100)\n※ The minimum number of players for ranking rewards is 20 or more, and if there are less than 20 players, only the winner reward will be given.\n※ Teams will be randomly selected.","#cff0000ffRegistration#nc\nTime until registration:\n %s \nTime until entry:\n %s \nMinimum Level: %d\n\nCurrent number of registered players: %d\n\n※ Only users who have registered for Kalgas Assault can participate.\n※ You will not be able to enter after the time limit has passed.\n※ Maximum 200 players per an instance (100 vs 100)\n※ The minimum number of players for ranking rewards is 20 or more, and if there are less than 20 players, only the winner reward will be given.\n※ Teams will be randomly selected."
-UI_SUN,Sunday,Sunday
-UI_MON,Monday,Monday
-UI_TUE,Tuesday,Tuesday
-UI_WED,Wednesday,Wednesday
-UI_THU,Thursday,Thursday
-UI_FRI,Friday,Friday
-UI_SAT,Saturday,Saturday
+UI_SUN,Sunday,domingo
+UI_MON,Monday,segunda-feira
+UI_TUE,Tuesday,terça-feira
+UI_WED,Wednesday,quarta-feira
+UI_THU,Thursday,quinta-feira
+UI_FRI,Friday,sexta-feira
+UI_SAT,Saturday,sábado
 UI_KALGAS_ASSAULT_INFO_TITLE,Kalgas Assault Information,Kalgas Assault Information
 UI_KALGAS_ASSAULT_REGISTRATION_TITLE,Kalgas Assault Registration,Kalgas Assault Registration
 UI_KALGAS_ASSAULT_REGISTER,Registration,Registration
@@ -2421,15 +2421,15 @@ UI_EVENT_HALLOWEEN_2024,Halloween Pumpkin Hunt,Halloween Pumpkin Hunt
 UI_PUMPKIN_HUNT,Halloween Pumpkin Hunt,Halloween Pumpkin Hunt
 UI_PUMPKIN_HUNT_REWARD_TITLE,Completion Reward,Completion Reward
 UI_PUMPKIN_HUNT_DESC,Pumpkins Destroyed,Pumpkins Destroyed
-UI_SEARCHSHOP_PLAYERNAME,Player Name,Player Name
+UI_SEARCHSHOP_PLAYERNAME,Player Name,Nome do Jogo
 UI_PVPCONTEST_MANUALMATCH_TITLE,PVP Manual Match,PVP Manual Match
 UI_PVPCONTEST_MANUALMATCH_PLAYERNAME,Name,Nome
 UI_PVPCONTEST_MANUALMATCH_INVITE1,Invite to Team 1,Invite to Team 1
 UI_PVPCONTEST_MANUALMATCH_INVITE2,Invite to Team 2,Invite to Team 2
 UI_PVPCONTEST_MANUALMATCH_INVITE3,Invite to Observers,Invite to Observers
-UI_PVPCONTEST_MANUALMATCH_START,Start Match,Start Match
-UI_PVPCONTEST_MANUALMATCH_TEAM1,Team 1,Team 1
-UI_PVPCONTEST_MANUALMATCH_TEAM2,Team 2,Team 2
+UI_PVPCONTEST_MANUALMATCH_START,Start Match,Iniciar Partida
+UI_PVPCONTEST_MANUALMATCH_TEAM1,Team 1,Equipe 1
+UI_PVPCONTEST_MANUALMATCH_TEAM2,Team 2,Equipe 2
 UI_PVPCONTEST_MANUALMATCH_OBSERVERS,Observers,Observers
 UI_PVPCONTEST_MANUALMATCH_READY,Ready,Ready
 UI_BATTLEPASS_BONUS,Bonus,Bônus
@@ -2452,8 +2452,8 @@ UI_MATOURNAMENT_DAILY_RESULT_TYPE,Type : %s,Type : %s
 UI_MATOURNAMENT_DAILY_RESULT_OTHERTEAM,Other Team : %s,Other Team : %s
 UI_MATOURNAMENT_DAILY_RESULT_PLAYTIME,Play Time : %s,Play Time : %s
 UI_MATOURNAMENT_DAILY_RESULT_RESULT,Result : %s,Result : %s
-UI_MATOURNAMENT_CALENDAR_TODAY,(Today),(Today)
-UI_MATOURNAMENT_WEEK_RESULT_NONE,NONE,NONE
+UI_MATOURNAMENT_CALENDAR_TODAY,(Today),(Hoje)
+UI_MATOURNAMENT_WEEK_RESULT_NONE,NONE,NENHUM
 UI_MATOURNAMENT_WEEK_RESULT_REGISTRATION,REG,REG
 UI_MATOURNAMENT_WEEK_RESULT_PRELIMINARY,PRE,PRE
 UI_MATOURNAMENT_WEEK_RESULT_FINAL16,FINAL 16,FINAL 16
@@ -2494,7 +2494,7 @@ UI_MATOURNAMENT_BETTING_TITLE,Madrigal Tournament Bidding,Madrigal Tournament Bi
 UI_MATOURNAMENT_BETTING_DESC,"You can bid and view the bidding ranking for the Madrigal Tournament.\nYou can only bid on one team but you can add additional Penyas to bid if you wish.\nBids will close on %s %s, and will show the amount you will receive when your bidding is successful.","You can bid and view the bidding ranking for the Madrigal Tournament.\nYou can only bid on one team but you can add additional Penyas to bid if you wish.\nBids will close on %s %s, and will show the amount you will receive when your bidding is successful."
 UI_MATOURNAMENT_BETTING_RANK,Rank,Rank
 UI_MATOURNAMENT_BETTING_GOLD,Penya,Penya
-UI_MATOURNAMENT_BETTING_DATE,Last Date,Last Date
+UI_MATOURNAMENT_BETTING_DATE,Last Date,Última data
 UI_MATOURNAMENT_BETTING_WARNING,Are you sure you want to bet on this team?,Are you sure you want to bet on this team?
 UI_MATOURNAMENT_BETTING_BETTINGGOLD,Betting Penya,Betting Penya
 UI_MATOURNAMENT_BETTING_NOREWARD,None,Nada
@@ -2577,7 +2577,7 @@ UI_COUPLE_MOTION_TITLE,Couple Motion,Couple Motion
 UI_COUPLE_MOTION_REQUEST,Your partner is requesting the %s motion. Do you accept?,Your partner is requesting the %s motion. Do you accept?
 UI_APP_LIFE_TIP,Opens life contents window.,Opens life contents window.
 UI_LIFE_GATHERING_TAB,Gathering,Gathering
-UI_LIFE_PRODUCTION_TAB,Production,Production
+UI_LIFE_PRODUCTION_TAB,Production,Produção
 UI_LIFE_TITLE,Life,Life
 UI_LIFE_MASTERY_EFFECT,Mastery Effect,Mastery Effect
 UI_LIFE_IDENTIFIED_HARVESTING,Identified Harvesting,Identified Harvesting
@@ -2610,19 +2610,19 @@ UI_TIMES,%d time(s),%d time(s)
 UI_LIFE_FISHING_STATUS,Fishing Status,Fishing Status
 UI_WAITING,Waiting,Waiting
 UI_LIFE_RECIPEBTN,See related recipes,See related recipes
-UI_LIFE_RECIPES,Recipes,Recipes
-UI_LIFE_RECIPES_CATEGORY,Category,Category
-UI_LIFE_RECIPES_DETAILS,Details,Details
-UI_LIFE_RECIPES_NOSELECTED,No recipe selected,No recipe selected
+UI_LIFE_RECIPES,Recipes,Receitas
+UI_LIFE_RECIPES_CATEGORY,Category,Categoria
+UI_LIFE_RECIPES_DETAILS,Details,Detalhes
+UI_LIFE_RECIPES_NOSELECTED,No recipe selected,Nenhuma receita selecionada
 UI_LIFE_RECIPES_TEXT_INFO,Required Mastery: %d\nRequired Title: [%s]\nRequired\nIngredients:,Required Mastery: %d\nRequired Title: [%s]\nRequired\nIngredients:
 UI_LIFE_RECIPES_TEXT_INFO_NOTITLE,Required Mastery: %d\nRequired Title: \nRequired\nIngredients:,Required Mastery: %d\nRequired Title: \nRequired\nIngredients:
-UI_LIFE_PRODUCTION_TITLE,Production,Production
+UI_LIFE_PRODUCTION_TITLE,Production,Produção
 UI_LIFE_PRODUCTION_SUCCESS_RATE,Success rate,Success rate
 UI_LIFE_PRODUCTION_TIME,Production time per cycle,Production time per cycle
 UI_LIFE_PRODUCTION_REQUIREMENTS,Required Mastery: %d\nRequired Title: [%s],Required Mastery: %d\nRequired Title: [%s]
 UI_LIFE_PRODUCTION_REQUIREMENTS_NOTITLE,Required Mastery: %d\nRequired Title: ,Required Mastery: %d\nRequired Title: 
 UI_LIFE_RECIPE_CATEGORY_0,Ingredient,Ingredient
-UI_LIFE_RECIPE_CATEGORY_1,Drink,Drink
+UI_LIFE_RECIPE_CATEGORY_1,Drink,Bebida
 UI_LIFE_RECIPE_CATEGORY_2,Pill,Pill
 UI_ALL,All,Todos
 UI_LIFE_PRODUCTION_INFORMATION,"Add material items to produce. If no recipe is selected, a hidden recipe will be attempted. When producing randomly, only one production attempt will be made.","Add material items to produce. If no recipe is selected, a hidden recipe will be attempted. When producing randomly, only one production attempt will be made."
@@ -2638,7 +2638,7 @@ UI_LIFE_MASTERY_REGULAR_ORE,Regular looking Ore. You can obtain Common-Uncommon 
 UI_PRODUCTION_INGREDIENT,Ingredient,Ingredient
 UI_PRODUCTION_FOOD,Food,Alimentos
 UI_PRODUCTION_BUFF,Buff,Buffs
-UI_PRODUCTION_DRINK,Drink,Drink
+UI_PRODUCTION_DRINK,Drink,Bebida
 UI_PRODUCTION_REFRESHER,Refresher,Refresher
 UI_PRODUCTION_PILL,Pill,Pill
 UI_PRODUCTION_FURNITURE,Furniture,Furniture
@@ -2718,17 +2718,17 @@ UI_QUEST_PRODUCTION_COOKING,Cooking. #cffc32f07#b%d/%d#nb#nc,Cooking. #cffc32f07
 UI_QUEST_PRODUCTION_ALCHEMY,Alchemy. #cffc32f07#b%d/%d#nb#nc,Alchemy. #cffc32f07#b%d/%d#nb#nc
 UI_QUEST_PRODUCTION_CARPENTRY,Carpentry. #cffc32f07#b%d/%d#nb#nc,Carpentry. #cffc32f07#b%d/%d#nb#nc
 UI_QUEST_PRODUCTION_SMITHING,Smithing. #cffc32f07#b%d/%d#nb#nc,Smithing. #cffc32f07#b%d/%d#nb#nc
-UI_CHAT_COPYNAME,Copy name,Copy name
+UI_CHAT_COPYNAME,Copy name,Copiar nome
 UI_RAINBOWRACE_WRONG_CHANNEL_1,The Rainbow Race will begin in %d minutes.\nYou cannot participate in the Rainbow Race in the current channel.\n\nPlease enter through the NPC Rainbow Race Officer located in %s Darken.\n\nPressing the OK button will move you to %s.,The Rainbow Race will begin in %d minutes.\nYou cannot participate in the Rainbow Race in the current channel.\n\nPlease enter through the NPC Rainbow Race Officer located in %s Darken.\n\nPressing the OK button will move you to %s.
 UI_RAINBOWRACE_WRONG_CHANNEL_2,The Rainbow Race will begin in %d minutes.\nYou cannot participate in the Rainbow Race in the current channel.\n\nPressing the OK button will move you to %s.,The Rainbow Race will begin in %d minutes.\nYou cannot participate in the Rainbow Race in the current channel.\n\nPressing the OK button will move you to %s.
 UI_RAINBOWRACE_WRONG_CHANNEL_3,The Rainbow Race has started.\nYou cannot participate in the Rainbow Race in the current channel.\n\nPressing the OK button will move you to %s.,The Rainbow Race has started.\nYou cannot participate in the Rainbow Race in the current channel.\n\nPressing the OK button will move you to %s.
 UI_RAINBOWRACE_ENTER_CONFIRM,Would you like to enter the Rainbow Race?,Would you like to enter the Rainbow Race?
-UI_CREATENPC_TITLE,Create NPC,Create NPC
+UI_CREATENPC_TITLE,Create NPC,Criar NPC
 UI_CREATENPC_AGRESSIVE,Aggressive,Aggressive
 UI_CREATENPC_NOWNER,No Owner,No Owner
 UI_CREATENPC_NOEXPLOSS,No Exp Loss,No Exp Loss
 UI_CREATEITEM_FLAGS,Flags,Flags
-UI_CREATEITEM_TIME,Time (Sec),Time (Sec)
+UI_CREATEITEM_TIME,Time (Sec),Tempo (Seg)
 UI_CREATEITEM_CHARGED,Charged,O Insano
 UI_TOOLTIP_ALCHEMY_SUCCESS_RATE,Alchemy Success Rate,Alchemy Success Rate
 UI_TOOLTIP_COOKING_SUCCESS_RATE,Cooking Success Rate,Cooking Success Rate
@@ -3223,7 +3223,7 @@ UI_JEWELSYNTHESIS_SELECT,Select batch synthesis target tier,Select batch synthes
 UI_JEWELSYNTHESIS_CONFIRM,Jewels used as materials will be removed when synthesized. Are you sure you want to run the synthesis?,Jewels used as materials will be removed when synthesized. Are you sure you want to run the synthesis?
 UI_JEWELSYNTHESIS_BATCH,Here's what you can expect to get from the jewel batch synthesis feature.\n#cff00b0f0%s#nc\n#cffff0000Penya Cost: %s#nc\nDo you want to proceed with batch jewel synthesis?,Here's what you can expect to get from the jewel batch synthesis feature.\n#cff00b0f0%s#nc\n#cffff0000Penya Cost: %s#nc\nDo you want to proceed with batch jewel synthesis?
 UI_JEWELSYNTHESIS_JEWEL,Tier %d Jewel: %d,Tier %d Jewel: %d
-UI_TOOLTIP_SWD,Sword,Sword
+UI_TOOLTIP_SWD,Sword,Espada
 UI_TOOLTIP_AXE,Axe,Axe
 UI_TOOLTIP_CHE,Stick,Stick
 UI_TOOLTIP_KNU,Knuckle,Knuckle
@@ -3247,7 +3247,7 @@ UI_TOOLTIP_REQ_SKILLSTACKS,%s Stacks: %d,%s Stacks: %d
 UI_OPTION_QUICKCAST,Quick Cast,Quick Cast
 UI_TOOLTIP_DST_FM_AURA_EFF,Forcemaster Aura Effect,Forcemaster Aura Effect
 UI_DUNGEONTIMERECAP_TITLE,Dungeon Recap,Dungeon Recap
-UI_DUNGEONTIMERECAP_TIME,Time:,Time:
+UI_DUNGEONTIMERECAP_TIME,Time:,Tempo:
 UI_DUNGEONTIMERECAP_CLOSE,Close,Fechar
 UI_DUNGEONTIMERECAP_HELP_1,"You become Gold Tier if you reach the boss room within %d minutes. In the Gold Tier, the strongest boss appears.","You become Gold Tier if you reach the boss room within %d minutes. In the Gold Tier, the strongest boss appears."
 UI_DUNGEONTIMERECAP_HELP_2,"You become Silver Tier if you reach the boss room between %d to %d minutes. In the Silver Tier, a stronger version of the normal boss appears.","You become Silver Tier if you reach the boss room between %d to %d minutes. In the Silver Tier, a stronger version of the normal boss appears."
