@@ -17224,7 +17224,7 @@ PROPITEM_TXT_800140,Gives +80 Attack Power when applied to a ultimate weapon. Ca
 PROPITEM_TXT_800141,Gives +90 Attack Power when applied to a ultimate weapon. Can only be attached once.,Donne +90 Puissance d’Attaque lorsqu’appliqué à une arme ultime. Ne peut être attaché qu’une seule fois.
 PROPITEM_TXT_800142,Gives +100 Attack Power when applied to a ultimate weapon. Can only be attached once.,Donne +100 Puissance d’Attaque lorsqu’appliqué à une arme ultime. Ne peut être attaché qu’une seule fois.
 PROPITEM_TXT_800143,Jewel Tweezers,Pince à Joyaux
-PROPITEM_TXT_800144,You can get the attached jewel without destruction.,Vous pouvez récupérer le bijou attaché sans destruction.
+PROPITEM_TXT_800144,You can get the attached jewel without destruction.,Vous pouvez récupérer le Joyau attaché sans destruction.
 PROPITEM_TXT_800145,Rune of Increasing HP,Runes d’Augmentation de PV
 PROPITEM_TXT_800146,Rune of Increasing MP,Runes d’Augmentation de PM
 PROPITEM_TXT_800147,Rune of Increasing FP,Runes d’Augmentation de PF
@@ -17266,38 +17266,38 @@ PROPITEM_TXT_800182,Shining Emerald Piece,Morceau d’Émeraude Brillante
 PROPITEM_TXT_800183,Shining Diamond Piece,Morceau de Diamant Brillant
 PROPITEM_TXT_800184,Shining Amethyst Piece,Morceau d’Améthyste Brillante
 PROPITEM_TXT_800185,Shining Onyx Piece,Morceau d’Onyx Brillant
-PROPITEM_TXT_800186,It's a piece where you can get a complete jewel if you collect and process 10 pieces.,C’est un morceau qui permet d’obtenir un bijou complet si vous collectez et traitez 10 morceaux.
-PROPITEM_TXT_800187,Ultimate Jewel Box,Boîte de Bijoux Ultime
-PROPITEM_TXT_800188,"This box contains various ultimate jewels, runes, and pieces that can be added to an ultimate weapon. You can make a complete jewel by processing 10 individual pieces.","Cette boîte contient divers bijoux ultimes, runes et morceaux pouvant être ajoutés à une arme ultime. Vous pouvez créer un bijou complet en traitant 10 morceaux individuels."
+PROPITEM_TXT_800186,It's a piece where you can get a complete jewel if you collect and process 10 pieces.,C’est un morceau qui permet d’obtenir un Joyaux complet si vous collectez et traitez 10 morceaux.
+PROPITEM_TXT_800187,Ultimate Jewel Box,Boîte de Joyaux Ultime
+PROPITEM_TXT_800188,"This box contains various ultimate jewels, runes, and pieces that can be added to an ultimate weapon. You can make a complete jewel by processing 10 individual pieces.","Cette boîte contient divers Joyaux ultimes, runes et morceaux pouvant être ajoutés à une arme ultime. Vous pouvez créer un bijou complet en traitant 10 morceaux individuels."
 PROPITEM_TXT_800189,Advanced Mana Stone,Pierre de Mana Avancée
-PROPITEM_TXT_800190,Recovers between 1 and 3 jewels if fusion fails.,Récupère entre 1 et 3 bijoux si la fusion échoue.
+PROPITEM_TXT_800190,Recovers between 1 and 3 jewels if fusion fails.,Récupère entre 1 et 3 Joyaux si la fusion échoue.
 PROPITEM_TXT_800191,Mana Stone,Pierre de Mana
-PROPITEM_TXT_800192,Recovers all the jewel pieces if creation fails.,Récupère tous les morceaux de bijoux si la création échoue.
+PROPITEM_TXT_800192,Recovers all the jewel pieces if creation fails.,Récupère tous les morceaux de Joyaux si la création échoue.
 PROPITEM_TXT_800193,[Personal House NPC] Klock,[PNJ Maison Personnelle] Klock
 PROPITEM_TXT_800194,"This NPC will grant you the following bonus when placed on the Personal House: Ultimate Jewel features.\nEarn that jewel with a 30% chance of removing Ultimate Jewel.\nUltimate Jewelry Manufacture, Compose Success Rate Increased","Ce PNJ vous accorde les bonus suivants lorsqu’il est placé dans la Maison Personnelle :\n• Chance de 30 % d’obtenir un joyau Ultime.\n• Fabrication de Joyaux Ultime : taux de réussite augmenté. Chance d'équiper le même joyau ultime +10%."
-PROPITEM_TXT_800195,Ultimate Jewel Gemstone,Gemme de Bijou Ultime
-PROPITEM_TXT_800196,First-grade jewels and jewel pieces can be extracted from this gemstone.,Des bijoux de premier grade et des morceaux de bijoux peuvent être extraits de cette gemme.
+PROPITEM_TXT_800195,Ultimate Jewel Gemstone,Gemme de Joyau Ultime
+PROPITEM_TXT_800196,First-grade jewels and jewel pieces can be extracted from this gemstone.,Des Joyaux de premier grade et des morceaux de Joyaux peuvent être extraits de cette gemme.
 PROPITEM_TXT_800197,Cutting Knife,Couteau de Découpe
-PROPITEM_TXT_800198,Guarantees the success of extracting jewel pieces or first-grade jewels from a gemstone.,Garantit le succès de l’extraction des morceaux de bijoux ou des bijoux de premier grade d’une gemme.
-PROPITEM_TXT_800199,Rainbow Jewel (1),Bijou Arc-en-ciel (1)
+PROPITEM_TXT_800198,Guarantees the success of extracting jewel pieces or first-grade jewels from a gemstone.,Garantit le succès de l’extraction des morceaux de Joyaux ou des Joyaux de premier grade d’une gemme.
+PROPITEM_TXT_800199,Rainbow Jewel (1),Joyau Arc-en-ciel (1)
 PROPITEM_TXT_800200,Gives +1 All stat when applied to a ultimate weapon. Can only be attached once.,Donne +1 à toutes les stats lorsqu’appliqué à une arme ultime. Ne peut être attaché qu’une seule fois.
-PROPITEM_TXT_800201,Rainbow Jewel (2),Bijou Arc-en-ciel (2)
+PROPITEM_TXT_800201,Rainbow Jewel (2),Joyau Arc-en-ciel (2)
 PROPITEM_TXT_800202,Gives +2 All stat when applied to a ultimate weapon. Can only be attached once.,Donne +2 à toutes les stats lorsqu’appliqué à une arme ultime. Ne peut être attaché qu’une seule fois.
-PROPITEM_TXT_800203,Rainbow Jewel (3),Bijou Arc-en-ciel (3)
+PROPITEM_TXT_800203,Rainbow Jewel (3),Joyau Arc-en-ciel (3)
 PROPITEM_TXT_800204,Gives +3 All stat when applied to a ultimate weapon. Can only be attached once.,Donne +3 à toutes les stats lorsqu’appliqué à une arme ultime. Ne peut être attaché qu’une seule fois.
-PROPITEM_TXT_800205,Rainbow Jewel (4),Bijou Arc-en-ciel (4)
+PROPITEM_TXT_800205,Rainbow Jewel (4),Joyau Arc-en-ciel (4)
 PROPITEM_TXT_800206,Gives +4 All stat when applied to a ultimate weapon. Can only be attached once.,Donne +4 à toutes les stats lorsqu’appliqué à une arme ultime. Ne peut être attaché qu’une seule fois.
-PROPITEM_TXT_800207,Rainbow Jewel (5),Bijou Arc-en-ciel (5)
+PROPITEM_TXT_800207,Rainbow Jewel (5),Joyau Arc-en-ciel (5)
 PROPITEM_TXT_800208,Gives +5 All stat when applied to a ultimate weapon. Can only be attached once.,Donne +5 à toutes les stats lorsqu’appliqué à une arme ultime. Ne peut être attaché qu’une seule fois.
-PROPITEM_TXT_800209,Rainbow Jewel (6),Bijou Arc-en-ciel (6)
+PROPITEM_TXT_800209,Rainbow Jewel (6),Joyau Arc-en-ciel (6)
 PROPITEM_TXT_800210,Gives +6 All stat when applied to a ultimate weapon. Can only be attached once.,Donne +6 à toutes les stats lorsqu’appliqué à une arme ultime. Ne peut être attaché qu’une seule fois.
-PROPITEM_TXT_800211,Rainbow Jewel (7),Bijou Arc-en-ciel (7)
+PROPITEM_TXT_800211,Rainbow Jewel (7),Joyau Arc-en-ciel (7)
 PROPITEM_TXT_800212,Gives +7 All stat when applied to a ultimate weapon. Can only be attached once.,Donne +7 à toutes les stats lorsqu’appliqué à une arme ultime. Ne peut être attaché qu’une seule fois.
-PROPITEM_TXT_800213,Rainbow Jewel (8),Bijou Arc-en-ciel (8)
+PROPITEM_TXT_800213,Rainbow Jewel (8),Joyau Arc-en-ciel (8)
 PROPITEM_TXT_800214,Gives +8 All stat when applied to a ultimate weapon. Can only be attached once.,Donne +8 à toutes les stats lorsqu’appliqué à une arme ultime. Ne peut être attaché qu’une seule fois.
-PROPITEM_TXT_800215,Rainbow Jewel (9),Bijou Arc-en-ciel (9)
+PROPITEM_TXT_800215,Rainbow Jewel (9),Joyau Arc-en-ciel (9)
 PROPITEM_TXT_800216,Gives +9 All stat when applied to a ultimate weapon. Can only be attached once.,Donne +9 à toutes les stats lorsqu’appliqué à une arme ultime. Ne peut être attaché qu’une seule fois.
-PROPITEM_TXT_800217,Rainbow Jewel (10),Bijou Arc-en-ciel (10)
+PROPITEM_TXT_800217,Rainbow Jewel (10),Joyau Arc-en-ciel (10)
 PROPITEM_TXT_800218,Gives +10 All stat when applied to a ultimate weapon. Can only be attached once.,Donne +10 à toutes les stats lorsqu’appliqué à une arme ultime. Ne peut être attaché qu’une seule fois.
 PROPITEM_TXT_801000,Scroll of Pet Inventory (Character House),Parchemin d’Inventaire de Compagnon (Maison du Personnage)
 PROPITEM_TXT_801001,Using this scroll will increase your maximum character house pet inventory slots by 1!,L’utilisation de ce parchemin augmentera de 1 le nombre maximum de slots pour les compagnons de la maison du personnage !
@@ -17354,9 +17354,9 @@ PROPITEM_TXT_140047,Fall World Template (S),Modèle Monde Automne (S)
 PROPITEM_TXT_140048,Fall World Template (M),Modèle Monde Automne (M)
 PROPITEM_TXT_140049,Fall World Template (L),Modèle Monde Automne (L)
 PROPITEM_TXT_140050,Shady eye,Œil Sombre
-PROPITEM_TXT_140051,Quest item that drops from Shadowirs,Objet de quête lâché par les Shadowirs
+PROPITEM_TXT_140051,Quest item that drops from Shadowirs,Objet de quête lâché par les Shadowirs. [Contribution Guilde : 71].
 PROPITEM_TXT_140052,Cursed Wing,Aile Maudite
-PROPITEM_TXT_140053,Quest item that drops from Skelmaw,Objet de quête lâché par les Skelmaw
+PROPITEM_TXT_140053,Quest item that drops from Skelmaw,Objet de quête lâché par les Skelmaw. [Contribution Guilde : 73].
 PROPITEM_TXT_131906,Yellow Chips,Jeton Jaunes
 PROPITEM_TXT_131907,Madrigal Tournament reward (Used to buy items from Waforu).,Récompense du Tournoi Madrigal (Utilisée pour acheter des objets auprès de Waforu)
 PROPITEM_TXT_131908,This will give you a new template for your couple house!,Cela vous donnera un nouveau modèle pour votre maison de couple !
@@ -19033,9 +19033,9 @@ PROPITEM_TXT_134652,Power Vital Drink (A),Boisson Vitale Puissance (A)
 PROPITEM_TXT_134653,Power Vital Drink (A+),Boisson Vitale Puissance (A+)
 PROPITEM_TXT_134654,A mixture that decreases the FP Consumption when consumed.,Un mélange qui réduit la consommation de FP lorsqu'il est consommé.
 PROPITEM_TXT_140054,Wand of Maleficar,Baguette de Maleficar
-PROPITEM_TXT_140055,Quest item that drops from Maleficar,Objet de quête lâché par Maleficar
+PROPITEM_TXT_140055,Quest item that drops from Maleficar,Objet de quête lâché par Maleficar. [Contribution Guilde : 76].
 PROPITEM_TXT_140056,Cursed Warden Gem,Gemme du Gardien Maudit
-PROPITEM_TXT_140057,Quest item that drops from Cursed Warden,Objet de quête lâché par le Gardien Maudit
+PROPITEM_TXT_140057,Quest item that drops from Cursed Warden,Objet de quête lâché par le Gardien Maudit. [Contribution Guilde : 78].
 PROPITEM_TXT_134655,Statted Chameleon Cloak,Cape Caméléon Statée
 PROPITEM_TXT_134656,Statted Chameleon Cloak (7 Days),Cape Caméléon Statée (7 Jours)
 PROPITEM_TXT_134657,Select which Statted Chameleon Cloak you would like to receive (7 Days)!,Sélectionnez la Cape Caméléon Statée que vous souhaitez recevoir (7 Jours) !
@@ -19545,15 +19545,15 @@ PROPITEM_TXT_145002,"This bag gives you 10 additional card, card piece, dice and
 PROPITEM_TXT_145003,Pet Reroll Scroll,Parchemin de Relance de Familier
 PROPITEM_TXT_145004,"Allows you to reroll the level of one pet tier. Once you choose to reroll a tier, all other tiers will not be rerollable using a reroll scroll.","Permet de relancer le niveau d’un palier de familier. Une fois que vous choisissez de relancer un palier, tous les autres paliers ne pourront plus être relancés avec un parchemin de relance."
 PROPITEM_TXT_145005,Scale of Luminfin,Écaille de Luminfin
-PROPITEM_TXT_145006,A quest item acquired from Luminfin in Herneos. It seems that this Luminfin scale is fluorescent.,Un objet de quête obtenu de Luminfin à Herneos. Il semble que cette écaille de Luminfin soit fluorescente.
+PROPITEM_TXT_145006,A quest item acquired from Luminfin in Herneos. It seems that this Luminfin scale is fluorescent.,Un objet de quête obtenu de Luminfin à Herneos. Il semble que cette écaille de Luminfin soit fluorescente. [Contribution Guilde : 83].
 PROPITEM_TXT_145007,Magic water stone,Pierre Magique d’Eau
 PROPITEM_TXT_145008,Quest Item: Magic water stone to help identify the area.,Objet de quête : Pierre Magique d’Eau pour aider à identifier la zone.
 PROPITEM_TXT_145009,Magic Water Stone analysis results,Résultats de l'analyse de la Pierre Magique d’Eau
 PROPITEM_TXT_145010,"Quest Item: Results of the Magic water stone analysis, is it really Herneos?","Objet de quête : Résultats de l'analyse de la Pierre Magique d’Eau, est-ce vraiment Herneos ?"
 PROPITEM_TXT_145011,Dreadfin Tooth,Dent de Dreadfin
-PROPITEM_TXT_145012,A quest item acquired from Dreadfin in Herneos. The Dreadfin must have lost this tooth during the battle.,Objet de quête obtenu de Dreadfin à Herneos. Le Dreadfin a dû perdre cette dent pendant le combat.
+PROPITEM_TXT_145012,A quest item acquired from Dreadfin in Herneos. The Dreadfin must have lost this tooth during the battle.,Objet de quête obtenu de Dreadfin à Herneos. Le Dreadfin a dû perdre cette dent pendant le combat. [Contribution Guilde : 73].
 PROPITEM_TXT_145013,Dreadscale Medallion,Médaille Dreadscale
-PROPITEM_TXT_145014,A quest item acquired from Dreadscale in Herneos. The dreadscale believe this medallion increases their power.,Objet de quête obtenu de Dreadscale à Herneos. Les Dreadscale croient que cette médaille augmente leur puissance.
+PROPITEM_TXT_145014,A quest item acquired from Dreadscale in Herneos. The dreadscale believe this medallion increases their power.,Objet de quête obtenu de Dreadscale à Herneos. Les Dreadscale croient que cette médaille augmente leur puissance. [Contribution Guilde : 82].
 PROPITEM_TXT_145015,Random Housing NPC Box (7 Days),Boîte NPC Aléatoire pour Logement (7 jours)
 PROPITEM_TXT_145016,Contains a random 7 days housing NPC. The NPC will be soul-linked.,Contient un NPC aléatoire pour logement de 7 jours. Le NPC sera lié à votre personnage du joueur.
 PROPITEM_TXT_145017,Shop Advertisement (Gold),Publicité de Boutique (Or)
@@ -19596,8 +19596,8 @@ PROPITEM_TXT_144040,Aha Motion,Mouvement Aha
 PROPITEM_TXT_144041,Provoke Motion,Mouvement Provoquer
 PROPITEM_TXT_144042,Surprised Motion,Mouvement Surpris
 PROPITEM_TXT_144043,Look Around Motion,Mouvement Regarder Autour
-PROPITEM_TXT_201001,5th grade Jewel Selection Box,Boîte de Sélection de Bijoux 5ᵉ grade
-PROPITEM_TXT_201002,You can select 1 out of total 7 5th grade ultimate weapon jewels.,Vous pouvez sélectionner 1 parmi les 7 bijoux d’arme ultime de 5ᵉ grade.
+PROPITEM_TXT_201001,5th grade Jewel Selection Box,Boîte de Sélection de Joyaux 5ᵉ grade
+PROPITEM_TXT_201002,You can select 1 out of total 7 5th grade ultimate weapon jewels.,Vous pouvez sélectionner 1 parmi les 7 Joyaux d’arme ultime de 5ᵉ grade.
 PROPITEM_TXT_201003,Tier A Piercing Card Lucky Box,Boîte Chanceuse de Carte Perforante de Rang A
 PROPITEM_TXT_201004,You can get 1 random grade A piercing card.,Vous pouvez obtenir 1 carte perforante de rang A au hasard
 PROPITEM_TXT_201005,Fishball Select Box,Boîte de Sélection de Boule de Poisson
@@ -22787,7 +22787,7 @@ PROPITEM_TXT_900946,"A package containing 10x Smelting Scroll Box, 20x Power Dic
 PROPITEM_TXT_900947,Open 77 Festival Ultimate Scroll Package,Pack Parchemin Ultime Festival 77
 PROPITEM_TXT_900948,A package containing 3x Scroll of Ultimate Bonus and 5x Scroll of Ultimate Power. All items are also linked.,Un pack contenant 3 Parchemins de Bonus Ultime et 5 Parchemins de Pouvoir Ultime. Tous les objets sont liés.
 PROPITEM_TXT_900949,Open 77 Festival Ultimate Upgrade Package,Pack Amélioration Ultime Festival 77
-PROPITEM_TXT_900950,"A package containing 3x Scroll of XProtect, 3x Advanced Mana Stone, 3x Mana Stone, 3x Jewel Tweezers and 3x Cutting Knife. All items are also linked.","Un pack contenant 3 Parchemins XProtect, 3 Pierres de Mana Avancées, 3 Pierres de Mana, 3 Pinces à Bijoux et 3 Couteaux de Coupe. Tous les objets sont liés."
+PROPITEM_TXT_900950,"A package containing 3x Scroll of XProtect, 3x Advanced Mana Stone, 3x Mana Stone, 3x Jewel Tweezers and 3x Cutting Knife. All items are also linked.","Un pack contenant 3 Parchemins XProtect, 3 Pierres de Mana Avancées, 3 Pierres de Mana, 3 Pinces à Joyaux et 3 Couteaux de Coupe. Tous les objets sont liés."
 PROPITEM_TXT_900951,2025 Swimsuit 10% Yellow Set,Maillot 2025 Ensemble 10% Jaune
 PROPITEM_TXT_900952,2025 Swimsuit Yellow Sunglasses,Lunettes de Soleil Jaunes Maillot 2025
 PROPITEM_TXT_900953,2025 Swimsuit Yellow Hat (M),Chapeau Jaune Maillot 2025 (H)
@@ -24081,9 +24081,9 @@ PROPITEM_TXT_155032,Worn-out serial chain,Chaîne de numéros de série usée
 PROPITEM_TXT_155033,"A rusted chain with faded serial numbers, hinting at a forgotten past.","Une chaîne rouillée avec des numéros de série effacés, évoquant un passé oublié."
 PROPITEM_TXT_155034,Worn-out Diary,Journal usé
 PROPITEM_TXT_155035,"A tattered diary with faded, barely legible entries. Its story remains a mystery.",Un journal en lambeaux aux écritures effacées et à peine lisibles. Son histoire reste un mystère.
-PROPITEM_TXT_155036,Chief Keokuk's notebook,Carnet du Chef Keokuk
+PROPITEM_TXT_155036,Chief Keokuk's notebook,Carnet du Sorcier Lycan
 PROPITEM_TXT_155037,"A worn notebook, its pages filled with the fragmented musings of a long-gone leader. Each entry reveals glimpses of a forgotten era, shrouded in mystery.","Un carnet usé, dont les pages sont remplies des pensées fragmentées d’un dirigeant disparu depuis longtemps. Chaque note révèle des bribes d’une époque oubliée, enveloppée de mystère."
-PROPITEM_TXT_155038,Jarl's Will,Testament du Jarl
+PROPITEM_TXT_155038,Jarl's Will,Testament de Jarl
 PROPITEM_TXT_155039,"A solemn document, bearing the final wishes of a revered leader. Its contents hold the weight of legacy and power, hinting at secrets that could alter the course of history.","Un document solennel portant les dernières volontés d’un dirigeant respecté. Son contenu porte le poids de l’héritage et du pouvoir, laissant entrevoir des secrets capables de changer le cours de l’histoire."
 PROPITEM_TXT_155040,Torn Scroll (A),Parchemin déchiré (A)
 PROPITEM_TXT_155041,"A tattered piece of an ancient scroll, its meaning obscured by time.","Un morceau abîmé d’un ancien parchemin, dont le sens a été effacé par le temps."
@@ -24925,19 +24925,19 @@ PROPITEM_TXT_155729,Select your favorite color for your sparkly robot rabbit!,S�
 PROPITEM_TXT_155800,Scroll of Level & Class Change,Parchemin de Changement de Niveau & Classe
 PROPITEM_TXT_155801,Changes level and job,Change le niveau et le métier
 PROPITEM_TXT_155802,Violent Soul Shield,Bouclier d'Âme Violente
-PROPITEM_TXT_155803,Keokuk Shield,Bouclier Keokuk
+PROPITEM_TXT_155803,Keokuk Shield,Bouclier Sorcier Lycan
 PROPITEM_TXT_155804,Taiaha's Axe,Hache de Taiaha
 PROPITEM_TXT_155805,Taiaha's Great Axe,Grande Hache de Taiaha
 PROPITEM_TXT_155806,Kanonicus Bow,Arc Kanonicus
 PROPITEM_TXT_155807,Twisted Soul Stick,Bâton d'Âme Tordue
 PROPITEM_TXT_155808,Anguished Soul Stick,Bâton d'Âme Angoissée
-PROPITEM_TXT_155809,Keokuk Stick,Bâton Keokuk
+PROPITEM_TXT_155809,Keokuk Stick,Bâton Sorcier Lycan
 PROPITEM_TXT_155810,Mara's Soul Staff,Bâton d'Âme de Mara
-PROPITEM_TXT_155811,Keokuk Shaman Staff,Bâton Chaman Keokuk
+PROPITEM_TXT_155811,Keokuk Shaman Staff,Bâton Chaman Sorcier Lycan
 PROPITEM_TXT_155812,Orcus Sword,Épée d'Orcus
 PROPITEM_TXT_155813,Orcus Great Sword,Grande Épée d'Orcus
 PROPITEM_TXT_155814,Mara's Soul Wand,Baguette d'Âme de Mara
-PROPITEM_TXT_155815,Keokuk Warlock Wand,Baguette de Sorcier Keokuk
+PROPITEM_TXT_155815,Keokuk Warlock Wand,Baguette de Sorcier Sorcier Lycan
 PROPITEM_TXT_155816,Orcus Yo-Yo,Yo-Yo d'Orcus
 PROPITEM_TXT_155817,Scroll of Weapon Bonus Augmentation,Parchemin d'Augmentation Bonus Arme
 PROPITEM_TXT_155818,"This powerful scroll randomly changes the % value of your weapon's skill bonus while keeping the same skill. The new % value can be higher, same or lower than the current value.","Ce Parchemin puissant change aléatoirement le pourcentage du bonus de compétence de votre arme tout en conservant la même compétence. La nouvelle valeur peut être plus haute, identique ou plus basse que la valeur actuelle."
@@ -25538,7 +25538,7 @@ PROPITEM_TXT_902668,"A package containing 3x Grilled Eel, 3x Scroll of Amplifica
 PROPITEM_TXT_902669,2026 MyCard New Year Promotion Box B,Boîte Promotion Nouvel An MyCard 2026 B
 PROPITEM_TXT_902670,"A package containing 5x [20~160] Amplification ES Scroll Select Box, 5x Power Scroll, 5x Flask Box, 5x Activition, 5x Def-Upcut Stone, 1x Obsidian Flame Red Weapon Set and 1x Hunter Set Select Box. All items are also linked.","Un pack contenant 5x Boîte de Sélection Parchemin Amplification ES [20~160], 5x Parchemin de Puissance, 5x Boîte de Flacon, 5x Activition, 5x Pierre Arès, 1x Ensemble d'Armes Obsidian Flame Rouge et 1x Boîte de Sélection Hunter Set. Tous les objets sont liés."
 PROPITEM_TXT_902671,2026 MyCard New Year Promotion Box C,Boîte Promotion Nouvel An MyCard 2026 C
-PROPITEM_TXT_902672,"A package containing 3x [20~160] Amplification ES Scroll Select Box, 2x Power Scroll, 2x Balloon Select Box(6h), 2x Jewel Tweezers, 2x Cutting Knife, 1x Reaper Weapons Skin Box, 1x Extra Bag (30 days), 4x Scroll of SProtect and 1x Shadow Hunter 10% Black Set Select Box. All items are also linked.","Un pack contenant 3x Boîte de Sélection Parchemin Amplification ES [20~160], 2x Parchemin de Puissance, 2x Boîte de Sélection Balloon (6h), 2x Pinces à Bijoux, 2x Couteau de Coupe, 1x Boîte Skin Armes Reaper, 1x Sac Supplémentaire (30 jours), 4x Parchemin de SProtect et 1x Boîte de Sélection Shadow Hunter 10% Noir. Tous les objets sont liés."
+PROPITEM_TXT_902672,"A package containing 3x [20~160] Amplification ES Scroll Select Box, 2x Power Scroll, 2x Balloon Select Box(6h), 2x Jewel Tweezers, 2x Cutting Knife, 1x Reaper Weapons Skin Box, 1x Extra Bag (30 days), 4x Scroll of SProtect and 1x Shadow Hunter 10% Black Set Select Box. All items are also linked.","Un pack contenant 3x Boîte de Sélection Parchemin Amplification ES [20~160], 2x Parchemin de Puissance, 2x Boîte de Sélection Balloon (6h), 2x Pinces à Joyaux, 2x Couteau de Coupe, 1x Boîte Skin Armes Reaper, 1x Sac Supplémentaire (30 jours), 4x Parchemin de SProtect et 1x Boîte de Sélection Shadow Hunter 10% Noir. Tous les objets sont liés."
 PROPITEM_TXT_902673,FWC 2026 Pre-regsistration Reward Package,Pack Récompense Pré-inscription FWC 2026
 PROPITEM_TXT_902674,This package contains FWC 2026 Pre-registration rewards.,Ce pack contient les récompenses de pré-inscription FWC 2026.
 PROPITEM_TXT_902675,Valentine's Sweets Box,Boîte de Friandises Saint-Valentin
