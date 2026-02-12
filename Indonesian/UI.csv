@@ -157,7 +157,7 @@ UI_OPTION_TAB_CONTROLS,Controls,Kontrol
 UI_OPTION_TAB_VIDEO,Graphics,Grafis
 UI_OPTION_TAB_GRAPHICS,Video,Video
 UI_OPTION_TAB_AUDIO,Audio,Audio
-UI_OPTION_PM,Whispers and Messages,Whispers dan Pesanan
+UI_OPTION_PM,Whispers and Messages,Bisikan dan Pesan
 UI_OPTION_PARTY,Party and guild invites,Party dan undangan party
 UI_OPTION_FRIEND,Friend Invites,Friend Invites
 UI_OPTION_SIEGE_CAPTION,Guild Siege Captions,Guild Siege Captions
@@ -2435,7 +2435,7 @@ UI_PVPCONTEST_MANUALMATCH_READY,Ready,Siap
 UI_BATTLEPASS_BONUS,Bonus,Bonus
 UI_MATOURNAMENT_RANKING_POINTS_TOOLTIP,Points,Poin
 UI_MATOURNAMENT_RANKING_RANK,Rank,Rank
-UI_MATOURNAMENT_RANKING_TEAMNAME,Team Name,Name Tim
+UI_MATOURNAMENT_RANKING_TEAMNAME,Team Name,Nama Tim
 UI_MATOURNAMENT_RANKING_BACKUP_POINTS_TOOLTIP,Lives,Lives
 UI_MATOURNAMENT_TYPE_PRELIMINARY,Preliminary,Preliminary
 UI_MATOURNAMENT_TYPE_BACKUP,Backup Match,Backup Match
