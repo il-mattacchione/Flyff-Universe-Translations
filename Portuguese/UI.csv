@@ -3182,7 +3182,7 @@ UI_TOOLTIP_CRITICAL_MARK,Critical Mark Chance,Critical Mark Chance
 UI_QUEST_DAILYQUESTS,Complete #cffc32f07#b%d/%d#nb#nc daily quest(s),Complete #cffc32f07#b%d/%d#nb#nc daily quest(s)
 UI_TOOLTIP_DISABLE_ATK,Increased Damage per Disable Debuff,Increased Damage per Disable Debuff
 UI_TOOLTIP_WEAKEN_ATK,Increased Damage per Weaken Debuff,Increased Damage per Weaken Debuff
-UI_TOOLTIP_DEBUFF_DEF,Reduced Damage Taken per Debuff,Reduced Damage Taken per Debuff
+UI_TOOLTIP_DEBUFF_DEF,Reduced Damage Taken per Debuff (Max 8),Reduced Damage Taken per Debuff (Max 8)
 UI_TOOLTIP_DISABLE_DEBUFF,(Disable),(Disable)
 UI_TOOLTIP_WEAKEN_DEBUFF,(Weaken),(Weaken)
 UI_TOOLTIP_IMMOBILITY_DEBUFF,(Immobility),(Immobility)

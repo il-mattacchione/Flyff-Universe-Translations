@@ -2344,10 +2344,10 @@ UI_SERVICE_AGREEMENT_ZIPCODE,ZIPCODE,ZIPCODE
 UI_SERVICE_AGREEMENT_CALIFORNIA_PRIVACY,Check the California Privacy Statement,Check the California Privacy Statement
 UI_SERVICE_AGREEMENT_AGREE_ALL,Agree All,Agree All
 UI_SERVICE_AGREEMENT_ERROR_TITLE,Agreement error,Agreement error
-UI_SERVICE_AGREEMENT_ERROR_BIRTH,Please enter a valid date of birth.,Por favor, introduzca una fecha de nacimiento válido.
+UI_SERVICE_AGREEMENT_ERROR_BIRTH,Please enter a valid date of birth.,"Por favor, introduzca una fecha de nacimiento válido."
 UI_SERVICE_AGREEMENT_ERROR_AGE,You must be at least 16 years old to play the game.,Debes tener al menos 16 años para jugar.
 UI_SERVICE_AGREEMENT_ERROR_TERMS,You must read and accept the terms of service and privacy policy to continue.,Debes leer y aceptar los términos de servicio y la política de privacidad para continuar.
-UI_SERVICE_AGREEMENT_ERROR_ZIPCODE,Please enter a valid zip code.,Por favor, introduzca un código postal válido.
+UI_SERVICE_AGREEMENT_ERROR_ZIPCODE,Please enter a valid zip code.,"Por favor, introduzca un código postal válido."
 UI_ROLL_AND_MOVE_START,START,START
 UI_ROLL_AND_MOVE_ROLLBTN,Roll the dice,Roll the dice
 UI_ROLL_AND_MOVE_COMPLETIONREWARD,Completion Reward,Completion Reward
@@ -2553,7 +2553,7 @@ UI_RAINBOW_ULTIMATE_JEWEL_DISMANTLE_INFO,You can dismantle the Rainbow Jewel to 
 UI_RAINBOW_ULTIMATE_JEWEL_DISMANTLE_NOTICE,"If you fail, you will lose your item.","If you fail, you will lose your item."
 UI_HOUSINGWARDROBE_INFO,Your wardrobe items can only be worn by #bone#nb NPC at a time.,Your wardrobe items can only be worn by #bone#nb NPC at a time.
 UI_HOUSINGWARDROBE_CONFIRM,Equip,Equipar
-UI_HOUSINGWARDROBE_CONFIRMMESSAGE,This will make the selected NPC wear the chosen costume item. Only one NPC at a time can wear the same costume item. Do you want to proceed?,"Esto hará que el NPC seleccionado use el artículo de disfraz elegido. Solo un NPC a la vez puede llevar el mismo artículo de disfraz. ¿Deseas continuar?"
+UI_HOUSINGWARDROBE_CONFIRMMESSAGE,This will make the selected NPC wear the chosen costume item. Only one NPC at a time can wear the same costume item. Do you want to proceed?,Esto hará que el NPC seleccionado use el artículo de disfraz elegido. Solo un NPC a la vez puede llevar el mismo artículo de disfraz. ¿Deseas continuar?
 UI_HOUSINGWARDROBE_USEDBY,Used by %s,Usado en %s
 UI_HOUSINGWARDROBE_UNEQUIP,Unequip,Unequip
 UI_HOUSINGWARDROBE_MSGBOX_TITLE,Unequip that item?,Unequip that item?
@@ -3182,7 +3182,7 @@ UI_TOOLTIP_CRITICAL_MARK,Critical Mark Chance,Critical Mark Chance
 UI_QUEST_DAILYQUESTS,Complete #cffc32f07#b%d/%d#nb#nc daily quest(s),Complete #cffc32f07#b%d/%d#nb#nc daily quest(s)
 UI_TOOLTIP_DISABLE_ATK,Increased Damage per Disable Debuff,Increased Damage per Disable Debuff
 UI_TOOLTIP_WEAKEN_ATK,Increased Damage per Weaken Debuff,Increased Damage per Weaken Debuff
-UI_TOOLTIP_DEBUFF_DEF,Reduced Damage Taken per Debuff,Reduced Damage Taken per Debuff
+UI_TOOLTIP_DEBUFF_DEF,Reduced Damage Taken per Debuff (Max 8),Reduced Damage Taken per Debuff (Max 8)
 UI_TOOLTIP_DISABLE_DEBUFF,(Disable),(Disable)
 UI_TOOLTIP_WEAKEN_DEBUFF,(Weaken),(Weaken)
 UI_TOOLTIP_IMMOBILITY_DEBUFF,(Immobility),(Immobility)

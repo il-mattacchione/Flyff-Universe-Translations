@@ -1,4 +1,4 @@
-Key,English,French
+﻿Key,English,French
 PROPITEM_TXT_000001,,
 PROPITEM_TXT_000002,Hand,Main
 PROPITEM_TXT_000004,Penya,Penya
@@ -3852,7 +3852,7 @@ PROPITEM_TXT_007166,Soccerball Angel,Ange du Football
 PROPITEM_TXT_007168,Yukata 2006 (M),Yukata (G)
 PROPITEM_TXT_007170,Yukata 2006 (F),Yukata (F)
 PROPITEM_TXT_007172,Potion of Recklessness,Potion de critique
-PROPITEM_TXT_007173,Increases your Critical Hit Rate by 10%. Lasts 30 minutes.,Potion augmentant le taux de coups critiques de 10% pendant 30 min.
+PROPITEM_TXT_007173,Increases your Critical Chance by 10%. Lasts 30 minutes.,Potion augmentant le taux de coups critiques de 10% pendant 30 min.
 PROPITEM_TXT_007174,Potion of Swiftness,Potion de célérité
 PROPITEM_TXT_007175,Increases your Attack Speed by 10%. Lasts 30 minutes.,Potion augmentant la vitesse d'attaque de 10% pendant 30 min.
 PROPITEM_TXT_007176,Potion of Accuracy,Potion de précision
@@ -4587,7 +4587,7 @@ PROPITEM_TXT_011913,"Inspector Koko is on the case! With his super high-intensit
 PROPITEM_TXT_011952,Cheshire Cat,Chat du Cheshire
 PROPITEM_TXT_011953,This cheesy kitty follows it's owner around and picks up dropped items. He's also quite mad.,Inutile de lui parler tant que ses oreilles ne sont pas apparues.
 PROPITEM_TXT_011954,The White Rabbit,Lapin blanc
-PROPITEM_TXT_011955,"I'm late! I'm late! For a very important date! No time to say hello, goodbye! I'm late! This tardy little guy follows his master around picking up dropped items.",Pour un rendez-vous très important ! Pas le temps de dire bonjour, au revoir ! Je suis en retard ! Ce petit bonhomme toujours en retard suit son maître partout en ramassant les objets tombés.
+PROPITEM_TXT_011955,"I'm late! I'm late! For a very important date! No time to say hello, goodbye! I'm late! This tardy little guy follows his master around picking up dropped items.","Pour un rendez-vous très important ! Pas le temps de dire bonjour, au revoir ! Je suis en retard ! Ce petit bonhomme toujours en retard suit son maître partout en ramassant les objets tombés."
 PROPITEM_TXT_011956,Tiger Cub,Dinah
 PROPITEM_TXT_011957,This cutie pie follows his *mommy* around and picks up dropped items.,Elle ne vous suivra pas de l'autre côté du miroir.
 PROPITEM_TXT_012180,Mocomochi,Bébé Mochikochi
@@ -13247,10 +13247,10 @@ PROPITEM_TXT_009042,Cotton Candy Box,Boîte à Barbe à Papa
 PROPITEM_TXT_009043,Select which Cotton Candy you want to receive!,Choisissez la barbe à papa que vous souhaitez recevoir !
 PROPITEM_TXT_009046,Turkey Box,Boîte à Dinde
 PROPITEM_TXT_009047,Select which Turkey you want to receive!,Choisissez la dinde que vous souhaitez recevoir !
-PROPITEM_TXT_230212,Additional Attendance Coupon,Coupon de Présence Supplémentaire
-PROPITEM_TXT_230213,Coupon to earn additional attendance rewards.,Coupon pour obtenir des récompenses de présence supplémentaires.
-PROPITEM_TXT_230214,Additional Connection Coupon,Coupon de Connexion Supplémentaire
-PROPITEM_TXT_230215,Coupon to earn additional connection rewards.,Coupon pour obtenir des récompenses de connexion supplémentaires.
+PROPITEM_TXT_230212,Bonus Playtime Coupon,Coupon de Présence Supplémentaire
+PROPITEM_TXT_230213,Unlocks bonus playtime rewards. Can only be used once per day.,Coupon pour obtenir des récompenses de présence supplémentaires.
+PROPITEM_TXT_230214,Bonus Login Coupon,Coupon de Connexion Supplémentaire
+PROPITEM_TXT_230215,"Activates the bonus login rewards track. After claiming all rewards, you can use another coupon to start over.",Coupon pour obtenir des récompenses de connexion supplémentaires.
 PROPITEM_TXT_230216,Extended January Pass,Pass de Janvier Étendu
 PROPITEM_TXT_230217,This purchase gives you many advantages during the January Pass season:\n-More Battle Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!,Cet achat vous offre de nombreux avantages pendant la saison du Pass de Janvier :\n-Plus de récompenses du Passe de combat\n-Banque commune\n-2 jours de boutiques marchandes\n-Carburant d'accélération illimité\n-Verrouillage d'EXP illimité\n-Carte des donjons et navigateur\n-Améliorations sécurisées plus rapides\n-1 entrée de donjon gratuite supplémentaire\n-5 téléportations quotidiennes vers les boutiques (recherche)\n...et encore plus à venir avec les mises à jour du jeu !
 PROPITEM_TXT_230218,PlayPark Launch Gift,Cadeau de Lancement PlayPark
@@ -16466,7 +16466,7 @@ PROPITEM_TXT_132268,[Event] Fourth Completion Gift,[Événement] Quatrième Cade
 PROPITEM_TXT_132270,[Event] Dice Set,[Événement] Ensemble de Dés
 PROPITEM_TXT_132271,You can roll the dice on the board and obtain various rewards.,Vous pouvez lancer les dés sur le plateau et obtenir diverses récompenses.
 PROPITEM_TXT_132272,"First completion reward for Roll your Lucky Dice!\nYou can earn 5 Scrolls of Guild Custody, 5 Scrolls of General Shop, and 5 Scrolls of Food Shop.","Récompense de première réussite pour Lancez vos Dés Chanceux !\nVous pouvez obtenir 5 Parchemins de Garde de Guilde, 5 Parchemins de Boutique Générale et 5 Parchemins de Boutique Alimentaire."
-PROPITEM_TXT_132273,"Second completion reward for Roll your Lucky Dice!\nYou can earn 1 Aura Selection Box(15 Days), 1 Card Disc ( 7 Days), and 1 Attendance Ticket.","Récompense de deuxième réussite pour Lancez vos Dés Chanceux !\nVous pouvez obtenir 1 Coffre de Sélection d'Aura (15 jours), 1 Disque de Carte (7 jours) et 1 Billet de Présence."
+PROPITEM_TXT_132273,"Second completion reward for Roll your Lucky Dice!\nYou can earn 1 Aura Selection Box (15 Days), 1 Card Disc (7 Days), and 1 Bonus Playtime Coupon.","Récompense de deuxième réussite pour Lancez vos Dés Chanceux !\nVous pouvez obtenir 1 Coffre de Sélection d'Aura (15 jours), 1 Disque de Carte (7 jours) et 1 Billet de Présence."
 PROPITEM_TXT_132274,"Third completion reward for Roll your Lucky Dice!\nYou can earn 5 Power Scrolls, 5 Scrolls of Velocity, and 5 Def-Upcut Stones.","Récompense de troisième réussite pour Lancez vos Dés Chanceux !\nVous pouvez obtenir 5 Parchemins de Puissance, 5 Parchemins de Vitesse et 5 Pierres Déf-Upcut."
 PROPITEM_TXT_132275,"Fourth completion reward for Roll your Lucky Dice!\nYou can earn 5 Upcut Stones, 5 Vital Drink X or Refresher Hold, 5 Scrolls of Amplification ES, and 5 Scrolls of Return.","Récompense de quatrième réussite pour Lancez vos Dés Chanceux !\nVous pouvez obtenir 5 Pierres Mars, 5 Boisson Énergétique X ou Fiole de Mana X, 5 Parchemins d'Amplification ES et 5 Parchemins de Retour."
 PROPITEM_TXT_725583,FWC PvE Supply Package (FWC Only),Pack de Fournitures PvE FWC (FWC uniquement)
@@ -17274,7 +17274,7 @@ PROPITEM_TXT_800190,Recovers between 1 and 3 jewels if fusion fails.,Récupère 
 PROPITEM_TXT_800191,Mana Stone,Pierre de Mana
 PROPITEM_TXT_800192,Recovers all the jewel pieces if creation fails.,Récupère tous les morceaux de Joyaux si la création échoue.
 PROPITEM_TXT_800193,[Personal House NPC] Klock,[PNJ Maison Personnelle] Klock
-PROPITEM_TXT_800194,"This NPC will grant you the following bonus when placed on the Personal House: Ultimate Jewel features.\nEarn that jewel with a 30% chance of removing Ultimate Jewel.\nUltimate Jewelry Manufacture, Compose Success Rate Increased","Ce PNJ vous accorde les bonus suivants lorsqu’il est placé dans la Maison Personnelle :\n• Chance de 30 % d’obtenir un joyau Ultime.\n• Fabrication de Joyaux Ultime : taux de réussite augmenté. Chance d'équiper le même joyau ultime +10%."
+PROPITEM_TXT_800194,"This NPC will grant you the following bonus when placed on the Personal House: Ultimate Jewel features.\nEarn that jewel with a 30% chance of removing Ultimate Jewel.\nUltimate Jewelry Manufacture, Compose Success Rate Increased",Ce PNJ vous accorde les bonus suivants lorsqu’il est placé dans la Maison Personnelle :\n• Chance de 30 % d’obtenir un joyau Ultime.\n• Fabrication de Joyaux Ultime : taux de réussite augmenté. Chance d'équiper le même joyau ultime +10%.
 PROPITEM_TXT_800195,Ultimate Jewel Gemstone,Gemme de Joyau Ultime
 PROPITEM_TXT_800196,First-grade jewels and jewel pieces can be extracted from this gemstone.,Des Joyaux de premier grade et des morceaux de Joyaux peuvent être extraits de cette gemme.
 PROPITEM_TXT_800197,Cutting Knife,Couteau de Découpe
@@ -17802,11 +17802,11 @@ PROPITEM_TXT_133421,Fish Ball (B),Boule de Poisson (B)
 PROPITEM_TXT_133422,Fish Ball (A),Boule de Poisson (A)
 PROPITEM_TXT_133423,Fish Ball (A+),Boule de Poisson (A+)
 PROPITEM_TXT_133424,A dish made by making minced fish meat into balls.,Plat à base de poisson haché en boulettes
-PROPITEM_TXT_133425,Seafood Pan Cake (C),Crêpe aux Fruits de Mer (C)
+PROPITEM_TXT_133425,Seafood Pancake (C),Crêpe aux Fruits de Mer (C)
 PROPITEM_TXT_133426,Recovers 276 HP,Redonne 276 PV
-PROPITEM_TXT_133427,Seafood Pan Cake (B),Crêpe aux Fruits de Mer (B)
-PROPITEM_TXT_133428,Seafood Pan Cake (A),Crêpe aux Fruits de Mer (A)
-PROPITEM_TXT_133429,Seafood Pan Cake (A+),Crêpe aux Fruits de Mer (A+)
+PROPITEM_TXT_133427,Seafood Pancake (B),Crêpe aux Fruits de Mer (B)
+PROPITEM_TXT_133428,Seafood Pancake (A),Crêpe aux Fruits de Mer (A)
+PROPITEM_TXT_133429,Seafood Pancake (A+),Crêpe aux Fruits de Mer (A+)
 PROPITEM_TXT_133430,Recovers 299 HP,Redonne 299 PV
 PROPITEM_TXT_133431,Fish Soup (C),Soupe de Poisson (C)
 PROPITEM_TXT_133432,Recovers 360 HP,Redonne 360 PV
@@ -21004,8 +21004,8 @@ PROPITEM_TXT_827582,Neon Valentines White Chair Single Pack,Pack Chaise Saint-Va
 PROPITEM_TXT_827583,Neon Valentines White Bath Single Pack,Pack Baignoire Saint-Valentin Néon Blanc
 PROPITEM_TXT_827584,Neon Valentines White Bed Single Pack,Pack Lit Saint-Valentin Néon Blanc
 PROPITEM_TXT_827585,Neon Valentines White Sofa Single Pack,Pack Canapé Saint-Valentin Néon Blanc
-PROPITEM_TXT_827586,Attendance Coupon Box,Boîte de Coupon de Présence
-PROPITEM_TXT_827587,A package containing 1x Additional Attendance Coupon and 5x Scroll of Amplification ES. All items are also linked.,Un paquet contenant 1x Coupon de Présence Supplémentaire et 5x Parchemins d’Amplification ES. Tous les objets sont également liés.
+PROPITEM_TXT_827586,Playtime Coupon Box,Boîte de Coupon de Présence
+PROPITEM_TXT_827587,A package containing 1x Bonus Playtime Coupon and 5x Scroll of Amplification ES. All items are also linked.,Un paquet contenant 1x Coupon de Présence Supplémentaire et 5x Parchemins d’Amplification ES. Tous les objets sont également liés.
 PROPITEM_TXT_827588,Magical Potion Box,Boîte de Potions Magiques
 PROPITEM_TXT_827589,"A package containing 5x Upcut Stone, 5x Potion Box, 5x Flask Box and 1x Power Scroll. All items are also linked.","Un paquet contenant 5x Pierres Mars, 5x Boîtes de Potion, 5x Boîtes de Flacon et 1x Parchemin de Puissance. Tous les objets sont également liés."
 PROPITEM_TXT_829999,Lifestyle Mastery Bag,Sac de Maîtrise de Style de Vie
@@ -23247,8 +23247,8 @@ PROPITEM_TXT_134812,FWC Coin,Jeton FWC
 PROPITEM_TXT_134813,Betting currency,Monnaie de paris
 PROPITEM_TXT_134814,2025 FWC Championship Pass,Pass Championnat FWC 2025
 PROPITEM_TXT_134815,This purchase will give you access to many advantages until the end of the 2025 FWC Championship Pass season,Achat donnant accès à de nombreux avantages jusqu'à la fin de la saison du Pass Championnat FWC 2025.
-PROPITEM_TXT_134816,FWC Additional attendance Coupon,Bon de présence supplémentaire FWC
-PROPITEM_TXT_134817,Coupon to earn FWC additional attendance rewards.,Coupon pour gagner des récompenses de présence supplémentaires FWC
+PROPITEM_TXT_134816,FWC Bonus Playtime Coupon,Bon de présence supplémentaire FWC
+PROPITEM_TXT_134817,Unlocks bonus FWC playtime rewards. Can only be used once per day.,Coupon pour gagner des récompenses de présence supplémentaires FWC
 PROPITEM_TXT_134818,Blessing of the FWC coin,Bénédiction de la pièce FWC
 PROPITEM_TXT_134819,Increased probability of FWC Coin appearance by +1~15%,Probabilité augmentée d'apparition de la pièce FWC de +1~15%
 PROPITEM_TXT_901407,Nobility 10% Blue Set,Ensemble Nobility 10% Bleu
@@ -23476,7 +23476,7 @@ PROPITEM_TXT_901600,Firefighter 2025 Red Hands (F),Gants Rouge Pompier 2025 (F)
 PROPITEM_TXT_901601,Firefighter 2025 Neon Hands (M),Gants Néon Pompier 2025 (H)
 PROPITEM_TXT_901602,Firefighter 2025 Neon Hands (F),Gants Néon Pompier 2025 (F)
 PROPITEM_TXT_901603,"First completion reward for Roll your Lucky Dice!\nYou can earn 5 Scroll of Guild Custody, 5 Scroll of General Shop, 5 Scroll of Food Shop","Récompense de première complétion pour Lancez vos Dés Chanceux !\nVous pouvez obtenir 5 Parchemins de Garde de Guilde, 5 Parchemins de Boutique Générale, 5 Parchemins de Boutique Alimentaire"
-PROPITEM_TXT_901604,"Second completion reward for Roll your Lucky Dice!\nYou can earn 1 Aura Selection Box(15 Days), 1 Card Disc ( 7 Days), and 1 Attendance Ticket.","Récompense de deuxième complétion pour Lancez vos Dés Chanceux !\nVous pouvez obtenir 1 Boîte de Sélection Aura (15 jours), 1 Disque Carte (7 jours) et 1 Ticket de Présence."
+PROPITEM_TXT_901604,"Second completion reward for Roll your Lucky Dice!\nYou can earn 1 Aura Selection Box (15 Days), 1 Card Disc (7 Days), and 1 Bonus Playtime Coupon.","Récompense de deuxième complétion pour Lancez vos Dés Chanceux !\nVous pouvez obtenir 1 Boîte de Sélection Aura (15 jours), 1 Disque Carte (7 jours) et 1 Ticket de Présence."
 PROPITEM_TXT_901605,"Third completion reward for Roll your Lucky Dice!\nYou can earn 3 [Event] Shop Advertisement Random Box, 3 Font editor, and 20 2025 FWC PopCorn Select box","Récompense de troisième complétion pour Lancez vos Dés Chanceux !\nVous pouvez obtenir 3 Boîtes Aléatoires Publicité Boutique [Événement], 3 Éditeurs de Police, et 20 Boîtes de Sélection PopCorn FWC 2025"
 PROPITEM_TXT_901606,"Fourth completion reward for Roll your Lucky Dice!\nYou can earn 5 Upcut Stone, 5 Power Scroll, 5 FWC Special combo, and 5 Scrolls of Return.","Récompense de quatrième complétion pour Lancez vos Dés Chanceux !\nVous pouvez obtenir 5 Pierres Mars, 5 Parchemins de Pouvoir, 5 Combos Spéciaux FWC et 5 Parchemins de Retour"
 PROPITEM_TXT_901607,[Event] Shop Advertisement Random Box,Boîte Aléatoire Publicité Boutique [Événement]
@@ -23669,7 +23669,7 @@ PROPITEM_TXT_901793,"A package containing 10x 2025 FWC PopCorn Select box, 1x Li
 PROPITEM_TXT_901794,2025 FWC Streamer Event Coupon 2,Bon Événement Streamer FWC 2025 2
 PROPITEM_TXT_901795,"A package containing 1x Lifestyle Bag Select Box (15 day), 2x Balloon Select Box (6h) and 10x FWC Snack Select Box. All items are Soul-Linked.","Un paquet contenant 1x Boîte de Sélection Sac Lifestyle (15 jours), 2x Boîte de Sélection Ballon (6h) et 10x Boîte de Sélection Snack FWC. Tous les objets sont liés à votre personnage."
 PROPITEM_TXT_901796,2025 FWC Streamer Event Coupon 3,Bon Événement Streamer FWC 2025 3
-PROPITEM_TXT_901797,"A package containing 3x Cotton Candy Box, 1x Additional Attendance Coupon, 1x Aura Selection Box (15 Days) and 5x FWC Special combo. All items are Soul-Linked.","Un paquet contenant 3x Boîte Barbe à Papa, 1x Coupon de Présence Supplémentaire, 1x Boîte de Sélection Aura (15 jours) et 5x Combo Spécial FWC. Tous les objets sont liés à votre personnage."
+PROPITEM_TXT_901797,"A package containing 3x Cotton Candy Box, 1x Bonus Playtime Coupon, 1x Aura Selection Box (15 Days) and 5x FWC Special combo. All items are Soul-Linked.","Un paquet contenant 3x Boîte Barbe à Papa, 1x Coupon de Présence Supplémentaire, 1x Boîte de Sélection Aura (15 jours) et 5x Combo Spécial FWC. Tous les objets sont liés à votre personnage."
 PROPITEM_TXT_901798,Myth Costume Select Box 1,Boîte de Sélection Costume Myth 1
 PROPITEM_TXT_901799,"Select your favorite Myth costume between Little Butterflies Set, Shadow Hunter Set and Snake Samurai Set. All items are Soul-Linked.","Choisissez votre costume Myth préféré entre Little Butterflies Set, Shadow Hunter Set et Snake Samurai Set. Tous les objets sont liés à votre personnage."
 PROPITEM_TXT_901800,Butterflies Pet select box,Boîte de Sélection Pet Butterflies
@@ -25539,7 +25539,7 @@ PROPITEM_TXT_902669,2026 MyCard New Year Promotion Box B,Boîte Promotion Nouvel
 PROPITEM_TXT_902670,"A package containing 5x [20~160] Amplification ES Scroll Select Box, 5x Power Scroll, 5x Flask Box, 5x Activition, 5x Def-Upcut Stone, 1x Obsidian Flame Red Weapon Set and 1x Hunter Set Select Box. All items are also linked.","Un pack contenant 5x Boîte de Sélection Parchemin Amplification ES [20~160], 5x Parchemin de Puissance, 5x Boîte de Flacon, 5x Activition, 5x Pierre Arès, 1x Ensemble d'Armes Obsidian Flame Rouge et 1x Boîte de Sélection Hunter Set. Tous les objets sont liés."
 PROPITEM_TXT_902671,2026 MyCard New Year Promotion Box C,Boîte Promotion Nouvel An MyCard 2026 C
 PROPITEM_TXT_902672,"A package containing 3x [20~160] Amplification ES Scroll Select Box, 2x Power Scroll, 2x Balloon Select Box(6h), 2x Jewel Tweezers, 2x Cutting Knife, 1x Reaper Weapons Skin Box, 1x Extra Bag (30 days), 4x Scroll of SProtect and 1x Shadow Hunter 10% Black Set Select Box. All items are also linked.","Un pack contenant 3x Boîte de Sélection Parchemin Amplification ES [20~160], 2x Parchemin de Puissance, 2x Boîte de Sélection Balloon (6h), 2x Pinces à Joyaux, 2x Couteau de Coupe, 1x Boîte Skin Armes Reaper, 1x Sac Supplémentaire (30 jours), 4x Parchemin de SProtect et 1x Boîte de Sélection Shadow Hunter 10% Noir. Tous les objets sont liés."
-PROPITEM_TXT_902673,FWC 2026 Pre-regsistration Reward Package,Pack Récompense Pré-inscription FWC 2026
+PROPITEM_TXT_902673,FWC 2026 Pre-registration Reward Package,Pack Récompense Pré-inscription FWC 2026
 PROPITEM_TXT_902674,This package contains FWC 2026 Pre-registration rewards.,Ce pack contient les récompenses de pré-inscription FWC 2026.
 PROPITEM_TXT_902675,Valentine's Sweets Box,Boîte de Friandises Saint-Valentin
 PROPITEM_TXT_902676,"A package containing 10x Cotton Candy Box, 10x Chocolate Select Box and 10x Candy Select Box. All items are also linked.","Un pack contenant 10x Boîte de Barbe à Papa, 10x Boîte de Sélection Chocolat et 10x Boîte de Sélection Bonbons. Tous les objets sont liés."
@@ -25562,7 +25562,7 @@ PROPITEM_TXT_902692,Select your favorite color for your White Stripe Bear. All i
 PROPITEM_TXT_902693,Hunter Set Select Box,Boîte de Sélection Hunter Set
 PROPITEM_TXT_902694,Select which Gender you want to receive!,Choisissez le sexe du costume que vous souhaitez recevoir !
 PROPITEM_TXT_902695,Potion of Blind Love,Potion d'Amour Aveugle
-PROPITEM_TXT_902696,"The power of reckless love maximizes your attack, increasing Critical Hit Rate by 10%. Lasts for 30 minutes.","Le pouvoir de l'amour imprudent maximise votre attaque, augmentant le taux de coup critique de 10%. Dure 30 minutes."
+PROPITEM_TXT_902696,"The power of reckless love maximizes your attack, increasing Critical Chance by 10%. Lasts for 30 minutes.","Le pouvoir de l'amour imprudent maximise votre attaque, augmentant le taux de coup critique de 10%. Dure 30 minutes."
 PROPITEM_TXT_902697,Perfume of Heart fluttering,Parfum du Cœur Battant
 PROPITEM_TXT_902698,"Your heart races as if meeting a first love, increasing Attack Speed by 10%. Lasts for 30 minutes.","Votre cœur s'emballe comme devant un premier amour, augmentant la vitesse d'attaque de 10%. Dure 30 minutes."
 PROPITEM_TXT_902699,Eye of Sincere Heart,Œil du Cœur Sincère
@@ -25681,3 +25681,317 @@ PROPITEM_TXT_902811,This box contains a Button Mark Set with Speed Bonus. You ca
 PROPITEM_TXT_135096,Yetti's Precious Box,Coffre Précieux du Yetti
 PROPITEM_TXT_135097,Reconnaissance Set Select Box,Coffre de Reconnaissance
 PROPITEM_TXT_135098,[20~190] Amplification ES Scroll Select Box,Coffre Parchemin ES d’Amplification [20~190]
+PROPITEM_TXT_902812,Heart Punk 10% Pink Set,Heart Punk 10% Pink Set
+PROPITEM_TXT_902813,Heart Punk Pink Aibag,Heart Punk Pink Aibag
+PROPITEM_TXT_902814,Heart Punk Pink Mask,Heart Punk Pink Mask
+PROPITEM_TXT_902815,Heart Punk Pink Hat (M),Heart Punk Pink Hat (M)
+PROPITEM_TXT_902816,Heart Punk Pink Suit (M),Heart Punk Pink Suit (M)
+PROPITEM_TXT_902817,Heart Punk Pink Shoes (M),Heart Punk Pink Shoes (M)
+PROPITEM_TXT_902818,Heart Punk Pink Hands (M),Heart Punk Pink Hands (M)
+PROPITEM_TXT_902819,Heart Punk 10% Pink Set (M),Heart Punk 10% Pink Set (M)
+PROPITEM_TXT_902820,The Heart Punk 10% Pink Set for male characters.,The Heart Punk 10% Pink Set for male characters.
+PROPITEM_TXT_902821,Heart Punk Pink Hat (F),Heart Punk Pink Hat (F)
+PROPITEM_TXT_902822,Heart Punk Pink Suit (F),Heart Punk Pink Suit (F)
+PROPITEM_TXT_902823,Heart Punk Pink Shoes (F),Heart Punk Pink Shoes (F)
+PROPITEM_TXT_902824,Heart Punk Pink Hands (F),Heart Punk Pink Hands (F)
+PROPITEM_TXT_902825,Heart Punk 10% Pink Set (F),Heart Punk 10% Pink Set (F)
+PROPITEM_TXT_902826,The Heart Punk 10% Pink Set for female characters.,The Heart Punk 10% Pink Set for female characters.
+PROPITEM_TXT_902827,Heart Punk 8% White Set,Heart Punk 8% White Set
+PROPITEM_TXT_902828,Heart Punk White Aibag,Heart Punk White Aibag
+PROPITEM_TXT_902829,Heart Punk White Mask,Heart Punk White Mask
+PROPITEM_TXT_902830,Heart Punk White Hat (M),Heart Punk White Hat (M)
+PROPITEM_TXT_902831,Heart Punk White Suit (M),Heart Punk White Suit (M)
+PROPITEM_TXT_902832,Heart Punk White Shoes (M),Heart Punk White Shoes (M)
+PROPITEM_TXT_902833,Heart Punk White Hands (M),Heart Punk White Hands (M)
+PROPITEM_TXT_902834,Heart Punk 8% White Set (M),Heart Punk 8% White Set (M)
+PROPITEM_TXT_902835,The Heart Punk 8% White Set for male characters.,The Heart Punk 8% White Set for male characters.
+PROPITEM_TXT_902836,Heart Punk White Hat (F),Heart Punk White Hat (F)
+PROPITEM_TXT_902837,Heart Punk White Suit (F),Heart Punk White Suit (F)
+PROPITEM_TXT_902838,Heart Punk White Shoes (F),Heart Punk White Shoes (F)
+PROPITEM_TXT_902839,Heart Punk White Hands (F),Heart Punk White Hands (F)
+PROPITEM_TXT_902840,Heart Punk 8% White Set (F),Heart Punk 8% White Set (F)
+PROPITEM_TXT_902841,The Heart Punk 8% White Set for female characters.,The Heart Punk 8% White Set for female characters.
+PROPITEM_TXT_902842,Heart Punk 6% Golden Set,Heart Punk 6% Golden Set
+PROPITEM_TXT_902843,Heart Punk Golden Aibag,Heart Punk Golden Aibag
+PROPITEM_TXT_902844,Heart Punk Golden Mask,Heart Punk Golden Mask
+PROPITEM_TXT_902845,Heart Punk Golden Hat (M),Heart Punk Golden Hat (M)
+PROPITEM_TXT_902846,Heart Punk Golden Suit (M),Heart Punk Golden Suit (M)
+PROPITEM_TXT_902847,Heart Punk Golden Shoes (M),Heart Punk Golden Shoes (M)
+PROPITEM_TXT_902848,Heart Punk Golden Hands (M),Heart Punk Golden Hands (M)
+PROPITEM_TXT_902849,Heart Punk 6% Golden Set (M),Heart Punk 6% Golden Set (M)
+PROPITEM_TXT_902850,The Heart Punk 6% Golden Set for male characters.,The Heart Punk 6% Golden Set for male characters.
+PROPITEM_TXT_902851,Heart Punk Golden Hat (F),Heart Punk Golden Hat (F)
+PROPITEM_TXT_902852,Heart Punk Golden Suit (F),Heart Punk Golden Suit (F)
+PROPITEM_TXT_902853,Heart Punk Golden Shoes (F),Heart Punk Golden Shoes (F)
+PROPITEM_TXT_902854,Heart Punk Golden Hands (F),Heart Punk Golden Hands (F)
+PROPITEM_TXT_902855,Heart Punk 6% Golden Set (F),Heart Punk 6% Golden Set (F)
+PROPITEM_TXT_902856,The Heart Punk 6% Golden Set for female characters.,The Heart Punk 6% Golden Set for female characters.
+PROPITEM_TXT_902857,Heart Punk 4% Blue Set,Heart Punk 4% Blue Set
+PROPITEM_TXT_902858,Heart Punk Blue Aibag,Heart Punk Blue Aibag
+PROPITEM_TXT_902859,Heart Punk Blue Mask,Heart Punk Blue Mask
+PROPITEM_TXT_902860,Heart Punk Blue Hat (M),Heart Punk Blue Hat (M)
+PROPITEM_TXT_902861,Heart Punk Blue Suit (M),Heart Punk Blue Suit (M)
+PROPITEM_TXT_902862,Heart Punk Blue Shoes (M),Heart Punk Blue Shoes (M)
+PROPITEM_TXT_902863,Heart Punk Blue Hands (M),Heart Punk Blue Hands (M)
+PROPITEM_TXT_902864,Heart Punk 4% Blue Set (M),Heart Punk 4% Blue Set (M)
+PROPITEM_TXT_902865,The Heart Punk 4% Blue Set for male characters.,The Heart Punk 4% Blue Set for male characters.
+PROPITEM_TXT_902866,Heart Punk Blue Hat (F),Heart Punk Blue Hat (F)
+PROPITEM_TXT_902867,Heart Punk Blue Suit (F),Heart Punk Blue Suit (F)
+PROPITEM_TXT_902868,Heart Punk Blue Shoes (F),Heart Punk Blue Shoes (F)
+PROPITEM_TXT_902869,Heart Punk Blue Hands (F),Heart Punk Blue Hands (F)
+PROPITEM_TXT_902870,Heart Punk 4% Blue Set (F),Heart Punk 4% Blue Set (F)
+PROPITEM_TXT_902871,The Heart Punk 4% Blue Set for female characters.,The Heart Punk 4% Blue Set for female characters.
+PROPITEM_TXT_902872,Heart Punk 2% Purple Set,Heart Punk 2% Purple Set
+PROPITEM_TXT_902873,Heart Punk Purple Aibag,Heart Punk Purple Aibag
+PROPITEM_TXT_902874,Heart Punk Purple Mask,Heart Punk Purple Mask
+PROPITEM_TXT_902875,Heart Punk Purple Hat (M),Heart Punk Purple Hat (M)
+PROPITEM_TXT_902876,Heart Punk Purple Suit (M),Heart Punk Purple Suit (M)
+PROPITEM_TXT_902877,Heart Punk Purple Shoes (M),Heart Punk Purple Shoes (M)
+PROPITEM_TXT_902878,Heart Punk Purple Hands (M),Heart Punk Purple Hands (M)
+PROPITEM_TXT_902879,Heart Punk 2% Purple Set (M),Heart Punk 2% Purple Set (M)
+PROPITEM_TXT_902880,The Heart Punk 2% Purple Set for male characters.,The Heart Punk 2% Purple Set for male characters.
+PROPITEM_TXT_902881,Heart Punk Purple Hat (F),Heart Punk Purple Hat (F)
+PROPITEM_TXT_902882,Heart Punk Purple Suit (F),Heart Punk Purple Suit (F)
+PROPITEM_TXT_902883,Heart Punk Purple Shoes (F),Heart Punk Purple Shoes (F)
+PROPITEM_TXT_902884,Heart Punk Purple Hands (F),Heart Punk Purple Hands (F)
+PROPITEM_TXT_902885,Heart Punk 2% Purple Set (F),Heart Punk 2% Purple Set (F)
+PROPITEM_TXT_902886,The Heart Punk 2% Purple Set for female characters.,The Heart Punk 2% Purple Set for female characters.
+PROPITEM_TXT_902887,Heart Punk 2% Red Set,Heart Punk 2% Red Set
+PROPITEM_TXT_902888,Heart Punk Red Aibag,Heart Punk Red Aibag
+PROPITEM_TXT_902889,Heart Punk Red Mask,Heart Punk Red Mask
+PROPITEM_TXT_902890,Heart Punk Red Hat (M),Heart Punk Red Hat (M)
+PROPITEM_TXT_902891,Heart Punk Red Suit (M),Heart Punk Red Suit (M)
+PROPITEM_TXT_902892,Heart Punk Red Shoes (M),Heart Punk Red Shoes (M)
+PROPITEM_TXT_902893,Heart Punk Red Hands (M),Heart Punk Red Hands (M)
+PROPITEM_TXT_902894,Heart Punk 2% Red Set (M),Heart Punk 2% Red Set (M)
+PROPITEM_TXT_902895,The Heart Punk 2% Red Set for male characters.,The Heart Punk 2% Red Set for male characters.
+PROPITEM_TXT_902896,Heart Punk Red Hat (F),Heart Punk Red Hat (F)
+PROPITEM_TXT_902897,Heart Punk Red Suit (F),Heart Punk Red Suit (F)
+PROPITEM_TXT_902898,Heart Punk Red Shoes (F),Heart Punk Red Shoes (F)
+PROPITEM_TXT_902899,Heart Punk Red Hands (F),Heart Punk Red Hands (F)
+PROPITEM_TXT_902900,Heart Punk 2% Red Set (F),Heart Punk 2% Red Set (F)
+PROPITEM_TXT_902901,The Heart Punk 2% Red Set for female characters.,The Heart Punk 2% Red Set for female characters.
+PROPITEM_TXT_902902,Heart Punk Costume Lucky Box,Heart Punk Costume Lucky Box
+PROPITEM_TXT_902903,This box contains a Heart Punk Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Heart Punk Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_902904,Heart Punk Luxury Car Pink,Heart Punk Luxury Car Pink
+PROPITEM_TXT_902905,"Cruise in elegance and romance with the Heart Punk Luxury Car Pink, a dazzling luxury vehicle wrapped in iconic pink style. Maximum Speed: 64 km/h.","Cruise in elegance and romance with the Heart Punk Luxury Car Pink, a dazzling luxury vehicle wrapped in iconic pink style. Maximum Speed: 64 km/h."
+PROPITEM_TXT_902906,Heart Punk Luxury Car Yellow,Heart Punk Luxury Car Yellow
+PROPITEM_TXT_902907,"Cruise in elegance and romance with the Heart Punk Luxury Car Yellow, a dazzling luxury vehicle wrapped in iconic yellow style. Maximum Speed: 64 km/h.","Cruise in elegance and romance with the Heart Punk Luxury Car Yellow, a dazzling luxury vehicle wrapped in iconic yellow style. Maximum Speed: 64 km/h."
+PROPITEM_TXT_902908,Heart Punk Luxury Car Purple,Heart Punk Luxury Car Purple
+PROPITEM_TXT_902909,"Cruise in elegance and romance with the Heart Punk Luxury Car Purple, a dazzling luxury vehicle wrapped in iconic purple style. Maximum Speed: 64 km/h.","Cruise in elegance and romance with the Heart Punk Luxury Car Purple, a dazzling luxury vehicle wrapped in iconic purple style. Maximum Speed: 64 km/h."
+PROPITEM_TXT_902910,Oni-Style Kimono 10% Red Set,Oni-Style Kimono 10% Red Set
+PROPITEM_TXT_902911,Oni-Style Kimono Red Bag,Oni-Style Kimono Red Bag
+PROPITEM_TXT_902912,Oni-Style Kimono Red Mask,Oni-Style Kimono Red Mask
+PROPITEM_TXT_902913,Oni-Style Kimono Red Hat (M),Oni-Style Kimono Red Hat (M)
+PROPITEM_TXT_902914,Oni-Style Kimono Red Suit (M),Oni-Style Kimono Red Suit (M)
+PROPITEM_TXT_902915,Oni-Style Kimono Red Shoes (M),Oni-Style Kimono Red Shoes (M)
+PROPITEM_TXT_902916,Oni-Style Kimono 10% Red Set (M),Oni-Style Kimono 10% Red Set (M)
+PROPITEM_TXT_902917,The Oni-Style Kimono 10% Red Set for male characters.,The Oni-Style Kimono 10% Red Set for male characters.
+PROPITEM_TXT_902918,Oni-Style Kimono Red Hat (F),Oni-Style Kimono Red Hat (F)
+PROPITEM_TXT_902919,Oni-Style Kimono Red Suit (F),Oni-Style Kimono Red Suit (F)
+PROPITEM_TXT_902920,Oni-Style Kimono Red Shoes (F),Oni-Style Kimono Red Shoes (F)
+PROPITEM_TXT_902921,Oni-Style Kimono 10% Red Set (F),Oni-Style Kimono 10% Red Set (F)
+PROPITEM_TXT_902922,The Oni-Style Kimono 10% Red Set for female characters.,The Oni-Style Kimono 10% Red Set for female characters.
+PROPITEM_TXT_902923,Oni-Style Kimono 10% Pink Set,Oni-Style Kimono 10% Pink Set
+PROPITEM_TXT_902924,Oni-Style Kimono Pink Bag,Oni-Style Kimono Pink Bag
+PROPITEM_TXT_902925,Oni-Style Kimono Pink Mask,Oni-Style Kimono Pink Mask
+PROPITEM_TXT_902926,Oni-Style Kimono Pink Hat (M),Oni-Style Kimono Pink Hat (M)
+PROPITEM_TXT_902927,Oni-Style Kimono Pink Suit (M),Oni-Style Kimono Pink Suit (M)
+PROPITEM_TXT_902928,Oni-Style Kimono Pink Shoes (M),Oni-Style Kimono Pink Shoes (M)
+PROPITEM_TXT_902929,Oni-Style Kimono 10% Pink Set (M),Oni-Style Kimono 10% Pink Set (M)
+PROPITEM_TXT_902930,The Oni-Style Kimono 10% Pink Set for male characters.,The Oni-Style Kimono 10% Pink Set for male characters.
+PROPITEM_TXT_902931,Oni-Style Kimono Pink Hat (F),Oni-Style Kimono Pink Hat (F)
+PROPITEM_TXT_902932,Oni-Style Kimono Pink Suit (F),Oni-Style Kimono Pink Suit (F)
+PROPITEM_TXT_902933,Oni-Style Kimono Pink Shoes (F),Oni-Style Kimono Pink Shoes (F)
+PROPITEM_TXT_902934,Oni-Style Kimono 10% Pink Set (F),Oni-Style Kimono 10% Pink Set (F)
+PROPITEM_TXT_902935,The Oni-Style Kimono 10% Pink Set for female characters.,The Oni-Style Kimono 10% Pink Set for female characters.
+PROPITEM_TXT_902936,Oni-Style Kimono 8% Blue Set,Oni-Style Kimono 8% Blue Set
+PROPITEM_TXT_902937,Oni-Style Kimono Blue Bag,Oni-Style Kimono Blue Bag
+PROPITEM_TXT_902938,Oni-Style Kimono Blue Mask,Oni-Style Kimono Blue Mask
+PROPITEM_TXT_902939,Oni-Style Kimono Blue Hat (M),Oni-Style Kimono Blue Hat (M)
+PROPITEM_TXT_902940,Oni-Style Kimono Blue Suit (M),Oni-Style Kimono Blue Suit (M)
+PROPITEM_TXT_902941,Oni-Style Kimono Blue Shoes (M),Oni-Style Kimono Blue Shoes (M)
+PROPITEM_TXT_902942,Oni-Style Kimono 8% Blue Set (M),Oni-Style Kimono 8% Blue Set (M)
+PROPITEM_TXT_902943,The Oni-Style Kimono 8% Blue Set for male characters.,The Oni-Style Kimono 8% Blue Set for male characters.
+PROPITEM_TXT_902944,Oni-Style Kimono Blue Hat (F),Oni-Style Kimono Blue Hat (F)
+PROPITEM_TXT_902945,Oni-Style Kimono Blue Suit (F),Oni-Style Kimono Blue Suit (F)
+PROPITEM_TXT_902946,Oni-Style Kimono Blue Shoes (F),Oni-Style Kimono Blue Shoes (F)
+PROPITEM_TXT_902947,Oni-Style Kimono 8% Blue Set (F),Oni-Style Kimono 8% Blue Set (F)
+PROPITEM_TXT_902948,The Oni-Style Kimono 8% Blue Set for female characters.,The Oni-Style Kimono 8% Blue Set for female characters.
+PROPITEM_TXT_902949,Oni-Style Kimono 8% Green Set,Oni-Style Kimono 8% Green Set
+PROPITEM_TXT_902950,Oni-Style Kimono Green Bag,Oni-Style Kimono Green Bag
+PROPITEM_TXT_902951,Oni-Style Kimono Green Mask,Oni-Style Kimono Green Mask
+PROPITEM_TXT_902952,Oni-Style Kimono Green Hat (M),Oni-Style Kimono Green Hat (M)
+PROPITEM_TXT_902953,Oni-Style Kimono Green Suit (M),Oni-Style Kimono Green Suit (M)
+PROPITEM_TXT_902954,Oni-Style Kimono Green Shoes (M),Oni-Style Kimono Green Shoes (M)
+PROPITEM_TXT_902955,Oni-Style Kimono 8% Green Set (M),Oni-Style Kimono 8% Green Set (M)
+PROPITEM_TXT_902956,The Oni-Style Kimono 8% Green Set for male characters.,The Oni-Style Kimono 8% Green Set for male characters.
+PROPITEM_TXT_902957,Oni-Style Kimono Green Hat (F),Oni-Style Kimono Green Hat (F)
+PROPITEM_TXT_902958,Oni-Style Kimono Green Suit (F),Oni-Style Kimono Green Suit (F)
+PROPITEM_TXT_902959,Oni-Style Kimono Green Shoes (F),Oni-Style Kimono Green Shoes (F)
+PROPITEM_TXT_902960,Oni-Style Kimono 8% Green Set (F),Oni-Style Kimono 8% Green Set (F)
+PROPITEM_TXT_902961,The Oni-Style Kimono 8% Green Set for female characters.,The Oni-Style Kimono 8% Green Set for female characters.
+PROPITEM_TXT_902962,Oni-Style Kimono 6% Purple Set,Oni-Style Kimono 6% Purple Set
+PROPITEM_TXT_902963,Oni-Style Kimono Purple Bag,Oni-Style Kimono Purple Bag
+PROPITEM_TXT_902964,Oni-Style Kimono Purple Mask,Oni-Style Kimono Purple Mask
+PROPITEM_TXT_902965,Oni-Style Kimono Purple Hat (M),Oni-Style Kimono Purple Hat (M)
+PROPITEM_TXT_902966,Oni-Style Kimono Purple Suit (M),Oni-Style Kimono Purple Suit (M)
+PROPITEM_TXT_902967,Oni-Style Kimono Purple Shoes (M),Oni-Style Kimono Purple Shoes (M)
+PROPITEM_TXT_902968,Oni-Style Kimono 6% Purple Set (M),Oni-Style Kimono 6% Purple Set (M)
+PROPITEM_TXT_902969,The Oni-Style Kimono 6% Purple Set for male characters.,The Oni-Style Kimono 6% Purple Set for male characters.
+PROPITEM_TXT_902970,Oni-Style Kimono Purple Hat (F),Oni-Style Kimono Purple Hat (F)
+PROPITEM_TXT_902971,Oni-Style Kimono Purple Suit (F),Oni-Style Kimono Purple Suit (F)
+PROPITEM_TXT_902972,Oni-Style Kimono Purple Shoes (F),Oni-Style Kimono Purple Shoes (F)
+PROPITEM_TXT_902973,Oni-Style Kimono 6% Purple Set (F),Oni-Style Kimono 6% Purple Set (F)
+PROPITEM_TXT_902974,The Oni-Style Kimono 6% Purple Set for female characters.,The Oni-Style Kimono 6% Purple Set for female characters.
+PROPITEM_TXT_902975,Oni-Style Kimono 4% Gold Set,Oni-Style Kimono 4% Gold Set
+PROPITEM_TXT_902976,Oni-Style Kimono Gold Bag,Oni-Style Kimono Gold Bag
+PROPITEM_TXT_902977,Oni-Style Kimono Gold Mask,Oni-Style Kimono Gold Mask
+PROPITEM_TXT_902978,Oni-Style Kimono Gold Hat (M),Oni-Style Kimono Gold Hat (M)
+PROPITEM_TXT_902979,Oni-Style Kimono Gold Suit (M),Oni-Style Kimono Gold Suit (M)
+PROPITEM_TXT_902980,Oni-Style Kimono Gold Shoes (M),Oni-Style Kimono Gold Shoes (M)
+PROPITEM_TXT_902981,Oni-Style Kimono 4% Gold Set (M),Oni-Style Kimono 4% Gold Set (M)
+PROPITEM_TXT_902982,The Oni-Style Kimono 4% Gold Set for male characters.,The Oni-Style Kimono 4% Gold Set for male characters.
+PROPITEM_TXT_902983,Oni-Style Kimono Gold Hat (F),Oni-Style Kimono Gold Hat (F)
+PROPITEM_TXT_902984,Oni-Style Kimono Gold Suit (F),Oni-Style Kimono Gold Suit (F)
+PROPITEM_TXT_902985,Oni-Style Kimono Gold Shoes (F),Oni-Style Kimono Gold Shoes (F)
+PROPITEM_TXT_902986,Oni-Style Kimono 4% Gold Set (F),Oni-Style Kimono 4% Gold Set (F)
+PROPITEM_TXT_902987,The Oni-Style Kimono 4% Gold Set for female characters.,The Oni-Style Kimono 4% Gold Set for female characters.
+PROPITEM_TXT_902988,Oni-Style Kimono 2% Gold black Set,Oni-Style Kimono 2% Gold black Set
+PROPITEM_TXT_902989,Oni-Style Kimono Gold black Bag,Oni-Style Kimono Gold black Bag
+PROPITEM_TXT_902990,Oni-Style Kimono Gold black Mask,Oni-Style Kimono Gold black Mask
+PROPITEM_TXT_902991,Oni-Style Kimono Gold black Hat (M),Oni-Style Kimono Gold black Hat (M)
+PROPITEM_TXT_902992,Oni-Style Kimono Gold black Suit (M),Oni-Style Kimono Gold black Suit (M)
+PROPITEM_TXT_902993,Oni-Style Kimono Gold black Shoes (M),Oni-Style Kimono Gold black Shoes (M)
+PROPITEM_TXT_902994,Oni-Style Kimono 2% Gold black Set (M),Oni-Style Kimono 2% Gold black Set (M)
+PROPITEM_TXT_902995,The Oni-Style Kimono 2% Gold black Set for male characters.,The Oni-Style Kimono 2% Gold black Set for male characters.
+PROPITEM_TXT_902996,Oni-Style Kimono Gold black Hat (F),Oni-Style Kimono Gold black Hat (F)
+PROPITEM_TXT_902997,Oni-Style Kimono Gold black Suit (F),Oni-Style Kimono Gold black Suit (F)
+PROPITEM_TXT_902998,Oni-Style Kimono Gold black Shoes (F),Oni-Style Kimono Gold black Shoes (F)
+PROPITEM_TXT_902999,Oni-Style Kimono 2% Gold black Set (F),Oni-Style Kimono 2% Gold black Set (F)
+PROPITEM_TXT_903000,The Oni-Style Kimono 2% Gold black Set for female characters.,The Oni-Style Kimono 2% Gold black Set for female characters.
+PROPITEM_TXT_903001,Oni-Style Kimono 2% Black Set,Oni-Style Kimono 2% Black Set
+PROPITEM_TXT_903002,Oni-Style Kimono Black Bag,Oni-Style Kimono Black Bag
+PROPITEM_TXT_903003,Oni-Style Kimono Black Mask,Oni-Style Kimono Black Mask
+PROPITEM_TXT_903004,Oni-Style Kimono Black Hat (M),Oni-Style Kimono Black Hat (M)
+PROPITEM_TXT_903005,Oni-Style Kimono Black Suit (M),Oni-Style Kimono Black Suit (M)
+PROPITEM_TXT_903006,Oni-Style Kimono Black Shoes (M),Oni-Style Kimono Black Shoes (M)
+PROPITEM_TXT_903007,Oni-Style Kimono 2% Black Set (M),Oni-Style Kimono 2% Black Set (M)
+PROPITEM_TXT_903008,The Oni-Style Kimono 2% Black Set for male characters.,The Oni-Style Kimono 2% Black Set for male characters.
+PROPITEM_TXT_903009,Oni-Style Kimono Black Hat (F),Oni-Style Kimono Black Hat (F)
+PROPITEM_TXT_903010,Oni-Style Kimono Black Suit (F),Oni-Style Kimono Black Suit (F)
+PROPITEM_TXT_903011,Oni-Style Kimono Black Shoes (F),Oni-Style Kimono Black Shoes (F)
+PROPITEM_TXT_903012,Oni-Style Kimono 2% Black Set (F),Oni-Style Kimono 2% Black Set (F)
+PROPITEM_TXT_903013,The Oni-Style Kimono 2% Black Set for female characters.,The Oni-Style Kimono 2% Black Set for female characters.
+PROPITEM_TXT_903014,Oni-Style Kimono Costume Lucky Box,Oni-Style Kimono Costume Lucky Box
+PROPITEM_TXT_903015,This box contains a Oni-Style Kimono Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Oni-Style Kimono Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_903016,2026 Valentine 10% Red Set,2026 Valentine 10% Red Set
+PROPITEM_TXT_903017,2026 Valentine Red Cloak,2026 Valentine Red Cloak
+PROPITEM_TXT_903018,2026 Valentine Red Glasses,2026 Valentine Red Glasses
+PROPITEM_TXT_903019,2026 Valentine Red Hat (M),2026 Valentine Red Hat (M)
+PROPITEM_TXT_903020,2026 Valentine Red Suit (M),2026 Valentine Red Suit (M)
+PROPITEM_TXT_903021,2026 Valentine Red Shoes (M),2026 Valentine Red Shoes (M)
+PROPITEM_TXT_903022,2026 Valentine 10% Red Set (M),2026 Valentine 10% Red Set (M)
+PROPITEM_TXT_903023,The 2026 Valentine 10% Red Set for male characters.,The 2026 Valentine 10% Red Set for male characters.
+PROPITEM_TXT_903024,2026 Valentine Red Hat (F),2026 Valentine Red Hat (F)
+PROPITEM_TXT_903025,2026 Valentine Red Suit (F),2026 Valentine Red Suit (F)
+PROPITEM_TXT_903026,2026 Valentine Red Shoes (F),2026 Valentine Red Shoes (F)
+PROPITEM_TXT_903027,2026 Valentine 10% Red Set (F),2026 Valentine 10% Red Set (F)
+PROPITEM_TXT_903028,The 2026 Valentine 10% Red Set for female characters.,The 2026 Valentine 10% Red Set for female characters.
+PROPITEM_TXT_903029,2026 Valentine 10% Orange Set,2026 Valentine 10% Orange Set
+PROPITEM_TXT_903030,2026 Valentine Orange Cloak,2026 Valentine Orange Cloak
+PROPITEM_TXT_903031,2026 Valentine Orange Glasses,2026 Valentine Orange Glasses
+PROPITEM_TXT_903032,2026 Valentine Orange Hat (M),2026 Valentine Orange Hat (M)
+PROPITEM_TXT_903033,2026 Valentine Orange Suit (M),2026 Valentine Orange Suit (M)
+PROPITEM_TXT_903034,2026 Valentine Orange Shoes (M),2026 Valentine Orange Shoes (M)
+PROPITEM_TXT_903035,2026 Valentine 10% Orange Set (M),2026 Valentine 10% Orange Set (M)
+PROPITEM_TXT_903036,The 2026 Valentine 10% Orange Set for male characters.,The 2026 Valentine 10% Orange Set for male characters.
+PROPITEM_TXT_903037,2026 Valentine Orange Hat (F),2026 Valentine Orange Hat (F)
+PROPITEM_TXT_903038,2026 Valentine Orange Suit (F),2026 Valentine Orange Suit (F)
+PROPITEM_TXT_903039,2026 Valentine Orange Shoes (F),2026 Valentine Orange Shoes (F)
+PROPITEM_TXT_903040,2026 Valentine 10% Orange Set (F),2026 Valentine 10% Orange Set (F)
+PROPITEM_TXT_903041,The 2026 Valentine 10% Orange Set for female characters.,The 2026 Valentine 10% Orange Set for female characters.
+PROPITEM_TXT_903042,2026 Valentine 8% Yellow Set,2026 Valentine 8% Yellow Set
+PROPITEM_TXT_903043,2026 Valentine Yellow Cloak,2026 Valentine Yellow Cloak
+PROPITEM_TXT_903044,2026 Valentine Yellow Glasses,2026 Valentine Yellow Glasses
+PROPITEM_TXT_903045,2026 Valentine Yellow Hat (M),2026 Valentine Yellow Hat (M)
+PROPITEM_TXT_903046,2026 Valentine Yellow Suit (M),2026 Valentine Yellow Suit (M)
+PROPITEM_TXT_903047,2026 Valentine Yellow Shoes (M),2026 Valentine Yellow Shoes (M)
+PROPITEM_TXT_903048,2026 Valentine 8% Yellow Set (M),2026 Valentine 8% Yellow Set (M)
+PROPITEM_TXT_903049,The 2026 Valentine 8% Yellow Set for male characters.,The 2026 Valentine 8% Yellow Set for male characters.
+PROPITEM_TXT_903050,2026 Valentine Yellow Hat (F),2026 Valentine Yellow Hat (F)
+PROPITEM_TXT_903051,2026 Valentine Yellow Suit (F),2026 Valentine Yellow Suit (F)
+PROPITEM_TXT_903052,2026 Valentine Yellow Shoes (F),2026 Valentine Yellow Shoes (F)
+PROPITEM_TXT_903053,2026 Valentine 8% Yellow Set (F),2026 Valentine 8% Yellow Set (F)
+PROPITEM_TXT_903054,The 2026 Valentine 8% Yellow Set for female characters.,The 2026 Valentine 8% Yellow Set for female characters.
+PROPITEM_TXT_903055,2026 Valentine 8% Green Set,2026 Valentine 8% Green Set
+PROPITEM_TXT_903056,2026 Valentine Green Cloak,2026 Valentine Green Cloak
+PROPITEM_TXT_903057,2026 Valentine Green Glasses,2026 Valentine Green Glasses
+PROPITEM_TXT_903058,2026 Valentine Green Hat (M),2026 Valentine Green Hat (M)
+PROPITEM_TXT_903059,2026 Valentine Green Suit (M),2026 Valentine Green Suit (M)
+PROPITEM_TXT_903060,2026 Valentine Green Shoes (M),2026 Valentine Green Shoes (M)
+PROPITEM_TXT_903061,2026 Valentine 8% Green Set (M),2026 Valentine 8% Green Set (M)
+PROPITEM_TXT_903062,The 2026 Valentine 8% Green Set for male characters.,The 2026 Valentine 8% Green Set for male characters.
+PROPITEM_TXT_903063,2026 Valentine Green Hat (F),2026 Valentine Green Hat (F)
+PROPITEM_TXT_903064,2026 Valentine Green Suit (F),2026 Valentine Green Suit (F)
+PROPITEM_TXT_903065,2026 Valentine Green Shoes (F),2026 Valentine Green Shoes (F)
+PROPITEM_TXT_903066,2026 Valentine 8% Green Set (F),2026 Valentine 8% Green Set (F)
+PROPITEM_TXT_903067,The 2026 Valentine 8% Green Set for female characters.,The 2026 Valentine 8% Green Set for female characters.
+PROPITEM_TXT_903068,2026 Valentine 6% Blue Set,2026 Valentine 6% Blue Set
+PROPITEM_TXT_903069,2026 Valentine Blue Cloak,2026 Valentine Blue Cloak
+PROPITEM_TXT_903070,2026 Valentine Blue Glasses,2026 Valentine Blue Glasses
+PROPITEM_TXT_903071,2026 Valentine Blue Hat (M),2026 Valentine Blue Hat (M)
+PROPITEM_TXT_903072,2026 Valentine Blue Suit (M),2026 Valentine Blue Suit (M)
+PROPITEM_TXT_903073,2026 Valentine Blue Shoes (M),2026 Valentine Blue Shoes (M)
+PROPITEM_TXT_903074,2026 Valentine 6% Blue Set (M),2026 Valentine 6% Blue Set (M)
+PROPITEM_TXT_903075,The 2026 Valentine 6% Blue Set for male characters.,The 2026 Valentine 6% Blue Set for male characters.
+PROPITEM_TXT_903076,2026 Valentine Blue Hat (F),2026 Valentine Blue Hat (F)
+PROPITEM_TXT_903077,2026 Valentine Blue Suit (F),2026 Valentine Blue Suit (F)
+PROPITEM_TXT_903078,2026 Valentine Blue Shoes (F),2026 Valentine Blue Shoes (F)
+PROPITEM_TXT_903079,2026 Valentine 6% Blue Set (F),2026 Valentine 6% Blue Set (F)
+PROPITEM_TXT_903080,The 2026 Valentine 6% Blue Set for female characters.,The 2026 Valentine 6% Blue Set for female characters.
+PROPITEM_TXT_903081,2026 Valentine 4% Purple Set,2026 Valentine 4% Purple Set
+PROPITEM_TXT_903082,2026 Valentine Purple Cloak,2026 Valentine Purple Cloak
+PROPITEM_TXT_903083,2026 Valentine Purple Glasses,2026 Valentine Purple Glasses
+PROPITEM_TXT_903084,2026 Valentine Purple Hat (M),2026 Valentine Purple Hat (M)
+PROPITEM_TXT_903085,2026 Valentine Purple Suit (M),2026 Valentine Purple Suit (M)
+PROPITEM_TXT_903086,2026 Valentine Purple Shoes (M),2026 Valentine Purple Shoes (M)
+PROPITEM_TXT_903087,2026 Valentine 4% Purple Set (M),2026 Valentine 4% Purple Set (M)
+PROPITEM_TXT_903088,The 2026 Valentine 4% Purple Set for male characters.,The 2026 Valentine 4% Purple Set for male characters.
+PROPITEM_TXT_903089,2026 Valentine Purple Hat (F),2026 Valentine Purple Hat (F)
+PROPITEM_TXT_903090,2026 Valentine Purple Suit (F),2026 Valentine Purple Suit (F)
+PROPITEM_TXT_903091,2026 Valentine Purple Shoes (F),2026 Valentine Purple Shoes (F)
+PROPITEM_TXT_903092,2026 Valentine 4% Purple Set (F),2026 Valentine 4% Purple Set (F)
+PROPITEM_TXT_903093,The 2026 Valentine 4% Purple Set for female characters.,The 2026 Valentine 4% Purple Set for female characters.
+PROPITEM_TXT_903094,2026 Valentine 2% Pink Set,2026 Valentine 2% Pink Set
+PROPITEM_TXT_903095,2026 Valentine Pink Cloak,2026 Valentine Pink Cloak
+PROPITEM_TXT_903096,2026 Valentine Pink Glasses,2026 Valentine Pink Glasses
+PROPITEM_TXT_903097,2026 Valentine Pink Hat (M),2026 Valentine Pink Hat (M)
+PROPITEM_TXT_903098,2026 Valentine Pink Suit (M),2026 Valentine Pink Suit (M)
+PROPITEM_TXT_903099,2026 Valentine Pink Shoes (M),2026 Valentine Pink Shoes (M)
+PROPITEM_TXT_903100,2026 Valentine 2% Pink Set (M),2026 Valentine 2% Pink Set (M)
+PROPITEM_TXT_903101,The 2026 Valentine 2% Pink Set for male characters.,The 2026 Valentine 2% Pink Set for male characters.
+PROPITEM_TXT_903102,2026 Valentine Pink Hat (F),2026 Valentine Pink Hat (F)
+PROPITEM_TXT_903103,2026 Valentine Pink Suit (F),2026 Valentine Pink Suit (F)
+PROPITEM_TXT_903104,2026 Valentine Pink Shoes (F),2026 Valentine Pink Shoes (F)
+PROPITEM_TXT_903105,2026 Valentine 2% Pink Set (F),2026 Valentine 2% Pink Set (F)
+PROPITEM_TXT_903106,The 2026 Valentine 2% Pink Set for female characters.,The 2026 Valentine 2% Pink Set for female characters.
+PROPITEM_TXT_903107,2026 Valentine 2% Brown Set,2026 Valentine 2% Brown Set
+PROPITEM_TXT_903108,2026 Valentine Brown Cloak,2026 Valentine Brown Cloak
+PROPITEM_TXT_903109,2026 Valentine Brown Glasses,2026 Valentine Brown Glasses
+PROPITEM_TXT_903110,2026 Valentine Brown Hat (M),2026 Valentine Brown Hat (M)
+PROPITEM_TXT_903111,2026 Valentine Brown Suit (M),2026 Valentine Brown Suit (M)
+PROPITEM_TXT_903112,2026 Valentine Brown Shoes (M),2026 Valentine Brown Shoes (M)
+PROPITEM_TXT_903113,2026 Valentine 2% Brown Set (M),2026 Valentine 2% Brown Set (M)
+PROPITEM_TXT_903114,The 2026 Valentine 2% Brown Set for male characters.,The 2026 Valentine 2% Brown Set for male characters.
+PROPITEM_TXT_903115,2026 Valentine Brown Hat (F),2026 Valentine Brown Hat (F)
+PROPITEM_TXT_903116,2026 Valentine Brown Suit (F),2026 Valentine Brown Suit (F)
+PROPITEM_TXT_903117,2026 Valentine Brown Shoes (F),2026 Valentine Brown Shoes (F)
+PROPITEM_TXT_903118,2026 Valentine 2% Brown Set (F),2026 Valentine 2% Brown Set (F)
+PROPITEM_TXT_903119,The 2026 Valentine 2% Brown Set for female characters.,The 2026 Valentine 2% Brown Set for female characters.
+PROPITEM_TXT_903120,2026 Valentine Costume Lucky Box,2026 Valentine Costume Lucky Box
+PROPITEM_TXT_903121,This box contains a 2026 Valentine Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a 2026 Valentine Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_903122,2026 Lunar New Year Coupon,2026 Lunar New Year Coupon
+PROPITEM_TXT_903123,"A package containing 5x Server Shout, 5x Channel Shout, 1x Transy, 1x Item Transy B, 26x Sulnal Bomb, 1x Trans Random Box, 1x Flyffer's Flying Select Box (15 days) and 2026 Rice Cake Soup Select Box. All items are also linked.","A package containing 5x Server Shout, 5x Channel Shout, 1x Transy, 1x Item Transy B, 26x Sulnal Bomb, 1x Trans Random Box, 1x Flyffer's Flying Select Box (15 days) and 2026 Rice Cake Soup Select Box. All items are also linked."
+PROPITEM_TXT_903124,Flyffer's Flying Select Box (15 days),Flyffer's Flying Select Box (15 days)
+PROPITEM_TXT_903125,"This mysterious box contains 18 unique flying mounts, each crafted for true adventurers of Madrigal. Open it and choose your favorite one!","This mysterious box contains 18 unique flying mounts, each crafted for true adventurers of Madrigal. Open it and choose your favorite one!"

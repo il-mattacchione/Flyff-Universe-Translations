@@ -595,7 +595,7 @@ PROPSKILL_TXT_150095,Increased Range,距离提升
 PROPSKILL_TXT_150096,Quick Stun,迅速击晕
 PROPSKILL_TXT_150097,Forceful Attack,强力打击
 PROPSKILL_TXT_150098,Maelstrom Strike,漩涡打击
-PROPSKILL_TXT_150099,"A spinning attack that releases a gust of wind, hitting nearby enemies twice with a chance to stun.","发动旋转攻击，释放一股旋风，对附近敌人造成两次打击并有概率触发击晕效果。"
+PROPSKILL_TXT_150099,"A spinning attack that releases a gust of wind, hitting nearby enemies twice with a chance to stun.",发动旋转攻击，释放一股旋风，对附近敌人造成两次打击并有概率触发击晕效果。
 PROPSKILL_TXT_150100,Enhance Stun,眩晕强化
 PROPSKILL_TXT_150101,Quick Stun,迅速击晕
 PROPSKILL_TXT_150103,Templar's Call,虔信号令
@@ -609,7 +609,7 @@ PROPSKILL_TXT_150110,Deep Impact,深度冲击
 PROPSKILL_TXT_150111,Ankle Strike,裂踝斩
 PROPSKILL_TXT_150112,Shield,护盾
 PROPSKILL_TXT_150113,Sky Splitter,裂空斩
-PROPSKILL_TXT_150114,"Split the skies using your two handed weapon, dealing damage to your target. Requires a two handed weapon.","以双手武器斩裂天空，对目标造成伤害。需装备双手武器。"
+PROPSKILL_TXT_150114,"Split the skies using your two handed weapon, dealing damage to your target. Requires a two handed weapon.",以双手武器斩裂天空，对目标造成伤害。需装备双手武器。
 PROPSKILL_TXT_150116,Defensive Stance,防御姿态
 PROPSKILL_TXT_150117,Reduce Cooldown,冷却缩减
 PROPSKILL_TXT_150118,Strong Impact,强力冲击
@@ -621,7 +621,7 @@ PROPSKILL_TXT_150123,Damage Reduction,伤害减免
 PROPSKILL_TXT_150124,Increased HP Recovery,HP恢复提升
 PROPSKILL_TXT_150125,Gain additional HP recovery when restoring it with items or skills.,通过物品或技能恢复生命值时，获得额外生命恢复效果。
 PROPSKILL_TXT_150126,Undying,不死
-PROPSKILL_TXT_150127,"Gain stacks of Undying, protecting you from going below 1 HP. If a stack is consumed, HP, FP, and MP are all reduced to 1. Once all stacks are consumed, you are no longer protected.","累积不死层数，可保护你的生命值不低于1点。当层数被消耗时，HP、FP与MP均将降至1点。所有层数耗尽后，此保护效果消失。"
+PROPSKILL_TXT_150127,"Gain stacks of Undying, protecting you from going below 1 HP. If a stack is consumed, HP, FP, and MP are all reduced to 1. Once all stacks are consumed, you are no longer protected.",累积不死层数，可保护你的生命值不低于1点。当层数被消耗时，HP、FP与MP均将降至1点。所有层数耗尽后，此保护效果消失。
 PROPSKILL_TXT_150128,Enhanced HP Recovery,强化生命恢复
 PROPSKILL_TXT_150129,Improve the effectiveness of healing received when low on health.,低生命值时受到的治疗效果提升。
 PROPSKILL_TXT_150130,Increased HP Regeneration,生命再生提升
@@ -729,19 +729,19 @@ PROPSKILL_TXT_140098,Increased damage for auto attacks when you more than 5m fro
 PROPSKILL_TXT_140099,Feeble Arms,虚弱之臂
 PROPSKILL_TXT_140100,Monsters take less damages from you but have higher drop rates.,怪物对你造成的伤害降低，但掉落物品的概率提升。
 PROPSKILL_TXT_150142,Four Strikes,连击四式
-PROPSKILL_TXT_150143,"Your auto attacks apply stacks, which pop at 4 stacks to deal extra damage.","你的普通攻击会叠加层数，达到4层时自动引爆，造成额外伤害。"
+PROPSKILL_TXT_150143,"Your auto attacks apply stacks, which pop at 4 stacks to deal extra damage.",你的普通攻击会叠加层数，达到4层时自动引爆，造成额外伤害。
 PROPSKILL_TXT_150144,Auto Attack Stacks,普攻叠层
 PROPSKILL_TXT_150145,Execution of Justice,正义处决
-PROPSKILL_TXT_150146,"Leap forward, knocking nearby enemies towards you and reducing their movement speed.","向前跃起，将附近敌人拉向你身前并降低其移动速度。"
+PROPSKILL_TXT_150146,"Leap forward, knocking nearby enemies towards you and reducing their movement speed.",向前跃起，将附近敌人拉向你身前并降低其移动速度。
 PROPSKILL_TXT_150147,Leap of Faith,信仰之跃
 PROPSKILL_TXT_150148,Hero's Emergence,英雄新生
 PROPSKILL_TXT_150149,Faction Collapse,阵营崩陷
 PROPSKILL_TXT_150150,Lillith's Gaze,莉莉丝的凝视
-PROPSKILL_TXT_150151,"Gaze upon your target, slowing them down and forcing them to move towards you.","凝视目标，使其减速并被迫向你移动。"
+PROPSKILL_TXT_150151,"Gaze upon your target, slowing them down and forcing them to move towards you.",凝视目标，使其减速并被迫向你移动。
 PROPSKILL_TXT_150152,Sure Gaze,坚定凝视
 PROPSKILL_TXT_150153,Slowing,减速
 PROPSKILL_TXT_150155,Cimetiere's Scream,西梅泰尔的尖啸
-PROPSKILL_TXT_150156,"Invoke the spirit of Cimetiere for a short period on the target area, dealing damage to the vicinity with a chance to silence.","在目标区域短暂召唤西梅泰尔之灵，对周围敌人造成伤害并有概率施加沉默效果。"
+PROPSKILL_TXT_150156,"Invoke the spirit of Cimetiere for a short period on the target area, dealing damage to the vicinity with a chance to silence.",在目标区域短暂召唤西梅泰尔之灵，对周围敌人造成伤害并有概率施加沉默效果。
 PROPSKILL_TXT_150158,Debuff Chance,减益概率
 PROPSKILL_TXT_150160,Aether Rend,以太撕裂
 PROPSKILL_TXT_150161,Remove a number of Disable and Weaken debuffs from your target up to the number of Malefic Detonation and Damnation Surge stacks available. This skill consumes all stacks of both skills. The damage of this skill scales with Debuff and Weaken effect on you.,移除目标身上的若干控制与虚弱减益效果，移除数量取决于【邪能爆裂】与【诅咒奔涌】的当前叠层数。此技能将消耗上述两种技能的所有叠层，其伤害随你身上的减益与虚弱效果强度提升。
@@ -756,12 +756,12 @@ PROPSKILL_TXT_150171,"Throw a vial of toxins at an area, creating a mist of pois
 PROPSKILL_TXT_150172,Extended Range,距离增加
 PROPSKILL_TXT_150174,Gas Cloud,瘴雾
 PROPSKILL_TXT_150175,Bloody Rush,血涌突袭
-PROPSKILL_TXT_150176,"Rush forward, causing slicing and bleeding the first enemy hit.","向前突进，对首个命中的敌人造成切割伤害并附加流血效果。"
+PROPSKILL_TXT_150176,"Rush forward, causing slicing and bleeding the first enemy hit.",向前突进，对首个命中的敌人造成切割伤害并附加流血效果。
 PROPSKILL_TXT_150177,Enhanced Dash,强力冲锋
 PROPSKILL_TXT_150178,Strong Impact,强力冲击
 PROPSKILL_TXT_150179,Bloody Release,血液释放
 PROPSKILL_TXT_150180,Cross of Blood,血十字
-PROPSKILL_TXT_150181,"Charge your blood and stomp on the ground, hurting and bleeding nearby enemies. Fully charged stomps do extra hits.","凝聚血力猛踏地面，对周围敌人造成伤害并施加流血效果。蓄力至满后，踏击将额外造成多次打击。"
+PROPSKILL_TXT_150181,"Charge your blood and stomp on the ground, hurting and bleeding nearby enemies. Fully charged stomps do extra hits.",凝聚血力猛踏地面，对周围敌人造成伤害并施加流血效果。蓄力至满后，踏击将额外造成多次打击。
 PROPSKILL_TXT_150183,Berserk,狂暴
 PROPSKILL_TXT_150184,Knockback,击退
 PROPSKILL_TXT_150185,Bloody Thorn,Bloody Thorn
@@ -812,7 +812,7 @@ PROPSKILL_TXT_150235,"Chant a hymn which provides nearby allies and yourself wit
 PROPSKILL_TXT_150239,Gloria Patri,荣耀颂祷
 PROPSKILL_TXT_150240,"Chant a hymn which heals nearby allies and yourself periodically. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting.",吟唱圣歌，周期性地为周围友方及自身恢复生命。吟唱期间使用其他技能将中断吟唱。圣歌的治疗效果随持续吟唱时间逐步增强。
 PROPSKILL_TXT_150244,Kyrie Eleison,怜恤祷言
-PROPSKILL_TXT_150245,"Chant a hymn which provides nearby allies and yourself with increased vital regeneration powers. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting.",吟唱圣歌，为周围友方及自身提升生命恢复效能。吟唱期间使用其他技能将中断吟唱。圣歌的效果随持续吟唱时间逐步增强。
+PROPSKILL_TXT_150245,"Chant a hymn which provides nearby allies and yourself with increased Attack Power, Magic Power, and Tenacity. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting.",吟唱圣歌，为周围友方及自身提升生命恢复效能。吟唱期间使用其他技能将中断吟唱。圣歌的效果随持续吟唱时间逐步增强。
 PROPSKILL_TXT_150249,Flow of Salvation,神佑流转
 PROPSKILL_TXT_150250,"Breath the flow of salvation into your target, healing them and flowing to nearby targets if they are allies, or dealing damage otherwise.",向目标释放救赎气息，对其进行治疗；若目标为友方，治疗效果将流转至附近其他友方目标；若目标为敌方，则转为造成伤害。
 PROPSKILL_TXT_150251,Increased Healing,治疗量强化
@@ -862,7 +862,7 @@ PROPSKILL_TXT_150302,Quick Movement,快速移动
 PROPSKILL_TXT_150303,Critical Damage,暴击伤害
 PROPSKILL_TXT_150304,Knuckle Power,拳套之力
 PROPSKILL_TXT_150305,Bubble's Blessing,波卜尔的祝福
-PROPSKILL_TXT_150306,Casts an aura that increases allies’ magic attack and critical damage. Can be re-cast to cancel.,Casts an aura that increases allies’ magic attack and critical damage. Can be re-cast to cancel.
+PROPSKILL_TXT_150306,Casts an aura that increases allies’ Movement Speed and critical damage. Can be re-cast to cancel.,Casts an aura that increases allies’ Movement Speed and critical damage. Can be re-cast to cancel.
 PROPSKILL_TXT_150309,Range Extension,Range Extension
 PROPSKILL_TXT_150310,Touch of Rhisis,莱斯神之触
 PROPSKILL_TXT_150311,Casts an aura that increases nearby allies’ defense and block rate. Cannot be used with other auras at the same time. Can be re-cast to cancel.,Casts an aura that increases nearby allies’ defense and block rate. Cannot be used with other auras at the same time. Can be re-cast to cancel.
@@ -1031,8 +1031,8 @@ PROPSKILL_TXT_150494,"Whirlwind moves forward, lifting enemies into the air.","W
 PROPSKILL_TXT_150495,Successful follow-up hits increased damage is increased further.,Successful follow-up hits increased damage is increased further.
 PROPSKILL_TXT_150496,Increases the chance to knock down enemies.,Increases the chance to knock down enemies.
 PROPSKILL_TXT_150497,Successful follow up hit reduces the target's movement speed.,Successful follow up hit reduces the target's movement speed.
-PROPSKILL_TXT_150498,"Casts an aura that greatly reduces the caster's movement speed while increasing allies’ magic attack, critical damage, and attack. Cannot be used with other auras at the same time.","Casts an aura that greatly reduces the caster's movement speed while increasing allies’ magic attack, critical damage, and attack. Cannot be used with other auras at the same time."
-PROPSKILL_TXT_150499,"Casts an aura that greatly reduces the caster's movement speed while increasing allies’ magic attack, critical damage, and attack. Cannot be used with other auras at the same time.","Casts an aura that greatly reduces the caster's movement speed while increasing allies’ magic attack, critical damage, and attack. Cannot be used with other auras at the same time."
+PROPSKILL_TXT_150498,"Casts an aura that greatly reduces the caster's movement speed while increasing allies’ movement speed, critical damage, and attack. Cannot be used with other auras at the same time.","Casts an aura that greatly reduces the caster's movement speed while increasing allies’ movement speed, critical damage, and attack. Cannot be used with other auras at the same time."
+PROPSKILL_TXT_150499,"Casts an aura that greatly reduces the caster's movement speed while increasing allies’ movement speed, critical damage, and attack. Cannot be used with other auras at the same time.","Casts an aura that greatly reduces the caster's movement speed while increasing allies’ movement speed, critical damage, and attack. Cannot be used with other auras at the same time."
 PROPSKILL_TXT_150500,Casts an aura that reduces movement speed but increases allies’ defense and block rate.,Casts an aura that reduces movement speed but increases allies’ defense and block rate.
 PROPSKILL_TXT_150501,Casts an aura that reduces the caster's movement speed while increasing allies’ magic attack and critical damage.,Casts an aura that reduces the caster's movement speed while increasing allies’ magic attack and critical damage.
 PROPSKILL_TXT_150502,"Casts an aura that greatly reduces movement speed but increases allies’ damage reduction, critical resistance, and element resistance. Cannot be used with other auras at the same time.","Casts an aura that greatly reduces movement speed but increases allies’ damage reduction, critical resistance, and element resistance. Cannot be used with other auras at the same time."
