@@ -157,7 +157,7 @@ UI_OPTION_TAB_CONTROLS,Controls,Kontrol
 UI_OPTION_TAB_VIDEO,Graphics,Grafis
 UI_OPTION_TAB_GRAPHICS,Video,Video
 UI_OPTION_TAB_AUDIO,Audio,Audio
-UI_OPTION_PM,Whispers and Messages,Whispers dan Messages
+UI_OPTION_PM,Whispers and Messages,Bisikan dan Pesan
 UI_OPTION_PARTY,Party and guild invites,Party dan undangan party
 UI_OPTION_FRIEND,Friend Invites,Friend Invites
 UI_OPTION_SIEGE_CAPTION,Guild Siege Captions,Guild Siege Captions
@@ -175,7 +175,7 @@ UI_SHOP_GENDER,By Gender,Berdasarkan Gender
 UI_SHOP_ITEMPRICE,Item Price,Item Price
 UI_SELLITEM_TITLE,Selling Confirm,Selling Confirm
 UI_SELLITEM_CONFIRM,Really sell this item?,Yakin menjual barang ini?
-UI_SELLITEM_QTY,Quantity,Quantity
+UI_SELLITEM_QTY,Quantity,Kuantitas
 UI_SELLITEM_PRICE,Selling Price:,Harga Jual:
 UI_MSGBOX_VALID,Ok,Ok
 UI_BUYITEM_TITLE,Confirm Item Purchase,Konfirmasi Pembelian Item
@@ -301,7 +301,7 @@ UI_PARTY_SEARCHMODE,Search Mode,Mode Pencarian
 UI_PARTY_TRANSFER,Transfer,Transfer
 UI_PARTY_LEAVE,Leave,Leave
 UI_PARTY_KICK,Kick,Kick
-UI_PARTY_CHANGE,Change,Change
+UI_PARTY_CHANGE,Change,Ganti
 UI_PARTY_CONFIRM,Confirm Party,Konfirmasi Party
 UI_PARTY_INVITEQUESTION,%s invites you to join the party. Do you accept?,%s mengundang kamu untuk bergabung dengan party. Apakah kamu menerima?
 UI_PARTY_LEAVE_TIP,"This option will allow members to leave the party or give the Party Leader the ability to remove a member. In order to remove a player, you will first need to select them, and then press the Leave Button.","Opsi ini akan memungkinkan anggota untuk meninggalkan party atau memberikan kemampuan kepada Pemimpin Party untuk mengeluarkan anggota. Untuk menghapus pemain, kamu harus memilihnya terlebih dahulu, lalu tekan Leave Button."
@@ -322,9 +322,9 @@ UI_MESSENGER_ONLINE,Online,Online
 UI_MESSENGER_OFFLINE,Offline,Offline
 UI_MESSENGER_ABSENT,AFK,AFK
 UI_MESSENGER_HARDPLAY,Addict Mode,Addict Mode
-UI_MESSENGER_REST,Resting / Vending,Resting / Vending
-UI_MESSENGER_EAT,Eating,Eating
-UI_MESSENGER_MOVE,Moving,Moving
+UI_MESSENGER_REST,Resting / Vending,Beristirahat / Vending
+UI_MESSENGER_EAT,Eating,Makan
+UI_MESSENGER_MOVE,Moving,Bergerak
 UI_MESSENGER_FRIEND,Friend,Teman
 UI_MESSENGER_SORT_CHANNEL,Ch.,Ch.
 UI_MESSENGER_SORT_STATE,State,State
@@ -436,7 +436,7 @@ UI_QUEST_DESTINATION,#bMeet #cff78e12f%s#nc#nb,#bTemui #cff78e12f%s#nc#nb
 UI_QUEST_CANCEL_CONFIRM,Are you going to cancel the quest?,Apakah kamu akan membatalkan pencarian?
 UI_CONFIRMATION,Confirmation,Konfirmasi
 UI_QUEST_DESTINATION_TITLE,Destination,Destination
-UI_MSGBOX_INFO,Information,Information
+UI_MSGBOX_INFO,Information,Informasi
 UI_OPTION_UIALPHA,Opacity,Opacity
 UI_QUESTGOAL,Quest Goal,Quest Goal
 UI_GUILD_TAB_INFO,Info,Info
@@ -488,12 +488,12 @@ UI_GUILDPAY_MESSAGE,What amount will you set for payment?,Berapa jumlah yang aka
 UI_GUILDPAY_AMOUNT,Amount,Amount
 UI_GUILD_GRADE,Title,Title
 UI_GUILD_ALIAS,Nickname,Nickname
-UI_GUILD_APPELATION_UP,Promote Member,Promote Member
-UI_GUILD_APPELATION_DOWN,Demote Member,Demote Member
-UI_GUILD_CLASS_UP,Class Up,Class Up
-UI_GUILD_CLASS_DOWN,Class Down,Class Down
-UI_GUILD_CREATE_ALIAS,Create Nickname,Create Nickname
-UI_GUILD_LEAVE,Leave Guild,Leave Guild
+UI_GUILD_APPELATION_UP,Promote Member,Mempromosikan Anggota
+UI_GUILD_APPELATION_DOWN,Demote Member,Menurunkan pangkat Anggota
+UI_GUILD_CLASS_UP,Class Up,Naik Kelas
+UI_GUILD_CLASS_DOWN,Class Down,Turun Kelas
+UI_GUILD_CREATE_ALIAS,Create Nickname,Membuat Nickname
+UI_GUILD_LEAVE,Leave Guild,Keluar Guild
 UI_GUILD_TRANSFER_LEADER,Promote to Guild Master,Promosikan ke Guild Master
 UI_GUILDALIAS_TITLE,Setup Guild Title,Setup Guild Title
 UI_GUILDALIAS_ENTER,Enter Title,Masukan Title
@@ -509,7 +509,7 @@ UI_GUILDMERIT_QUESTITEMS,Quest Items,Quest Items
 UI_GUILDMERIT_PENYA,Penya,Penya
 UI_GUILDCOMBATBOARD_TITLE,Guild Siege Information,Guild Siege Information
 UI_GUILDBANKLOG_TITLE,Guild Bank Log,Guild Bank Log
-UI_GUILDBANKLOG_ADDITEM,Add Item,Add Item
+UI_GUILDBANKLOG_ADDITEM,Add Item,Tambah Item
 UI_GUILDBANKLOG_REMOVEITEM,Remove Item,Remove Item
 UI_GUILDBANKLOG_ADDGOLD,Deposit Penya,Deposit Penya
 UI_GUILDBANKLOG_REMOVEGOLD,Withdraw Penya,Withdraw Penya
@@ -532,14 +532,14 @@ UI_GUILDRANK_TAB_GUILD_BEST,Best Guild,Best Guild
 UI_GUILDRANK_TAB_GUILD_UNITED,Best Guild of Unity,Best Guild of Unity
 UI_GUILDRANK_TAB_GUILD_PENYA,Richest Guild,Richest Guild
 UI_GUILDRANK_RANKING,Ranking,Ranking
-UI_GUILDRANK_GUILDNAME,Guild Name,Guild Name
-UI_GUILDRANK_LEADERNAME,Master Name,Master Name
+UI_GUILDRANK_GUILDNAME,Guild Name,Nama Guild
+UI_GUILDRANK_LEADERNAME,Master Name,Nama Master
 UI_GUILDRANK_WINLOSE,Win / Lose,Win / Lose
 UI_GUILDRANK_AVGLEVEL,Average Level,Average Level
 UI_GUILD_WAR_DECLARE,Duel,Duel
 UI_GUILD_WAR_PEACE,Peace,Peace
 UI_GUILD_WAR_GIVEUP,Give Up,Give Up
-UI_GUILD_WAR_NAME,Guild Name:,Guild Name:
+UI_GUILD_WAR_NAME,Guild Name:,Nama Guild:
 UI_GUILD_WAR_LOGO,Guild Logo:,Guild Logo:
 UI_GUILD_WAR_WON,Won:,Won:
 UI_GUILD_WAR_LOST,Lost:,Lost:
@@ -600,12 +600,12 @@ UI_RESURRECTION_TITLE,Resurrection Confirm,Konfirmasi Kebangkitan
 UI_RESURRECTION_MESSAGE,Another player is trying to resurrect you (skill level %d). Do you want to be resurrected?,Another player is trying to resurrect you (skill level %d). Do you want to be resurrected?
 UI_TOOLTIP_EQUIPSET,Set Effect,Mengatur Efek
 UI_TOOLTIP_BLOCKRATE,Block,Block
-UI_OPTION_FIELDVIEW_AUTO,Auto,Auto
+UI_OPTION_FIELDVIEW_AUTO,Auto,Otomatis
 UI_OPTION_FIELDVIEW_HIGH,High,Tinggi
-UI_OPTION_FIELDVIEW_VERYHIGH,Very High,Very High
+UI_OPTION_FIELDVIEW_VERYHIGH,Very High,Sangat Tinggi
 UI_OPTION_FIELDVIEW_MEDIUM,Medium,Sedang
 UI_OPTION_FIELDVIEW_LOW,Low,Rendah
-UI_OPTION_FIELDVIEW_VERYLOW,Very Low,Very Low
+UI_OPTION_FIELDVIEW_VERYLOW,Very Low,Sangat Rendah
 UI_OPTION_FIELDVIEW,View,View
 UI_OPTION_FIELDVIEW_EXTREME,Extreme,Extreme
 UI_OPTION_COLORBLIND_1,Protanopia,Protanopia
@@ -627,7 +627,7 @@ UI_PRIVATE_SHOP_LIST,Sale List,Sale List
 UI_PRIVATE_SHOP_RESET,Reset,Reset
 UI_PRIVATE_SHOP_CHAT,Chat,Chat
 UI_PRIVATE_SHOP_SELL_TITLE,Sell Item Registration,Jual Registrasi Barang
-UI_PRIVATE_SHOP_QUANTITY,Quantity,Quantity
+UI_PRIVATE_SHOP_QUANTITY,Quantity,Kuantitas
 UI_PRIVATE_SHOP_UNIT_PRICE,Unit price,Harga Unit
 UI_PRIVATE_SHOP_OPEN,Will you open your shop?,Apakah kamu akan membuka tokomu?
 UI_PRIVATE_SHOP_CLOSE,Will you close your shop?,Apakah kamu akan menutup tokomu?
@@ -665,7 +665,7 @@ UI_TRADE_PUT_GOLD_QUESTION,How many do you want to move?,Mau pindah berapa?
 UI_TRADE_PUT_GOLD_QTY,Penya:,Penya:
 UI_TRADE_ITEM,Item,Item
 UI_TRADE_PUT_ITEM_QUESTION,Move how many items?,Pindahkan berapa item?
-UI_TRADE_PUT_ITEM_QTY,Number:,Number:
+UI_TRADE_PUT_ITEM_QTY,Number:,Angka:
 UI_TRADE_CONFIRM_TITLE,Confirm Trade,Menerima transaksi
 UI_TRADE_CONFIRM_QUESTION,Do you accept the trade?,Apakah kamu menerima transaksi?
 UI_TRADE_CONFIRM_WAIT,You need to wait for approval.,Kamu harus menunggu persetujuan.
@@ -771,7 +771,7 @@ UI_GUILD_WAR_REQUEST_MSG,"The Guild Leader of %s, %s, declares a Guild duel. Do 
 UI_INDIRECTTALK_TITLE,Indirect conversation,Percakapan tidak langsung
 UI_INDIRECTTALK_MOVER,Mover ID,Mover ID
 UI_CREATEITEM_TITLE,Create Item,Membuat Item
-UI_CREATEITEM_TYPE,Type,Type
+UI_CREATEITEM_TYPE,Type,Tipe
 UI_CREATEITEM_SEX,Sex,Sex
 UI_CREATEITEM_JOB,Job,Job
 UI_CREATEITEM_LEVEL,Level,Level
@@ -995,7 +995,7 @@ UI_EXCHANGE_COUNT_MSG,How many?,Berapa banyak?
 UI_EXCHANGE_COUNT_LABEL,Number:,Number:
 UI_TOOLTIP_PET_REAR,[Raised Pet],[Raised Pet]
 UI_TOOLTIP_PET_PICKUP,[Pick-Up Pet],[Pick-Up Pet]
-UI_PET_GRADE_0,Egg,Egg
+UI_PET_GRADE_0,Egg,Telur
 UI_PET_GRADE_1,F Tier,F Tier
 UI_PET_GRADE_2,E Tier,E Tier
 UI_PET_GRADE_3,D Tier,D Tier
@@ -1008,7 +1008,7 @@ UI_PET_EXP,Exp: %.2f%%,Exp: %.2f%%
 UI_TOOLTIP_ABILITY,Bonus,Bonus
 UI_PET_HP,Energy: %d / %d,Energy: %d / %d
 UI_PET_LEVEL,Lv%d,Lv%d
-UI_PET_DEAD,(DEAD),(DEAD)
+UI_PET_DEAD,(DEAD),(MATI)
 UI_PET_REROLL_TIER,Scroll-rerolled tier:,Scroll-rerolled tier:
 UI_TARGET_CLEAR,Clear the target,Bersihkan target
 UI_OPTION_TAB_UI,Interface,Interface
@@ -1025,7 +1025,7 @@ UI_FACE_SHOP_TITLE,Plastic Surgery,Plastic Surgery
 UI_FACE_SHOP_BASE_FACE,Friendly Face,Friendly Face
 UI_FACE_SHOP_NEW_FACE,New Face,New Face
 UI_TOOLTIP_SPELL_RANGE,Spell Range: %d,Spell Range: %d
-UI_TOOLTIP_COMBO_TYPE,Combo: %s,Combo: %s
+UI_TOOLTIP_COMBO_TYPE,Combo: %s,Kombo: %s
 UI_TOOLTIP_COMBO_STEP,Step,Step
 UI_TOOLTIP_COMBO_CIRCLE,Circle,Circle
 UI_TOOLTIP_COMBO_FINISH,Finish,Finish
@@ -1252,8 +1252,8 @@ UI_QUESTGOAL_MOBILE,Quest,Quest
 UI_INPUT_NUMBER,Input a number,Memasukkan angka
 UI_SKILL_CLOSED,Closed,Closed
 UI_SKILL_POINT_COST,Point Cost,Point Cost
-UI_SKILL_ADD_COMBO,Add to Combo,Tambahkan ke Combo
-UI_SKILL_COMBO,Combo Bar,Combo Bar
+UI_SKILL_ADD_COMBO,Add to Combo,Tambahkan ke Kombo
+UI_SKILL_COMBO,Combo Bar,Kombo Bar
 UI_CASHSHOP_PENYA_ONLY,Penya Only,Penya Only
 UI_CASHSHOP_PENYA,Penya,Penya
 UI_CASHSHOP_PENYA_VIP,Penya (VIP),Penya (VIP)
@@ -1332,7 +1332,7 @@ UI_CHARINFO_PARAM_BEFORE,#b[Before Stat Changes]#nb,#b[Before Stat Changes]#nb
 UI_CHARINFO_PARAM_AFTER,#b[After Stat Changes]#nb,#b[After Stat Changes]#nb
 UI_CHARINFO_PARAM_BASE,From Stats:,From Stats:
 UI_CHARINFO_PARAM_CUSTOM,From Buffs and Equipment:,From Buffs and Equipment:
-UI_WORLD_COMBO,COMBO,COMBO
+UI_WORLD_COMBO,COMBO,KOMBO
 UI_BOUNTYINPUT_TITLE,Register Bounty,Register Bounty
 UI_BOUNTYINPUT_HEADER,"Are you sure you want to register a bounty? (It will be visible in the bounty list, min. reward %s Penya)","Apakah Anda yakin ingin mendaftarkan hadiah? (Ini akan terlihat dalam daftar hadiah, min. hadiah %s Penya)"
 UI_BOUNTYINPUT_CONFIRM,Are you sure you want to register a #b%s Penya#nb bounty on #b%s#nb? This cannot be undone.,Apakah Anda yakin ingin mendaftarkan #b%s Penya#nb bounty on #b%s#nb? Ini tidak dapat dibatalkan.
@@ -1343,18 +1343,18 @@ UI_BOUNTYINPUT_LABEL_NAME,Bounty,Bounty
 UI_BOUNTYINPUT_LABEL_DURATION,Duration,Duration
 UI_BOUNTYINPUT_LABEL_REWARD,Reward,Reward
 UI_BOUNTYINPUT_LABEL_TOTAL,Total,Total
-UI_BOUNTYINPUT_LABEL_COMMENT,Comment,Comment
+UI_BOUNTYINPUT_LABEL_COMMENT,Comment,Komentar
 UI_BOUNTYLIST_TITLE,Bounty List,Bounty List
 UI_BOUNTYLIST_HEADER_NAME,Name,Nama
 UI_BOUNTYLIST_HEADER_LEVEL,Level,Level
 UI_BOUNTYLIST_HEADER_REWARD,Reward,Reward
 UI_BOUNTYLIST_HEADER_TIMELEFT,Time left,Time left
-UI_BOUNTYLIST_HEADER_COMMENT,Comment,Comment
+UI_BOUNTYLIST_HEADER_COMMENT,Comment,Komentar
 UI_BOUNTYPOS_TITLE,Bounty Position,Bounty Position
 UI_BOUNTYPOS_FEE,Are you sure you want to pay %s Penya to see %s's position?,Apakah Anda yakin ingin membayar %s Penya untuk melihat posisi %s??
 UI_APP_GACHA_TIP,Displays the Gacha Menu.,Displays the Gacha Menu.
 UI_GACHA_TITLE,Gacha,Gacha
-UI_GACHA_OPEN,Open,Open
+UI_GACHA_OPEN,Open,Buka
 UI_GACHA_QUANTITY_MAX,Max,Max
 UI_GACHA_RESET,Reset,Reset
 UI_GACHA_DESC_EMPTY,"Drag and drop an item pack, a gift box, a gacha box or an housing pack in the item slot.","Drag dan drop paket item, kotak hadiah, atau kotak gacha di slot item."
@@ -1381,8 +1381,8 @@ UI_TOOLTIP_DST_ITEM_DROPRATE,Item Drop Rate,Item Drop Rate
 UI_TOOLTIP_DST_AUTO_RECOVERY_FP,Auto Attack FP Recovery,Auto Attack FP Recovery
 UI_TOOLTIP_DST_AUTOHP,HP Recovery %d%% Below %d%%,HP Recovery %d%% Below %d%%
 UI_OPTION_MYNAME,My Name,My Name
-UI_OPTION_OTHERNAME,Others Name,Others Name
-UI_OPTION_NPCNAME,NPCs Name,NPCs Name
+UI_OPTION_OTHERNAME,Others Name,Nama Lainnya
+UI_OPTION_NPCNAME,NPCs Name,Nama NPC
 UI_TOOLTIP_DST_RECOVERY_EXP,Exp Lost,Exp Lost
 UI_GUILD_NAME_COLOR,Guild Name Color,Guild Name Color
 UI_TOOLTIP_DST_SPIRIT_STRIKE,Spirit Strike,Spirit Strike
@@ -1391,7 +1391,7 @@ UI_OPTION_PROVISIONAL_HP,HP Bar Damage History,HP Bar Damage History
 UI_TOOLTIP_DST_SKILL_AWAKE,%s Damage+%d%%,%s Damage+%d%%
 UI_LEVELDOWN_CANCEL_TITLE,Remove Level Reduction,Remove Level Reduction
 UI_MSGBOX_CONFIRM,Confirm,Confirm
-UI_CHANGECHAR_TITLE,Change Character,Change Character
+UI_CHANGECHAR_TITLE,Change Character,Ubah Karakter
 UI_CHANGECHAR_MSG,Select character and channel:,Pilih karakter dan channel:
 UI_CHARINFO_EXPRATE,Exp Rate,Exp Rate
 UI_CHARINFO_EXPRATE_TIP,Your personal Exp rate. Does not include server and event rates.,Tingkat Exp pribadi Anda. Tidak termasuk server dan event.
@@ -1417,7 +1417,7 @@ UI_EXPSTOP_RELOAD_MSG,"You can stop gaining experience, the price is #b%d Penya#
 UI_EXPSTOP_RELOAD_LABEL,Monsters:,Monsters:
 UI_EXPSTOP_RELOAD_CONFIRM,Will you pay %s Penya to reload the Exp Lock gauge?,Apakah Anda akan membayar %s Penya untuk mereload pengukur Exp Lock?
 UI_ARENA_RANKING_TITLE,Arena Ranking,Arena Ranking
-UI_ARENA_RANKING_NAME,Name,Name
+UI_ARENA_RANKING_NAME,Name,Nama
 UI_ARENA_RANKING_LEVEL,Level,Level
 UI_ARENA_RANKING_JOB,Job,Job
 UI_ARENA_RANKING_KILLS,Kills,Kills
@@ -1451,11 +1451,11 @@ UI_SHININGDICE_PIERCING,Power Dice 8/10,Power Dice 8/10
 UI_CRAFTPETCANDY_MAT,Harvested Berry,Harvested Berry
 UI_CRAFTPETCANDY_CANDY,Pet Candy,Pet Candy
 UI_SHININGDICE_BINDING,#cffff0000The resulting Shining Power Dice will be Binding as well.#nc,#cffff0000The Shining Power Dice yang dihasilkan juga akan Binding.#nc
-UI_TOOLTIP_DURATION,Duration:,Duration:
+UI_TOOLTIP_DURATION,Duration:,Durasi:
 UI_TOOLTIP_DURATION_ONLINE,(Online),(Online)
 UI_TOOLTIP_DURATION_OFFLINE,(Offline counted),(Offline counted)
-UI_TOOLTIP_DURATION_EQUIP,(After first use),(After first use)
-UI_TOOLTIP_DURATION_VENDOR,Shop Time:,Shop Time:
+UI_TOOLTIP_DURATION_EQUIP,(After first use),(Setelah penggunaan pertama)
+UI_TOOLTIP_DURATION_VENDOR,Shop Time:,Waktu Toko:
 UI_TOOLTIP_VISUAL_CLOAK,Can be worn over another cloak.,Bisa dipakai di atas cloak lain.
 UI_MESSAGE_ADMINCLIENT,Only Game Masters can login. Please use the public client to play.,Hanya Game Master yang bisa login. Silakan gunakan klien publik untuk bermain.
 UI_CONVERTWEAP_WEAPON,Weapon,Weapon
@@ -1499,8 +1499,8 @@ UI_CAPTCHA_TITLE,Challenge,Challenge
 UI_CAPTCHA_DESC,Please complete the following captcha. We use challenges to provide a fair game to all our players by preventing bots and cheats.,Harap lengkapi captcha berikut. Kami menggunakan tantangan untuk memberikan permainan yang adil kepada semua pemain kami dengan mencegah bot dan cheat.
 UI_OTP_TITLE,Two Factor Auth,Two Factor Auth
 UI_OTP_MSG,Please enter the 6-digits code from your Two Factor Auth App.,Silakan masukkan kode 6 digit dari Two Factor Auth App Anda.
-UI_OTP_CODE,Code:,Code:
-UI_CHARINFO_LINK,Link Account,Link Account
+UI_OTP_CODE,Code:,Kode:
+UI_CHARINFO_LINK,Link Account,Link Akun
 UI_KEEPTIMEEQUIP_CONFIRM,The item will be limited in time after the first use and cannot be traded anymore. Do you confirm?,Item akan dibatasi waktu setelah penggunaan pertama dan tidak dapat diperdagangkan lagi. Apakah Anda mengkonfirmasi?
 UI_TOOLTIP_PICKUPSPEED,Loot Speed:,Loot Speed:
 UI_LINKACCOUNT,You will lose your character if you clear your cookies. Register now to always access your character and unlock all game features?,Anda akan kehilangan karakter Anda jika Anda menghapus cookie Anda. Daftar sekarang untuk selalu mengakses karakter Anda dan membuka kunci semua fitur game?
@@ -1520,7 +1520,7 @@ UI_WORLD_LOCK,Locked,Locked
 UI_WORLD_UNLOCK,Unlocked,Unlocked
 UI_GUILD_LASTSEEN,Last Seen:,Last Seen:
 UI_PET_STAT,Stat,Stat
-UI_PET_STAT_NONE,None,None
+UI_PET_STAT_NONE,None,Tidak Ada
 UI_PET_ENERGY,Energy,Energy
 UI_PET_REROLL_CONFIRM,#bThe pet in the window will be destroyed.#nb Do you want to continue?,#bPet di window akan dihancurkan.#nb Melanjutkan?
 UI_PET_TIER,Tier,Tier
@@ -1882,10 +1882,10 @@ UI_QUEST_STARTABLE,Startable,Bisa dimulai
 UI_SUMMERPASS2023,Summer Pass,Summer Pass
 UI_APP_SWITCHEQUIP_TIP,Displays the Switch Equip Menu.,Menampilkan Menu Switch Equip.
 UI_APP_SWITCHEQUIP_DELETE,Delete,Hapus
-UI_APP_SWITCHEQUIP_SAVE,Save,Save
+UI_APP_SWITCHEQUIP_SAVE,Save,Simpan
 UI_APP_SWITCHEQUIP_COPY,Copy Equipment,Copy Equipment
 UI_APP_SWITCHEQUIP_USE,Use,Use
-UI_APP_SWITCHEQUIP_TITLE,Name ,Name 
+UI_APP_SWITCHEQUIP_TITLE,Name ,Nama 
 UI_APP_SWITCHEQUIP_SWITCHLIST,Presets,Presets
 UI_APP_SWITCHEQUIP_ERROR_NAME,You have to set a preset name!,Kamu harus menetapkan nama yang sudah ditetapkan sebelumnya!
 UI_APP_SWITCHEQUIP_ERROR_NAMEFORMAT,The name you set for the preset is incorrect!,Nama yang Kamu tetapkan untuk preset salah!
@@ -1908,7 +1908,7 @@ UI_PVPCONTEST_RANKING_DESC,"This contains all the ranking data for the current F
 UI_PVPCONTEST_RANKING_TITLE,FWC PvP Contest Ranking,FWC PvP Contest Ranking
 UI_PVPCONTEST_RANKING_RANKING,Ranking,Ranking
 UI_PVPCONTEST_RANKING_RANK,Rank,Rank
-UI_PVPCONTEST_RANKING_GUILDNAME,Guild Name,Guild Name
+UI_PVPCONTEST_RANKING_GUILDNAME,Guild Name,Nama Guild
 UI_PVPCONTEST_RANKING_POINTS_TOOLTIP,Points,Points
 UI_PVPCONTEST_RANKING_KILLS_TOOLTIP,Kills,Kills
 UI_PVPCONTEST_RANKING_DEATHS_TOOLTIP,Deaths,Deaths
@@ -2100,8 +2100,8 @@ UI_PLAYERHOUSINGBUY_SIZE_LARGE,L,L
 UI_ACHIEVEMENTS_STAT_PAGE,Additional Stat Page,Additional Stat Page
 UI_STAT_PAGE_SELECT,Select your stat page:,Pilih halaman status kamu:
 UI_HOUSINGSETUP_FILTER_FENCE,Fence,Fence
-UI_HOUSINGSETUP_FILTER_GRASS,Grass,Grass
-UI_HOUSINGSETUP_FILTER_ROCK,Rock,Rock
+UI_HOUSINGSETUP_FILTER_GRASS,Grass,Rumput
+UI_HOUSINGSETUP_FILTER_ROCK,Rock,Batu
 UI_REPORT_DISCORD,Please send a message through our Discord Modmail with valid evidence to report a player. Do you want to open Discord now?,Silakan kirim pesan melalui Discord Modmail kami dengan bukti yang valid untuk melaporkan seorang pemain. Apakah kamu ingin membuka Discord sekarang?
 UI_GUILDSHIP_UNKNOWN,Unknown Guild,Unknown Guild
 UI_GUILDSHIP_VACANT,Vacant Ship,Vacant Ship
@@ -2128,15 +2128,15 @@ UI_RAINBOWRACE_TELEPORT_MSG,The Rainbow Race will begin shortly. Would you like 
 UI_BATTLEPASS_CHRISTMAS2023,Christmas Pass 2023,Christmas Pass 2023
 UI_HOME_LOGIN_EMAIL,Sign in with Email,Sign in dengan Email
 UI_HOME_LOGIN_EMAIL_TIP,Login with Flyff Universe Email or Username,Masuk dengan Email atau Username Flyff Universe
-UI_SESSION_TITLE,Saved Sessions,Saved Sessions
-UI_SESSION_REMOVE,Remove,Remove
-UI_SESSION_REMOVEALL,Remove All,Remove All
+UI_SESSION_TITLE,Saved Sessions,Sesi Tersimpan
+UI_SESSION_REMOVE,Remove,Hapus
+UI_SESSION_REMOVEALL,Remove All,Hapus Semua
 UI_LOW_FRAMERATE_GUIDE_TITLE,Caution,Peringatan
 UI_LOW_FRAMERATE_GUIDE_DESC,Client performance is low.\nPlease check for 2 items below.,Kinerja klien rendah.\nSilakan periksa 2 item di bawah ini.
 UI_LOW_FRAMERATE_GUIDE_GUIDE01,1) Change in-game video/graphic setting adjusted to your PC.,1) Mengubah pengaturan video/grafis dalam game yang disesuaikan dengan PC mu.
 UI_LOW_FRAMERATE_GUIDE_GUIDE02,2) Make sure your browser has hardware acceleration turned on.,2) Pastikan browsermu mengaktifkan akselerasi hardware.
 UI_LOW_FRAMERATE_GUIDE_BUTTON_SETTING,Go to Game Setting,Masuk ke Game Setting
-UI_BATTLEPASS_MISSION_FINISH_RAINBOW_RACE,Finish Rainbow Race,Finish Rainbow Race
+UI_BATTLEPASS_MISSION_FINISH_RAINBOW_RACE,Finish Rainbow Race,Selesai Rainbow Race
 UI_LOCKED_SLOT_TIP,"Unlock through quests, achievements, or an Extra Bag from the Cash Shop.","Unlock melalui quests, achievements, atau Extra Bag dari Cash Shop."
 UI_LOCKED_SLOT_TIP_COUPLE,You can expand slots through couple level-ups and better couple rings.,You can expand slots through couple level-ups and better couple rings.
 UI_QUEST_SLOTS_COMMAND,Unfinished quests which unlock inventory slots:,Quest yang belum selesai yang membuka slot inventaris:
@@ -2159,7 +2159,7 @@ UI_STATBOARD_TITLE,Statboard,Statboard
 UI_STATBOARD_RAW,Raw Stats,Raw Stats
 UI_STATBOARD_GRAPHS,Graphs,Graphs
 UI_STATBOARD_RANK,Rank,Rank
-UI_STATBOARD_TIME,Time,Time
+UI_STATBOARD_TIME,Time,Waktu
 UI_STATBOARD_ITEMS,Items,Items
 UI_STATBOARD_SPEED,Avg Speed,Avg Speed
 UI_STATBOARD_HIDDEN,Hidden zero values: %d,Hidden zero values: %d
@@ -2172,16 +2172,16 @@ UI_ITEMPACK_UPGRADE_CONFIRM,"Successful upgrade increases the reward, but failur
 UI_TAB_EGG_USE_NAME,Egg Use Achievements event,Egg Use Achievements event
 UI_EGG_USE_EVENT,Egg Use,Egg Use
 UI_EGG_USE_EVENT_DESC,"Reward is received when the number of eggs used during the event reaches a certain number.\nThe number of rewards is limited per Eggs color so hurry up.\nFirst come, first served!","Hadiah diterima jika jumlah telur yang digunakan selama durasi event mencapai jumlah tertentu.\nJumlah dari hadiah dibatasi berdasarkan warna per telur, jadi bergegaslah.\nSiapa yang selesai tercepat, ia yang akan dilayani duluan!"
-UI_EGG_USE_RED_EGG,Red Egg,Red Egg
-UI_EGG_USE_ORANGE_EGG,Orange Egg,Orange Egg
-UI_EGG_USE_YELLOW_EGG,Yellow Egg,Yellow Egg
-UI_EGG_USE_GREEN_EGG,Green Egg,Green Egg
-UI_EGG_USE_BLUE_EGG,Blue Egg,Blue Egg
+UI_EGG_USE_RED_EGG,Red Egg,Telur Merah
+UI_EGG_USE_ORANGE_EGG,Orange Egg,Telur Jeruk
+UI_EGG_USE_YELLOW_EGG,Yellow Egg,Telur Kuning
+UI_EGG_USE_GREEN_EGG,Green Egg,Telur Hijau
+UI_EGG_USE_BLUE_EGG,Blue Egg,Telur Biru
 UI_PLAYERHOUSINGBUY_KEEPTIME,Expires in: ,Berakhir dalam: 
 UI_HOUSINGSETUP_KEEPTIME,Expires in: ,Berakhir dalam: 
 UI_GUILD_TAB_HOUSING_JOINBATTLE,Join Artifact Battle,Join Artifact Battle
 UI_GUILD_TAB_HOUSING_CANCELBATTLE,Cancel Artifact Battle,Cancel Artifact Battle
-UI_GUILDHOUSING_ARTIFACTBATTLEJOIN_MSGBOX_INFO,"Would you like to join the next Guild Artifact Battle?\n#cffff0000#bWARNING: By joining the Artifact Battle, a fee of %s penyas will be taken off your guild bank!#nb#nc","Apakah kamu ingin bergabung dalam Guild Artifact Battle selanjutnya?\n#cffff0000#bWARNING: Dengan bergabung dalam Artifact Battle, biaya dari %s penyas akan diambil dalam guild bank milikmu!#nb#nc"
+UI_GUILDHOUSING_ARTIFACTBATTLEJOIN_MSGBOX_INFO,"Would you like to join the next Guild Artifact Battle?\n#cffff0000#bWARNING: By joining the Artifact Battle, a fee of %s penyas will be taken off your guild bank!#nb#nc","Apakah kamu ingin bergabung dalam Guild Artifact Battle selanjutnya?\n#cffff0000#bPERINGATAN: Dengan bergabung dalam Artifact Battle, biaya dari %s penyas akan diambil dalam guild bank milikmu!#nb#nc"
 UI_GUILDHOUSING_ARTIFACTBATTLECANCEL_MSGBOX_INFO,Would you like to cancel joining the Guild Artifact Battle? You will receive all of the penyas you've used to join the battle.,Apakah kamu ingin membatalkan bergabung dalam Guild Artifact Battle? Kamu akan mendapatkan seluruh penyas yang telah digunakan selama bergabung dalam pertarungan.
 UI_GUILD_TAB_HOUSING_NEXTARTIFACTBATTLEHDR,Next artifact battle in:,Artifact battle selanjutnya dimulai dalam:
 UI_CHARINFO_HOUSING,Housing,Housing
@@ -2213,7 +2213,7 @@ UI_HOUSINGSETUP_FILTER_FLOOR,Floor,Lantai
 UI_HOUSINGSETUP_FILTER_CEILING,Ceiling,Atap
 UI_HOUSINGSETUP_FILTER_WALL,Wall,Tembok
 UI_PARTY_CHANGE_NAME,Name,Nama
-UI_PARTY_CHANGE_NAME_TIP,Change the Party name.,Change the Party name.
+UI_PARTY_CHANGE_NAME_TIP,Change the Party name.,Ubah nama party.
 UI_KALGAS_ASSAULT_NOT_SCHEDUL_DESC,There are no Kalgas Assault scheduled.,There are no Kalgas Assault scheduled.
 UI_KALGAS_ASSAULT_CANNOT_ENTER,Can't enter Kalgas Assault.,Can't enter Kalgas Assault.
 UI_KALGAS_ASSAULT_ENTERTIME_DESC,Do you want to enter the Kalgas Assault?\n\nTime for entry: %s,Do you want to enter the Kalgas Assault?\n\nTime for entry: %s
@@ -2241,7 +2241,7 @@ UI_KALGAS_ASSAULT_RANK_ARTIFACT,Artifact,Artifact
 UI_KALGAS_ASSAULT_RANK_KILL,Kill,Kill
 UI_KALGAS_ASSAULT_RANK_RANKING,Ranking,Ranking
 UI_KALGAS_ASSAULT_RANK_TEAM,Team,Team
-UI_KALGAS_ASSAULT_RANK_NAME,Name,Name
+UI_KALGAS_ASSAULT_RANK_NAME,Name,Nama
 UI_KALGAS_ASSAULT_RANK_POINT,Point,Point
 UI_TOOLTIP_DST_BOSS_DMG,Boss Monster Damage,Boss Monster Damage
 UI_KALGAS_ASSAULT_KILL_COUNT,Kill Count : %d,Kill Count : %d
@@ -2268,7 +2268,7 @@ UI_RAINBOWRACE_TEAMWITHFRIEND,Team up with a friend,Team up with a friend
 UI_RAINBOWRACE_TEAMINVITATION,Invite a friend,Invite a friend
 UI_RAINBOWRACE_FRIEND_LEVEL,Level,Level
 UI_RAINBOWRACE_FRIEND_NAME,Name,Nama
-UI_RAINBOWRACE_FRIEND_APPLICATION,Application,Application
+UI_RAINBOWRACE_FRIEND_APPLICATION,Application,Aplikasi
 UI_RAINBOWRACE_INVITATION_CONFIRM,Would you like to participate in the Rainbow Race Duo (%s) with '%s'?\n\nThe application fee is %lld penya.,Would you like to participate in the Rainbow Race Duo (%s) with '%s'?\n\nThe application fee is %lld penya.
 UI_RAINBOWRACE_ITEM,ITEM,ITEM
 UI_RAINBOWRACE_SPEED,SPEED,SPEED
@@ -2310,9 +2310,9 @@ UI_TOOLTIP_PVPBLOCK_RATE,PvP Melee/Range Block,PvP Melee/Range Block
 UI_TOOLTIP_PVPCRITICALBONUS,PvP Critical Damage,PvP Critical Damage
 UI_TOOLTIP_PVPCRITICALCHANCE,PvP Critical Chance,PvP Critical Chance
 UI_TOOLTIP_PENYA_RATE,Penya Drop Bonus,Penya Drop Bonus
-UI_OPTION_UNDERWATER,Underwater Effect,Underwater Effect
-UI_REVIVAL_LODELIGHT_CONFIRM,Are you sure that you want to resurrect to the Lodelight?,Are you sure that you want to resurrect to the Lodelight?
-UI_REVIVAL_LODESTAR_CONFIRM,Are you sure that you want to resurrect to the Lodestar?,Are you sure that you want to resurrect to the Lodestar?
+UI_OPTION_UNDERWATER,Underwater Effect,Efek Bawah Air
+UI_REVIVAL_LODELIGHT_CONFIRM,Are you sure that you want to resurrect to the Lodelight?,Apakah kamu yakin ingin bangkit kembali ke Lodelight?
+UI_REVIVAL_LODESTAR_CONFIRM,Are you sure that you want to resurrect to the Lodestar?,Apakah kamu yakin ingin bangkit kembali ke Lodestar?
 UI_CASHSHOP_CONFIRM_MSG_CMT,Do you want to purchase %dx %s (x%d) for %s?,Do you want to purchase %dx %s (x%d) for %s?
 UI_BATTLEPASS_MISSION_HOUSING_BOOK_WRITE,Write friend's house guestbook,Write friend's house guestbook
 UI_PURCHASE_INAPP_SUCCESS,Purchase was successful!,Purchase was successful!
@@ -2324,12 +2324,12 @@ UI_ACHIEVEMENTS_TITLE_TARGETMONSTERS,Monster(s) to kill,Monster(s) to kill
 UI_REVIVAL_INSTANT_CONFIRM,Are you sure that you want to use the Scroll of Resurrection to resurrect?,Are you sure that you want to use the Scroll of Resurrection to resurrect?
 UI_EVENT_ITEM_UPGRADE_MATERIAL,Catalyst,Catalyst
 UI_OPTION_ACCOUNT_MANAGE_NOTIFICATIONS,Manage notifications,Manage notifications
-UI_OPTION_ACCOUNT_MANAGE_PRIVACY,Manage privacy,Manage privacy
-UI_OPTION_ACCOUNT_TOS,Terms of Service,Terms of Service
-UI_OPTION_ACCOUNT_PRIVACY,Privacy Policy,Privacy Policy
+UI_OPTION_ACCOUNT_MANAGE_PRIVACY,Manage privacy,Kelola privasi
+UI_OPTION_ACCOUNT_TOS,Terms of Service,Ketentuan Layanan
+UI_OPTION_ACCOUNT_PRIVACY,Privacy Policy,Kebijakan Privasi
 UI_OPTION_ACCOUNT_MEMBERSHIP_WITHDRAWAL,Membership Withdrawal,Membership Withdrawal
 UI_OPTION_ACCOUNT_CUSTOMER_CENTER,Customer Center,Customer Center
-UI_SERVICE_AGREEMENT_TITLE,Service agreement,Service agreement
+UI_SERVICE_AGREEMENT_TITLE,Service agreement,Perjanjian layanan
 UI_SERVICE_AGREEMENT_BIRTHDATE,(Required) Please enter your date of birth,(Diperlukan) Silakan masukkan tanggal lahir kamu
 UI_SERVICE_AGREEMENT_ACCEPT_TERMS,I agree to the Terms of Service and acknowledge that I have read and understood the Privacy Policy,I agree to the Terms of Service and acknowledge that I have read and understood the Privacy Policy
 UI_SERVICE_AGREEMENT_ACCEPT_TERMS_AGREE,(Required) I agree,(Diperlukan) Saya setuju
@@ -2356,7 +2356,7 @@ UI_TRADE_LOG_PULL,Removed,Removed
 UI_TRADE_LOG_CONFIRM,Confirmed the trade.,Confirmed the trade.
 UI_TRADE_LOG_ACCEPT,Accepted the trade.,Accepted the trade.
 UI_TRADE_LIST_VIEW,Toggle the list view.,Toggle the list view.
-UI_COUPON_TITLE,Coupon,Coupon
+UI_COUPON_TITLE,Coupon,Kupon
 UI_COUPON_ENTER,Please enter your coupon code.,Silakan masukkan kode kupon Anda.
 UI_COUPON_CODE,Coupon Code,Kode Kupon
 UI_COUPON_DESCRIPTION,Keys look like the following:\n    AAAA-BBBB-CCCC-DDDD,Keys look like the following:\n    AAAA-BBBB-CCCC-DDDD
@@ -2397,15 +2397,15 @@ UI_SEARCHSHOP_ITEMLEVEL_ASC,Item Level (1 - %d),Item Level (1 - %d)
 UI_SEARCHSHOP_ITEMLEVEL_DESC,Item Level (%d - 1),Item Level (%d - 1)
 UI_SEARCHSHOP_UPGRADELEVEL_ASC,Upgrade Level (0 - 20),Upgrade Level (0 - 20)
 UI_SEARCHSHOP_UPGRADELEVEL_DESC,Upgrade Level (20 - 0),Upgrade Level (20 - 0)
-UI_SEARCHSHOP_PLAYERNAME_ASC,Seller Name (A - Z),Seller Name (A - Z)
-UI_SEARCHSHOP_PLAYERNAME_DESC,Seller Name (Z - A),Seller Name (Z - A)
-UI_SEARCHSHOP_SHOPNAME_ASC,Shop Name (A - Z),Shop Name (A - Z)
-UI_SEARCHSHOP_SHOPNAME_DESC,Shop Name (Z - A),Shop Name (Z - A)
-UI_SEARCHSHOP_SELLER,Seller,Seller
+UI_SEARCHSHOP_PLAYERNAME_ASC,Seller Name (A - Z),Nama Penjual (A - Z)
+UI_SEARCHSHOP_PLAYERNAME_DESC,Seller Name (Z - A),Nama Penjual (Z - A)
+UI_SEARCHSHOP_SHOPNAME_ASC,Shop Name (A - Z),Nama Toko (A - Z)
+UI_SEARCHSHOP_SHOPNAME_DESC,Shop Name (Z - A),Nama Toko (Z - A)
+UI_SEARCHSHOP_SELLER,Seller,Penjual
 UI_SEARCHSHOP_ITEMNAME_ASC,Item Name (A - Z),Nama Item (A - Z)
 UI_SEARCHSHOP_ITEMNAME_DESC,Item Name (Z - A),Nama Item (Z - A)
 UI_SEARCHSHOP_LOCATION,Show Location,Show Location
-UI_SEARCHSHOP_MESSAGE,Message Seller,Message Seller
+UI_SEARCHSHOP_MESSAGE,Message Seller,Pesan Penjual
 UI_SEARCHSHOP_TELEPORT,Teleport %d / %d,Teleport %d / %d
 UI_PURCHASE_INAPP_NOTICE,Notice,Notice
 UI_PURCHASE_INAPP_PURCHASE,Purchase,Purchase
@@ -2424,18 +2424,18 @@ UI_PUMPKIN_HUNT_DESC,Pumpkins Destroyed,Pumpkins Destroyed
 UI_SEARCHSHOP_PLAYERNAME,Player Name,Nama Pemain
 UI_PVPCONTEST_MANUALMATCH_TITLE,PVP Manual Match,PVP Manual Match
 UI_PVPCONTEST_MANUALMATCH_PLAYERNAME,Name,Nama
-UI_PVPCONTEST_MANUALMATCH_INVITE1,Invite to Team 1,Invite to Team 1
-UI_PVPCONTEST_MANUALMATCH_INVITE2,Invite to Team 2,Invite to Team 2
+UI_PVPCONTEST_MANUALMATCH_INVITE1,Invite to Team 1,Undang ke Tim 1
+UI_PVPCONTEST_MANUALMATCH_INVITE2,Invite to Team 2,Undang ke Tim 2
 UI_PVPCONTEST_MANUALMATCH_INVITE3,Invite to Observers,Invite to Observers
 UI_PVPCONTEST_MANUALMATCH_START,Start Match,Start Match
-UI_PVPCONTEST_MANUALMATCH_TEAM1,Team 1,Team 1
-UI_PVPCONTEST_MANUALMATCH_TEAM2,Team 2,Team 2
+UI_PVPCONTEST_MANUALMATCH_TEAM1,Team 1,Tim 1
+UI_PVPCONTEST_MANUALMATCH_TEAM2,Team 2,Tim 2
 UI_PVPCONTEST_MANUALMATCH_OBSERVERS,Observers,Observers
 UI_PVPCONTEST_MANUALMATCH_READY,Ready,Siap
 UI_BATTLEPASS_BONUS,Bonus,Bonus
 UI_MATOURNAMENT_RANKING_POINTS_TOOLTIP,Points,Poin
 UI_MATOURNAMENT_RANKING_RANK,Rank,Rank
-UI_MATOURNAMENT_RANKING_TEAMNAME,Team Name,Team Name
+UI_MATOURNAMENT_RANKING_TEAMNAME,Team Name,Nama Tim
 UI_MATOURNAMENT_RANKING_BACKUP_POINTS_TOOLTIP,Lives,Lives
 UI_MATOURNAMENT_TYPE_PRELIMINARY,Preliminary,Preliminary
 UI_MATOURNAMENT_TYPE_BACKUP,Backup Match,Backup Match
@@ -2448,7 +2448,7 @@ UI_MATOURNAMENT_MATCH_RESULT_WIN,Win,Win
 UI_MATOURNAMENT_MATCH_RESULT_LOSE,Lose,Lose
 UI_MATOURNAMENT_MATCH_RESULT_DRAW,Draw,Draw
 UI_MATOURNAMENT_MATCH_RESULT_NORECORD,You do not have a record for this day.,You do not have a record for this day.
-UI_MATOURNAMENT_DAILY_RESULT_TYPE,Type : %s,Type : %s
+UI_MATOURNAMENT_DAILY_RESULT_TYPE,Type : %s,Tipe : %s
 UI_MATOURNAMENT_DAILY_RESULT_OTHERTEAM,Other Team : %s,Other Team : %s
 UI_MATOURNAMENT_DAILY_RESULT_PLAYTIME,Play Time : %s,Play Time : %s
 UI_MATOURNAMENT_DAILY_RESULT_RESULT,Result : %s,Result : %s
@@ -2613,7 +2613,7 @@ UI_LIFE_RECIPEBTN,See related recipes,See related recipes
 UI_LIFE_RECIPES,Recipes,Recipes
 UI_LIFE_RECIPES_CATEGORY,Category,Kategori
 UI_LIFE_RECIPES_DETAILS,Details,Detail
-UI_LIFE_RECIPES_NOSELECTED,No recipe selected,No recipe selected
+UI_LIFE_RECIPES_NOSELECTED,No recipe selected,Tidak ada resep yang dipilih
 UI_LIFE_RECIPES_TEXT_INFO,Required Mastery: %d\nRequired Title: [%s]\nRequired\nIngredients:,Required Mastery: %d\nRequired Title: [%s]\nRequired\nIngredients:
 UI_LIFE_RECIPES_TEXT_INFO_NOTITLE,Required Mastery: %d\nRequired Title: \nRequired\nIngredients:,Required Mastery: %d\nRequired Title: \nRequired\nIngredients:
 UI_LIFE_PRODUCTION_TITLE,Production,Produksi

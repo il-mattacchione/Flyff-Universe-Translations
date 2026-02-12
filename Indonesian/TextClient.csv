@@ -9,13 +9,13 @@ TEXTCLIENT_DISCONNECTOTHER,Do you want to disconnect the other device?,Apakah ka
 TEXTCLIENT_DISCONNECTING,The device is being disconnected. Please login again in 10 seconds.,Perangkat terputus. Silakan login kembali dalam 10 detik.
 TEXTCLIENT_CHANNELFULL,"This channel is currently full, please wait a moment or select another channel.","Channel ini sedang penuh, mohon tunggu sebentar atau pilih channel lain."
 TEXTCLIENT_NAMEALREADYUSED,That character name is already in use.,Nama karakter sudah digunakan.
-TEXTCLIENT_BIGMONSTER,Boss Monster Detected!,Boss Monster Detected!
+TEXTCLIENT_BIGMONSTER,Boss Monster Detected!,Boss Monster terdeteksi!
 TEXTCLIENT_APP_MAP,World Map,World Map
 TEXTCLIENT_APP_OPTION,Options,Opsi
 TEXTCLIENT_APP_LOGOUT,Logout,Logout
 TEXTCLIENT_APP_QUIT,Quit,Keluar
-TEXTCLIENT_APP_SUPPORT,Support,Support
-TEXTCLIENT_APP_PRIVACY,Privacy,Privacy
+TEXTCLIENT_APP_SUPPORT,Support,Dukungan
+TEXTCLIENT_APP_PRIVACY,Privacy,Privasi
 TEXTCLIENT_APP_NAVIGATOR,Navigator,Navigator
 TEXTCLIENT_APP_DEBUG,Debug,Debug
 TEXTCLIENT_LOGGINGOUT,Logging out in %d sec(s).,Logging out in %d sec(s).
@@ -59,7 +59,7 @@ TEXTCLIENT_ERROR_NOFLY,You cannot fly here.,Kamu tidak bisa terbang ke sini.
 TEXTCLIENT_ERROR_NOTALK,You are not allowed to talk.,Kamu tidak diperbolehkan untuk berbicara.
 TEXTCLIENT_ERROR_CHATSPAM,You received %d minutes penalty because of too much of chatting.,Kamu menerima penalti %d menit karena terlalu banyak mengobrol.
 TEXTCLIENT_APP_MOTION,Motion,Motion
-TEXTCLIENT_APP_CHARINFO,Character,Character
+TEXTCLIENT_APP_CHARINFO,Character,Karakter
 TEXTCLIENT_LIMIT_RECOVER,%s recovery limited to %d.,%s recovery limited to %d.
 TEXTCLIENT_ATTENTIONCOOLTIME,Please wait a while before using the item again.,Harap tunggu beberapa saat sebelum menggunakan item tersebut kembali.
 TEXTCLIENT_DEATH,Press Lodestar to resurrect (Nearest Town) or use an item to resurrect in place.,Tekan Lodestar untuk resurrect (Kota Terdekat) atau menggunakan item untuk resurrect di tempat.
@@ -96,7 +96,7 @@ TEXTCLIENT_SUCCESSREMOVEITEM,Number of %s deleted: %d.,Jumlah %s yang dihapus: %
 TEXTCLIENT_NOTARGET,"Cannot attack, no monster targeted.","Tidak bisa menyerang, tidak ada monster yang ditargetkan."
 TEXTCLIENT_NOTUSE,You cannot use this yet.,Kamu belum bisa menggunakan ini.
 TEXTCLIENT_ERROR_NOTLEVEL,Your level is too low.,Levelmu terlalu rendah.
-TEXTCLIENT_BLOCK_PM,%s is in the 'Refuse to Whisper/Messenger' setting.,%s ada di setting 'Refuse to Whisper/Messenger'.
+TEXTCLIENT_BLOCK_PM,%s is in the 'Refuse to Whisper/Messenger' setting.,%s sedang dalam 'Refuse to Whisper/Messenger' setting.
 TEXTCLIENT_YETTRADE,That player is currently busy. Please try again after few minutes.,Pemain itu sedang sibuk. Silakan coba lagi setelah beberapa menit.
 TEXTCLIENT_ITEMNOTUSE_TRADING,You cannot use items while trading.,Kamu tidak dapat menggunakan item saat trading.
 TEXTCLIENT_REDCHIP,Red Chip,Red Chip
@@ -127,7 +127,7 @@ TEXTCLIENT_APP_MESSENGER,Messenger,Messenger
 TEXTCLIENT_APP_PARTY,Party,Party
 TEXTCLIENT_APP_GUILD,Guild,Guild
 TEXTCLIENT_APP_COUPLE,Couple,Couple
-TEXTCLIENT_APP_HELP,Help,Help
+TEXTCLIENT_APP_HELP,Help,Bantuan
 TEXTCLIENT_APP_HELP_TIPS,Tips,Tips
 TEXTCLIENT_APP_FAQ,FAQ,FAQ
 TEXTCLIENT_APP_FITTINGROOM,Fitting Room,Fitting Room
@@ -384,11 +384,11 @@ TEXTCLIENT_TELESKILL_CANCEL,%s invocation was cancelled.,%s permintaan dibatalka
 TEXTCLIENT_CREATEMON_CANCEL,Monster invocation was cancelled.,Doa monster dibatalkan.
 TEXTCLIENT_USEAIRCRAFT,"In order to ride a flying vehicle, you must reach level 20.","Untuk mengendarai kendaraan terbang, kamu harus mencapai level 20."
 TEXTCLIENT_QUEST_DISGUISE_NOTFLY,You cannot fly while transforming.,Kamu tidak bisa terbang saat bertransformasi.
-TEXTCLIENT_UPGRADE_FIRE,Fire,Fire
-TEXTCLIENT_UPGRADE_WATER,Water,Water
-TEXTCLIENT_UPGRADE_ELECTRICITY,Electric,Electric
-TEXTCLIENT_UPGRADE_WIND,Wind,Wind
-TEXTCLIENT_UPGRADE_EARTH,Earth,Earth
+TEXTCLIENT_UPGRADE_FIRE,Fire,Api
+TEXTCLIENT_UPGRADE_WATER,Water,Air
+TEXTCLIENT_UPGRADE_ELECTRICITY,Electric,Listrik
+TEXTCLIENT_UPGRADE_WIND,Wind,Angin
+TEXTCLIENT_UPGRADE_EARTH,Earth,Bumi
 TEXTCLIENT_RUN,Run,Run
 TEXTCLIENT_WALK,Walk,Walk
 TEXTCLIENT_CANNOT_DROPMONEY,You cannot drop your Penya on the ground.,Kamu tidak dapat menjatukan Penya di tanah.
@@ -1273,7 +1273,7 @@ TEXTCLIENT_EVENT_PREFIX,[Event],[Event]
 TEXTCLIENT_ACCOUNTDISCONNECTED,Account %d disconnected.,Account %d disconnected.
 TEXTCLIENT_ACCOUNTNOTEXIST,Account %d does not exist or is not online.,Account %d does not exist or is not online.
 TEXTCLIENT_ACCOUNTDISCONNECTSELF,You cannot disconnect yourself.,You cannot disconnect yourself.
-TEXTCLIENT_APP_SEARCHSHOP,Search Shop,Search Shop
+TEXTCLIENT_APP_SEARCHSHOP,Search Shop,Cari Toko
 TEXTCLIENT_PARTY_READY_ON,There is already a ready check in progress.,There is already a ready check in progress.
 TEXTCLIENT_PIRATESHIP_APPEARS,There is a Pirate Ship above the Madrigal!!,There is a Pirate Ship above the Madrigal!!
 TEXTCLIENT_PARTY_READY_LEADER,"Only the leader may start a ready check, and there is not one currently in progress.","Only the leader may start a ready check, and there is not one currently in progress."

@@ -2200,7 +2200,7 @@ PROPITEM_TXT_004200,Biscuit,Biscuit
 PROPITEM_TXT_004201,Recovers 140 HP,Recovers 140 HP
 PROPITEM_TXT_004202,Chocolate Bar,Chocolate Bar
 PROPITEM_TXT_004203,Recovers 200 HP,Recovers 200 HP
-PROPITEM_TXT_004204,Milk,Milk
+PROPITEM_TXT_004204,Milk,Susu
 PROPITEM_TXT_004205,Recovers 260 HP,Recovers 260 HP
 PROPITEM_TXT_004206,Roll Bread,Roll Bread
 PROPITEM_TXT_004207,Recovers 330 HP,Recovers 330 HP
@@ -2212,7 +2212,7 @@ PROPITEM_TXT_004212,Pizza,Pizza
 PROPITEM_TXT_004213,Recovers 584 HP,Recovers 584 HP
 PROPITEM_TXT_004214,Kimbap,Kimbap
 PROPITEM_TXT_004215,Recovers 724 HP,Recovers 724 HP
-PROPITEM_TXT_004216,Chicken Stick,Chicken Stick
+PROPITEM_TXT_004216,Chicken Stick,Stik Ayam
 PROPITEM_TXT_004217,Recover 970 HP,Recover 970 HP
 PROPITEM_TXT_004218,Star Candy,Star Candy
 PROPITEM_TXT_004219,Recover 1200 HP,Recover 1200 HP
@@ -2222,7 +2222,7 @@ PROPITEM_TXT_004222,Barbecue,Barbecue
 PROPITEM_TXT_004223,Recovers 160 HP,Recovers 160 HP
 PROPITEM_TXT_004224,Seafood Pancake,Seafood Pancake
 PROPITEM_TXT_004225,Recovers 230 HP,Recovers 230 HP
-PROPITEM_TXT_004226,Fish Soup,Fish Soup
+PROPITEM_TXT_004226,Fish Soup,Sup Ikan
 PROPITEM_TXT_004227,Recovers 300 HP,Recovers 300 HP
 PROPITEM_TXT_004228,Sausage Casserole,Sausage Casserole
 PROPITEM_TXT_004229,Recovers 370 HP,Recovers 370 HP
@@ -2236,7 +2236,7 @@ PROPITEM_TXT_004236,Gratin,Gratin
 PROPITEM_TXT_004237,Recovers 1750 HP,Recovers 1750 HP
 PROPITEM_TXT_004238,Seafood Pizza,Seafood Pizza
 PROPITEM_TXT_004239,Recovers 1450 HP,Recovers 1450 HP
-PROPITEM_TXT_004240,Orange Juice,Orange Juice
+PROPITEM_TXT_004240,Orange Juice,Jus Jeruk
 PROPITEM_TXT_004241,Recovers 60 HP,Recovers 60 HP
 PROPITEM_TXT_004242,Strawberry Shake,Strawberry Shake
 PROPITEM_TXT_004243,Recovers 110 HP,Recovers 110 HP
@@ -2273,25 +2273,25 @@ PROPITEM_TXT_004276,Mineral,Mineral
 PROPITEM_TXT_004278,Erons,Erons
 PROPITEM_TXT_004280,Krasec,Krasec
 PROPITEM_TXT_004282,Guru,Guru
-PROPITEM_TXT_004284,Torch Card,Torch Card
+PROPITEM_TXT_004284,Torch Card,Kartu Obor
 PROPITEM_TXT_004285,Fire Upgrade: +1 to +5,Fire Upgrade: +1 to +5
-PROPITEM_TXT_004286,Flame Card,Flame Card
+PROPITEM_TXT_004286,Flame Card,Kartu Api
 PROPITEM_TXT_004287,Fire Element Upgrade: +6 to +10,Fire Element Upgrade: +6 to +10
-PROPITEM_TXT_004288,Lake Card,Lake Card
+PROPITEM_TXT_004288,Lake Card,Kartu Danau
 PROPITEM_TXT_004289,Water Upgrade: +1 to +5,Water Upgrade: +1 to +5
-PROPITEM_TXT_004290,River Card,River Card
+PROPITEM_TXT_004290,River Card,Kartu Sungai
 PROPITEM_TXT_004291,Water Element Upgrade: +6 to +10,Water Element Upgrade: +6 to +10
-PROPITEM_TXT_004292,Voltage Card,Voltage Card
+PROPITEM_TXT_004292,Voltage Card,Kartu Tegangan
 PROPITEM_TXT_004293,Electric Upgrade: +1 to +5,Electric Upgrade: +1 to +5
-PROPITEM_TXT_004294,Generator Card,Generator Card
+PROPITEM_TXT_004294,Generator Card,Kartu Generator
 PROPITEM_TXT_004295,Electric Element Upgrade: +6 to +10,Electric Element Upgrade: +6 to +10
-PROPITEM_TXT_004296,Stone Card,Stone Card
+PROPITEM_TXT_004296,Stone Card,Kartu Batu
 PROPITEM_TXT_004297,Earth Upgrade: +1 to +5,Earth Upgrade: +1 to +5
-PROPITEM_TXT_004298,Desert Card,Desert Card
+PROPITEM_TXT_004298,Desert Card,Kartu Gurun
 PROPITEM_TXT_004299,Earth Element Upgrade: +6 to +10,Earth Element Upgrade: +6 to +10
-PROPITEM_TXT_004300,Gale Card,Gale Card
+PROPITEM_TXT_004300,Gale Card,Kartu Gale
 PROPITEM_TXT_004301,Wind Upgrade: +1 to +5,Wind Upgrade: +1 to +5
-PROPITEM_TXT_004302,Cyclone Card,Cyclone Card
+PROPITEM_TXT_004302,Cyclone Card,Kartu Siklon
 PROPITEM_TXT_004303,Wind Element Upgrade: +6 to +10,Wind Element Upgrade: +6 to +10
 PROPITEM_TXT_004304,Power Dice 4,Power Dice 4
 PROPITEM_TXT_004305,General Upgrade: +1 to +5,General Upgrade: +1 to +5
@@ -2303,17 +2303,17 @@ PROPITEM_TXT_004310,Power Dice 10,Power Dice 10
 PROPITEM_TXT_004311,Used for Piercing and Accessory Upgrade (High Success Rate),Digunakan untuk Piercing dan Peningkatan Aksesori (Tingkat Keberhasilan Tinggi)
 PROPITEM_TXT_004312,Power Dice 12,Power Dice 12
 PROPITEM_TXT_004313,General Upgrade: +1 to +10 (High Success Rate),General Upgrade: +1 to +10 (High Success Rate)
-PROPITEM_TXT_004314,Volcano Card (2%),Volcano Card (2%)
+PROPITEM_TXT_004314,Volcano Card (2%),Kartu Gunung Berapi (2%)
 PROPITEM_TXT_004315,+2% HP (When placed in a pierced suit),+2% HP (When placed in a pierced suit)
-PROPITEM_TXT_004316,Volcano Card (4%),Volcano Card (4%)
+PROPITEM_TXT_004316,Volcano Card (4%),Kartu Gunung Berapi (4%)
 PROPITEM_TXT_004317,+4% HP (When placed in a pierced suit),+4% HP (When placed in a pierced suit)
-PROPITEM_TXT_004318,Volcano Card (7%),Volcano Card (7%)
+PROPITEM_TXT_004318,Volcano Card (7%),Kartu Gunung Berapi (7%)
 PROPITEM_TXT_004319,+7% HP (When placed in pierced suit),+7% HP (When placed in pierced suit)
-PROPITEM_TXT_004320,Ocean Card (2%),Ocean Card (2%)
+PROPITEM_TXT_004320,Ocean Card (2%),Kartu Laut (2%)
 PROPITEM_TXT_004321,+2% MP (When placed in a pierced suit),+2% MP (When placed in a pierced suit)
-PROPITEM_TXT_004322,Ocean Card (4%),Ocean Card (4%)
+PROPITEM_TXT_004322,Ocean Card (4%),Kartu Laut (4%)
 PROPITEM_TXT_004323,+4% MP (When placed in a pierced suit),4% MP (When placed in a pierced suit)
-PROPITEM_TXT_004324,Ocean Card (7%),Ocean Card (7%)
+PROPITEM_TXT_004324,Ocean Card (7%),Kartu Laut (7%)
 PROPITEM_TXT_004325,+7% MP (When placed in a pierced suit),+7% MP (When placed in a pierced suit)
 PROPITEM_TXT_004326,Vacuum Card (2%),Vacuum Card (2%)
 PROPITEM_TXT_004327,+2% FP (When placed in a pierced suit),+2% FP (When placed in a pierced suit)
@@ -2321,17 +2321,17 @@ PROPITEM_TXT_004328,Vacuum Card (4%),Vacuum Card (4%)
 PROPITEM_TXT_004329,+4% FP (When placed in a pierced suit),+4% FP (When placed in a pierced suit)
 PROPITEM_TXT_004330,Vacuum Card (7%),Vacuum Card (7%)
 PROPITEM_TXT_004331,+7% FP (When placed in a pierced suit),+7% FP (When placed in a pierced suit)
-PROPITEM_TXT_004332,Lightning Card (2%),Lightning Card (2%)
+PROPITEM_TXT_004332,Lightning Card (2%),Kartu Petir (2%)
 PROPITEM_TXT_004333,+2% Attack (When placed in a pierced suit),+2% Attack (When placed in a pierced suit)
-PROPITEM_TXT_004334,Lightning Card (4%),Lightning Card (4%)
+PROPITEM_TXT_004334,Lightning Card (4%),Kartu Petir (4%)
 PROPITEM_TXT_004335,+4% Attack (When placed in a pierced suit),+4% Attack (When placed in a pierced suit)
-PROPITEM_TXT_004336,Lightning Card (7%),Lightning Card (7%)
+PROPITEM_TXT_004336,Lightning Card (7%),Kartu Petir (7%)
 PROPITEM_TXT_004337,+7% Attack (When placed in a pierced suit),+7% Attack (When placed in a pierced suit)
-PROPITEM_TXT_004338,Earthquake Card (2%),Earthquake Card (2%)
+PROPITEM_TXT_004338,Earthquake Card (2%),Kartu Gempa Bumi (2%)
 PROPITEM_TXT_004339,+2% Defense (When placed in a pierced suit),+2% Defense (When placed in a pierced suit)
-PROPITEM_TXT_004340,Earthquake Card (4%),Earthquake Card (4%)
+PROPITEM_TXT_004340,Earthquake Card (4%),Kartu Gempa Bumi (4%)
 PROPITEM_TXT_004341,+4% Defense (When placed in a pierced suit),+4% Defense (When placed in a pierced suit)
-PROPITEM_TXT_004342,Earthquake Card (7%),Earthquake Card (7%)
+PROPITEM_TXT_004342,Earthquake Card (7%),Kartu Gempa Bumi (7%)
 PROPITEM_TXT_004343,+7% Defense (When placed in a pierced suit),+7% Defense (When placed in a pierced suit)
 PROPITEM_TXT_004348,Vuul Card,Vuul Card
 PROPITEM_TXT_004349,+1% Attack (When placed in a pierced suit),+1% Attack (When placed in a pierced suit)
@@ -2784,9 +2784,9 @@ PROPITEM_TXT_004884,Star Stone,Star Stone
 PROPITEM_TXT_004885,Quest item that drops from Nyangnyang.,Item quest yang didapatkan dari Nyangnyang.
 PROPITEM_TXT_004886,Golden Wing,Golden Wing
 PROPITEM_TXT_004887,Quest item that drops from Bang.,Item quest yang didapatkan dari Bang.
-PROPITEM_TXT_004888,Blue Honey,Blue Honey
+PROPITEM_TXT_004888,Blue Honey,Madu Biru
 PROPITEM_TXT_004889,Quest item that drops from Wagsaac.,Item quest yang didapatkan dari Wagsaac.
-PROPITEM_TXT_004890,Mia Doll,Mia Doll
+PROPITEM_TXT_004890,Mia Doll,Boneka Mia
 PROPITEM_TXT_004891,Quest item that drops from Mia.,Item quest yang didapatkan dari Mia.
 PROPITEM_TXT_004892,Furious Match,Furious Match
 PROPITEM_TXT_004893,Quest item that drops from Mr. Pumpkin.,Item quest yang didapatkan dari Mr. Pumpkin.
@@ -2924,28 +2924,28 @@ PROPITEM_TXT_005036,Foraim Mask,Foraim Mask
 PROPITEM_TXT_005038,Carnival Mask,Carnival Mask
 PROPITEM_TXT_005040,Bluebird Mask,Bluebird Mask
 PROPITEM_TXT_005042,Ponycat Mask,Ponycat Mask
-PROPITEM_TXT_005052,Cloak Test,Cloak Test
+PROPITEM_TXT_005052,Cloak Test,Tes Jubah
 PROPITEM_TXT_005054,Blank Cloak,Blank Cloak
-PROPITEM_TXT_005056,Cloak 01,Cloak 01
-PROPITEM_TXT_005058,Cloak 02,Cloak 02
-PROPITEM_TXT_005060,Cloak 03,Cloak 03
-PROPITEM_TXT_005062,Cloak 04,Cloak 04
-PROPITEM_TXT_005064,Cloak 05,Cloak 05
-PROPITEM_TXT_005066,Cloak 06,Cloak 06
-PROPITEM_TXT_005068,Cloak 07,Cloak 07
-PROPITEM_TXT_005070,Cloak 08,Cloak 08
-PROPITEM_TXT_005072,Cloak 09,Cloak 09
-PROPITEM_TXT_005074,Cloak 10,Cloak 10
-PROPITEM_TXT_005076,Cloak 11,Cloak 11
-PROPITEM_TXT_005078,Cloak 12,Cloak 12
-PROPITEM_TXT_005080,Cloak 13,Cloak 13
-PROPITEM_TXT_005082,Cloak 14,Cloak 14
-PROPITEM_TXT_005084,Cloak 15,Cloak 15
-PROPITEM_TXT_005086,Cloak 16,Cloak 16
-PROPITEM_TXT_005088,Cloak 17,Cloak 17
-PROPITEM_TXT_005090,Cloak 18,Cloak 18
-PROPITEM_TXT_005092,Cloak 19,Cloak 19
-PROPITEM_TXT_005094,Cloak 20,Cloak 20
+PROPITEM_TXT_005056,Cloak 01,Jubah 01
+PROPITEM_TXT_005058,Cloak 02,Jubah 02
+PROPITEM_TXT_005060,Cloak 03,Jubah 03
+PROPITEM_TXT_005062,Cloak 04,Jubah 04
+PROPITEM_TXT_005064,Cloak 05,Jubah 05
+PROPITEM_TXT_005066,Cloak 06,Jubah 06
+PROPITEM_TXT_005068,Cloak 07,Jubah 07
+PROPITEM_TXT_005070,Cloak 08,Jubah 08
+PROPITEM_TXT_005072,Cloak 09,Jubah 09
+PROPITEM_TXT_005074,Cloak 10,Jubah 10
+PROPITEM_TXT_005076,Cloak 11,Jubah 11
+PROPITEM_TXT_005078,Cloak 12,Jubah 12
+PROPITEM_TXT_005080,Cloak 13,Jubah 13
+PROPITEM_TXT_005082,Cloak 14,Jubah 14
+PROPITEM_TXT_005084,Cloak 15,Jubah 15
+PROPITEM_TXT_005086,Cloak 16,Jubah 16
+PROPITEM_TXT_005088,Cloak 17,Jubah 17
+PROPITEM_TXT_005090,Cloak 18,Jubah 18
+PROPITEM_TXT_005092,Cloak 19,Jubah 19
+PROPITEM_TXT_005094,Cloak 20,Jubah 20
 PROPITEM_TXT_005096,School Event Gift,School Event Gift
 PROPITEM_TXT_005098,Gaia Cloak,Gaia Cloak
 PROPITEM_TXT_005100,Space Samurai Cloak,Space Samurai Cloak
@@ -3107,7 +3107,7 @@ PROPITEM_TXT_005526,Black Heroca,Black Heroca
 PROPITEM_TXT_005527,Quest Item: Rare grass that grows only in Rhisis Garden.,Item Quest: Rare grass yang hanya tumbuh di Taman Rhisis.
 PROPITEM_TXT_005528,Book of Secret Disappearances,Book of Secret Disappearances
 PROPITEM_TXT_005529,Quest Item: Report on the girls who have disappeared from Saint City.,Item Quest: Melaporkan gadis-gadis yang telah menghilang dari Saint City.
-PROPITEM_TXT_005530,Jinyoung Doll,Jinyoung Doll
+PROPITEM_TXT_005530,Jinyoung Doll,Boneka Jinyoung
 PROPITEM_TXT_005531,"Quest Item: And old and dirty doll that once belonged to Jinyoung, daughter of JeongHwa.","Quest Item: Dan boneka tua dan kotor yang dulunya milik Jinyoung, putri JeongHwa."
 PROPITEM_TXT_005532,Disappearance Investigation,Disappearance Investigation
 PROPITEM_TXT_005533,Quest Item: Written conclusing about the truth behind the disappearance of the little girls from Saint City.,Item Quest: Kesimpulan tertulis tentang kebenaran di balik hilangnya gadis-gadis kecil dari Saint City.
@@ -3123,13 +3123,13 @@ PROPITEM_TXT_005542,Heart of Thyred,Heart of Thyred
 PROPITEM_TXT_005543,Quest Item: Heart of the Big Thyred.,Item Quest: Heart of the Big Thyred.
 PROPITEM_TXT_005544,2nd Book of Dread,2nd Book of Dread
 PROPITEM_TXT_005545,Quest Item: A first edition of the book Cold Fear.,Item Quest: Edisi pertama dari buku Cold Fear.
-PROPITEM_TXT_005546,Temple Map,Temple Map
+PROPITEM_TXT_005546,Temple Map,Peta Kuil
 PROPITEM_TXT_005547,Quest Item: Map of the place where Cold Fear is hidden.,Item Quest: Peta tempat Cold Fear disembunyikan.
 PROPITEM_TXT_005548,Heart of Dacid,Heart of Dacid
 PROPITEM_TXT_005549,Quest Item: Heart of Krrr Dacid.,Item Quest: Heart of Krrr David.
 PROPITEM_TXT_005550,3rd Book of Dread,3rd Book of Dread
 PROPITEM_TXT_005551,Quest Item: A first edition of the book Paralyzing Fear.,Item Quest: Edisi pertama buku Paralyzing Fear.
-PROPITEM_TXT_005552,Boggy Map,Boggy Map
+PROPITEM_TXT_005552,Boggy Map,Peta Boggy
 PROPITEM_TXT_005553,Quest Item: Map of the place where Paralyzing Fear is hidden,Item Quest: Peta tempat di mana Paralyzing Fear disembunyikan
 PROPITEM_TXT_005554,Heart of Arvan,Heart of Arvan
 PROPITEM_TXT_005555,Quest Item: Heart of the Mushmoot Arvan.,Item Quest: Heart of the Mushmoot Arvan.
@@ -3178,7 +3178,7 @@ PROPITEM_TXT_005610,Will,Will
 PROPITEM_TXT_005612,Peace,Peace
 PROPITEM_TXT_005614,Honor,Honor
 PROPITEM_TXT_005616,Notebook,Notebook
-PROPITEM_TXT_005618,Camera,Camera
+PROPITEM_TXT_005618,Camera,Kamera
 PROPITEM_TXT_005620,Airship,Airship
 PROPITEM_TXT_005626,Gift Ticket,Gift Ticket
 PROPITEM_TXT_005628,Movie Ticket,Movie Ticket
@@ -3502,13 +3502,13 @@ PROPITEM_TXT_006146,Shade Trans,Shade Trans
 PROPITEM_TXT_006147,Transform into Shade,Berubah menjadi Shade
 PROPITEM_TXT_006148,Bubble Trans,Bubble Trans
 PROPITEM_TXT_006149,Transform into Bubble,Berubah menjadi Bubble
-PROPITEM_TXT_006150,Baby Lawolf,Baby Lawolf
+PROPITEM_TXT_006150,Baby Lawolf,Bayi Lawolf
 PROPITEM_TXT_006151,"A cute, baby, Lawolf that follows its master around and picks up dropped items",Lawolf mungil nan imut yang setia mengikuti tuannya berkeliling dan mengambil setiap drop yang dijatuhkan
-PROPITEM_TXT_006152,Baby Aibatt,Baby Aibatt
+PROPITEM_TXT_006152,Baby Aibatt,Bayi Aibatt
 PROPITEM_TXT_006153,"A cute, baby, Aibatt that follows its master around and picks up dropped items",Aibatt mungil nan imut yang setia mengikuti tuannya berkeliling dan mengambil setiap drop yang dijatuhkan
-PROPITEM_TXT_006154,Baby Leyena,Baby Leyena
+PROPITEM_TXT_006154,Baby Leyena,Bayi Leyena
 PROPITEM_TXT_006155,"A cute, baby, Leyena that follows its master around and picks up dropped items",Leyena mungil nan imut yang setia mengikuti tuannya berkeliling dan mengambil setiap drop yang dijatuhkan
-PROPITEM_TXT_006156,Baby Luia,Baby Luia
+PROPITEM_TXT_006156,Baby Luia,Bayi Luia
 PROPITEM_TXT_006157,"A cute, baby, Luia that follows its master around and picks up dropped items",Luia mungil nan imut yang setia mengikuti tuannya berkeliling dan mengambil setiap drop yang dijatuhkan
 PROPITEM_TXT_006158,Doggy,Doggy
 PROPITEM_TXT_006159,A cute Doggy that follows its master around and picks up dropped items,Doggy mungil nan imut yang setia mengikuti tuannya berkeliling dan mengambil setiap drop yang dijatuhkan
@@ -4503,9 +4503,9 @@ PROPITEM_TXT_008778,Cute Hamburger,Cute Hamburger
 PROPITEM_TXT_008779,Cute Hamburger that follows its owner around and picks up dropped items.,Cute Hamburger imut yang setia mengikuti pemiliknya berkeliling dan mengambil barang-barang drop.
 PROPITEM_TXT_008780,Baby Turtle,Baby Turtle
 PROPITEM_TXT_008781,Cute Turtle that follows its owner around and picks up dropped items.,Baby Turtle imut yang setia mengikuti pemiliknya berkeliling dan mengambil barang-barang drop.
-PROPITEM_TXT_008820,Baby Chicken,Baby Chicken
+PROPITEM_TXT_008820,Baby Chicken,Bayi Ayam
 PROPITEM_TXT_008821,Cute Chicken that follows its owner around and picks up dropped items.,Baby Chicken imut yang setia mengikuti pemiliknya berkeliling dan mengambil barang-barang drop.
-PROPITEM_TXT_008822,Baby Cow,Baby Cow
+PROPITEM_TXT_008822,Baby Cow,Bayi Sapi
 PROPITEM_TXT_008823,Cute Cow that follows its owner around and picks up dropped items.,Baby Cow imut yang setia mengikuti pemiliknya berkeliling dan mengambil barang-barang drop.
 PROPITEM_TXT_008824,Baby Beagle,Baby Beagle
 PROPITEM_TXT_008825,Cute Beagle that follows its owner around and picks up dropped items.,Baby Beagle imut yang setia mengikuti pemiliknya berkeliling dan mengambil barang-barang drop.
@@ -4513,13 +4513,13 @@ PROPITEM_TXT_008826,Baby Blue Dragon,Baby Blue Dragon
 PROPITEM_TXT_008827,This devoted little dragon flies around and picks up nearby items for its master.,Naga kecil yang setia ini terbang berkeliling dan mengambil barang-barang terdekat untuk tuannya.
 PROPITEM_TXT_008828,Baby Hamster,Baby Hamster
 PROPITEM_TXT_008829,Cute Hamster that follows its owner around and picks up dropped items.,Cute Hamster imut yang setia mengikuti pemiliknya berkeliling dan mengambil barang-barang drop.
-PROPITEM_TXT_008830,Baby Horse,Baby Horse
+PROPITEM_TXT_008830,Baby Horse,Bayi Kuda
 PROPITEM_TXT_008831,Cute Horse that follows its owner around and picks up dropped items.,Baby Horse imut yang setia mengikuti pemiliknya berkeliling dan mengambil barang-barang drop.
-PROPITEM_TXT_008832,Baby Monkey,Baby Monkey
+PROPITEM_TXT_008832,Baby Monkey,Bayi Monyet
 PROPITEM_TXT_008833,Cute Monkey that follows its owner around and picks up dropped items.,Baby Monkey imut yang setia mengikuti pemiliknya berkeliling dan mengambil barang-barang drop.
 PROPITEM_TXT_008834,Baby Pig,Baby Pig
 PROPITEM_TXT_008835,Cute Pig that follows its owner around and picks up dropped items.,Baby Pig imut yang setia mengikuti pemiliknya berkeliling dan mengambil barang-barang drop.
-PROPITEM_TXT_008836,Baby Rabbit,Baby Rabbit
+PROPITEM_TXT_008836,Baby Rabbit,Bayi Kelinci
 PROPITEM_TXT_008837,Cute Rabbit that follows its owner around and picks up dropped items.,Baby Rabbit imut yang setia mengikuti pemiliknya berkeliling dan mengambil barang-barang drop.
 PROPITEM_TXT_008838,Cute Lamb,Cute Lamb
 PROPITEM_TXT_008839,Cute Lamb that follows its owner around and picks up dropped items.,Cute Lamb imut yang setia mengikuti pemiliknya berkeliling dan mengambil barang-barang drop.
@@ -5172,7 +5172,7 @@ PROPITEM_TXT_020330,Blue Casual Gloves for Male Characters.,Blue Casual Gloves u
 PROPITEM_TXT_010404,Chef Shoes (F),Chef Shoes (F)
 PROPITEM_TXT_017181,Wedding Tuxedo (M),Wedding Tuxedo (M)
 PROPITEM_TXT_015867,Shinigami Horns (F),Shinigami Horns (F)
-PROPITEM_TXT_015084,Indonesia Cloak 2,Indonesia Cloak 2
+PROPITEM_TXT_015084,Indonesia Cloak 2,Jubah Indonesia 2
 PROPITEM_TXT_016873,Vampire Shoes (M),Vampire Shoes (M)
 PROPITEM_TXT_020400,Neo Workout Gloves for Female Characters.,Neo Workout Gloves untuk karakter wanita.
 PROPITEM_TXT_017931,Violet Bunny Yukata Boots (F),Violet Bunny Yukata Boots (F)
@@ -5596,7 +5596,7 @@ PROPITEM_TXT_010714,Red Cherry Blossom Geta (F),Red Cherry Blossom Geta (F)
 PROPITEM_TXT_017192,Wedding Ring for Female Characters,Wedding Ring for Female Characters
 PROPITEM_TXT_017907,Purple Bunny Yukata Suit (F),Purple Bunny Yukata Suit (F)
 PROPITEM_TXT_010780,Yetti Shoes (M),Yetti Shoes (M)
-PROPITEM_TXT_015082,Indonesia Cloak 1,Indonesia Cloak 1
+PROPITEM_TXT_015082,Indonesia Cloak 1,Jubah Indonesia 1
 PROPITEM_TXT_014172,Samba Hat (M),Samba Hat (M)
 PROPITEM_TXT_011962,Mad Hatter Gloves (M),Mad Hatter Gloves (M)
 PROPITEM_TXT_010993,Harbor Outfit for female characters. Warning: Harbor Clothing does not protect against sea-sickness!,Harbor Outfit for female characters. Peringatan: Harbor Clothing tidak melindungi dari mabuk laut!
@@ -7306,7 +7306,7 @@ PROPITEM_TXT_100746,Used to level up A tier pets. Also used to fill the energy g
 PROPITEM_TXT_100747,Azria Wood,Azria Wood
 PROPITEM_TXT_100748,Azria Stone,Azria Stone
 PROPITEM_TXT_100749,Lost Soul,Lost Soul
-PROPITEM_TXT_100750,Yetti Hammer,Yetti Hammer
+PROPITEM_TXT_100750,Yetti Hammer,Palu Yetti
 PROPITEM_TXT_100751,Crystal Essence,Crystal Essence
 PROPITEM_TXT_100752,Wood that can be used to fortify the town defenses.,Kayu yang bisa digunakan untuk membentengi pertahanan kota.
 PROPITEM_TXT_100753,Stone that can be used to fortify the town defenses.,Batu yang bisa digunakan untuk membentengi pertahanan kota.
@@ -7506,16 +7506,16 @@ PROPITEM_TXT_100942,Rider Green Gloves (M),Rider Green Gloves (M)
 PROPITEM_TXT_100943,Rider Yellow Gloves (M),Rider Yellow Gloves (M)
 PROPITEM_TXT_100944,Rider Gloves for male characters.,Rider Gloves untuk karakter pria.
 PROPITEM_TXT_100945,Volkane Key Piece,Volkane Key Piece
-PROPITEM_TXT_100946,Volkane Key,Volkane Key
-PROPITEM_TXT_100947,Gray Crystal,Gray Crystal
+PROPITEM_TXT_100946,Volkane Key,Kunci Volkane
+PROPITEM_TXT_100947,Gray Crystal,Kristal Abu-abu
 PROPITEM_TXT_100948,Quest item that drops from Medumet. ,Item Quest yang drop dari Medumet.
-PROPITEM_TXT_100949,Red Crystal,Red Crystal
+PROPITEM_TXT_100949,Red Crystal,Kristal Merah
 PROPITEM_TXT_100950,Quest item that drops from Yetti. ,Item Quest yang drop dari Yetti. 
-PROPITEM_TXT_100951,Yellow Crystal,Yellow Crystal
+PROPITEM_TXT_100951,Yellow Crystal,Kristal Kuning
 PROPITEM_TXT_100952,Quest item that drops from Augu. ,Item Quest yang drop dari Augu. 
-PROPITEM_TXT_100953,Green Crystal,Green Crystal
+PROPITEM_TXT_100953,Green Crystal,Kristal Hijau
 PROPITEM_TXT_100954,Quest item that drops from Ghosts of the Forgotten. ,Item Quest yang drop dari Ghosts of the Forgotten. 
-PROPITEM_TXT_100955,Blue Crystal,Blue Crystal
+PROPITEM_TXT_100955,Blue Crystal,Kristal Biru
 PROPITEM_TXT_100956,Quest item that drops from Mammoth. ,Item Quest yang drop dari Mammoth. 
 PROPITEM_TXT_100957,Blinkwing of Azria,Blinkwing of Azria
 PROPITEM_TXT_100958,Teleport to Azria,Teleport ke Azria
@@ -8013,11 +8013,11 @@ PROPITEM_TXT_101375,Orange Teddy Bear,Orange Teddy Bear
 PROPITEM_TXT_101376,Black Teddy Bear,Black Teddy Bear
 PROPITEM_TXT_101377,White Teddy Bear,White Teddy Bear
 PROPITEM_TXT_101378,A cute Teddy Bear that follows its master around and picks up dropped items,Sebuah Teddy Bear lucu yang mengikuti tuannya kemanapun dan mengambil item drop.
-PROPITEM_TXT_101379,Baby Doridoma,Baby Doridoma
+PROPITEM_TXT_101379,Baby Doridoma,Bayi Doridoma
 PROPITEM_TXT_101380,"A cute and fast, baby, Doridoma that follows its master around and picks up dropped items","Lucu dan cepat, bayi, Doridoma yang mengikuti tuannya kemanapun dan mengambil drop item."
-PROPITEM_TXT_101381,Baby Mothbee,Baby Mothbee
+PROPITEM_TXT_101381,Baby Mothbee,bayi Mothbee
 PROPITEM_TXT_101382,"A cute and fast, baby, Mothbee that follows its master around and picks up dropped items","Lucu dan cepat, bayi, Mothbee yang mengikuti tuannya kemanapun dan mengambil drop item."
-PROPITEM_TXT_101383,Baby Hobo,Baby Hobo
+PROPITEM_TXT_101383,Baby Hobo,Bayi Hobo
 PROPITEM_TXT_101384,"A cute and fast, baby, Hobo that follows its master around and picks up dropped items","Lucu dan cepat, bayi, Hobo yang mengiktui tuannya kemanapun dan mengambil drop item."
 PROPITEM_TXT_101385,Menhera Kei Costume Lucky Box,Menhera Kei Costume Lucky Box
 PROPITEM_TXT_101386,This box contains a Menhera Kei Costume Set with Speed bonus. You can select your gender after opening the Lucky Box.,Kotak ini berisi Menhera Kei Costume Set dengan bonus Speed. Kamu bisa memilih jenis kelaminmu setelah membuka Lucky Box.
@@ -17457,8 +17457,8 @@ PROPITEM_TXT_133076,Chicken,Ayam
 PROPITEM_TXT_133077,A piece of chicken meat. You can use it in various dishes.,Sepotong daging ayam. Anda bisa menggunakannya dalam berbagai masakan.
 PROPITEM_TXT_133078,Cooking Oil,Cooking Oil
 PROPITEM_TXT_133079,A bottle of cooking oil. You can use it in various dishes.,A bottle of cooking oil. You can use it in various dishes.
-PROPITEM_TXT_133080,Black Pepper,Black Pepper
-PROPITEM_TXT_133081,A spice that gives a spicy taste.,A spice that gives a spicy taste.
+PROPITEM_TXT_133080,Black Pepper,Lada
+PROPITEM_TXT_133081,A spice that gives a spicy taste.,Rempah yang memberikan rasa pedas.
 PROPITEM_TXT_133082,Tomato,Tomat
 PROPITEM_TXT_133083,A red vegetable with a savory taste.,Sayuran merah dengan rasa gurih.
 PROPITEM_TXT_133084,Rice,Nasi
@@ -17842,7 +17842,7 @@ PROPITEM_TXT_133460,Grilled Mackerel (B),Grilled Mackerel (B)
 PROPITEM_TXT_133461,Grilled Mackerel (A),Grilled Mackerel (A)
 PROPITEM_TXT_133462,Grilled Mackerel (A+),Grilled Mackerel (A+)
 PROPITEM_TXT_133463,A nicely grilled mackerel.,A nicely grilled mackerel.
-PROPITEM_TXT_133464,Chicken Stick (C),Chicken Stick (C)
+PROPITEM_TXT_133464,Chicken Stick (C),Stik Ayam (C)
 PROPITEM_TXT_133465,Recovers 1164 HP,Recovers 1164 HP
 PROPITEM_TXT_133466,Fried Squid (D),Fried Squid (D)
 PROPITEM_TXT_133467,A dish made from fried squid.,A dish made from fried squid.
@@ -18324,41 +18324,41 @@ PROPITEM_TXT_133942,Mahogany Hardwood (C),Mahogany Hardwood (C)
 PROPITEM_TXT_133943,Mahogany Hardwood (B),Mahogany Hardwood (B)
 PROPITEM_TXT_133944,Mahogany Hardwood (A),Mahogany Hardwood (A)
 PROPITEM_TXT_133945,A solid piece of wood cut from a mahogany tree.,A solid piece of wood cut from a mahogany tree.
-PROPITEM_TXT_133946,Red Paint (D),Red Paint (D)
-PROPITEM_TXT_133947,Red Paint (C),Red Paint (C)
-PROPITEM_TXT_133948,Red Paint (B),Red Paint (B)
-PROPITEM_TXT_133949,Red Paint (A),Red Paint (A)
-PROPITEM_TXT_133950,A paint that can paint furniture red.,A paint that can paint furniture red.
-PROPITEM_TXT_133951,Blue Paint (D),Blue Paint (D)
-PROPITEM_TXT_133952,Blue Paint (C),Blue Paint (C)
-PROPITEM_TXT_133953,Blue Paint (B),Blue Paint (B)
-PROPITEM_TXT_133954,Blue Paint (A),Blue Paint (A)
-PROPITEM_TXT_133955,A paint that can paint furniture blue.,A paint that can paint furniture blue.
-PROPITEM_TXT_133956,Yellow Paint (D),Yellow Paint (D)
-PROPITEM_TXT_133957,Yellow Paint (C),Yellow Paint (C)
-PROPITEM_TXT_133958,Yellow Paint (B),Yellow Paint (B)
-PROPITEM_TXT_133959,Yellow Paint (A),Yellow Paint (A)
-PROPITEM_TXT_133960,A paint that can paint furniture yellow.,A paint that can paint furniture yellow.
-PROPITEM_TXT_133961,Green Paint (D),Green Paint (D)
-PROPITEM_TXT_133962,Green Paint (C),Green Paint (C)
-PROPITEM_TXT_133963,Green Paint (B),Green Paint (B)
-PROPITEM_TXT_133964,Green Paint (A),Green Paint (A)
-PROPITEM_TXT_133965,A paint that can paint furniture green.,A paint that can paint furniture green.
-PROPITEM_TXT_133966,Black Paint (D),Black Paint (D)
-PROPITEM_TXT_133967,Black Paint (C),Black Paint (C)
-PROPITEM_TXT_133968,Black Paint (B),Black Paint (B)
-PROPITEM_TXT_133969,Black Paint (A),Black Paint (A)
-PROPITEM_TXT_133970,A paint that can paint furniture black.,A paint that can paint furniture black.
-PROPITEM_TXT_133971,White Paint (D),White Paint (D)
-PROPITEM_TXT_133972,White Paint (C),White Paint (C)
-PROPITEM_TXT_133973,White Paint (B),White Paint (B)
-PROPITEM_TXT_133974,White Paint (A),White Paint (A)
-PROPITEM_TXT_133975,A paint that can paint furniture white.,A paint that can paint furniture white.
-PROPITEM_TXT_133976,Gold Paint (D),Gold Paint (D)
-PROPITEM_TXT_133977,Gold Paint (C),Gold Paint (C)
-PROPITEM_TXT_133978,Gold Paint (B),Gold Paint (B)
-PROPITEM_TXT_133979,Gold Paint (A),Gold Paint (A)
-PROPITEM_TXT_133980,A paint that can paint furniture gold.,A paint that can paint furniture gold.
+PROPITEM_TXT_133946,Red Paint (D),Cat Merah (D)
+PROPITEM_TXT_133947,Red Paint (C),Cat Merah (C)
+PROPITEM_TXT_133948,Red Paint (B),Cat Merah (B)
+PROPITEM_TXT_133949,Red Paint (A),Cat Merah (A)
+PROPITEM_TXT_133950,A paint that can paint furniture red.,Cat yang bisa digunakan untuk mengecat furnitur menjadi merah.
+PROPITEM_TXT_133951,Blue Paint (D),Cat Biru (D)
+PROPITEM_TXT_133952,Blue Paint (C),Cat Biru (C)
+PROPITEM_TXT_133953,Blue Paint (B),Cat Biru (B)
+PROPITEM_TXT_133954,Blue Paint (A),Cat Biru (A)
+PROPITEM_TXT_133955,A paint that can paint furniture blue.,Cat yang bisa digunakan untuk mengecat furnitur menjadi biru.
+PROPITEM_TXT_133956,Yellow Paint (D),Cat Kuning (D)
+PROPITEM_TXT_133957,Yellow Paint (C),Cat Kuning (C)
+PROPITEM_TXT_133958,Yellow Paint (B),Cat Kuning (B)
+PROPITEM_TXT_133959,Yellow Paint (A),Cat Kuning (A)
+PROPITEM_TXT_133960,A paint that can paint furniture yellow.,Cat yang bisa digunakan untuk mengecat furnitur menjadi kuning.
+PROPITEM_TXT_133961,Green Paint (D),Cat Hijau (D)
+PROPITEM_TXT_133962,Green Paint (C),Cat Hijau (C)
+PROPITEM_TXT_133963,Green Paint (B),Cat Hijau (B)
+PROPITEM_TXT_133964,Green Paint (A),Cat Hijau (A)
+PROPITEM_TXT_133965,A paint that can paint furniture green.,Cat yang bisa digunakan untuk mengecat furnitur menjadi hijau.
+PROPITEM_TXT_133966,Black Paint (D),Cat Hitam (D)
+PROPITEM_TXT_133967,Black Paint (C),Cat Hitam (C)
+PROPITEM_TXT_133968,Black Paint (B),Cat Hitam (B)
+PROPITEM_TXT_133969,Black Paint (A),Cat Hitam (A)
+PROPITEM_TXT_133970,A paint that can paint furniture black.,Cat yang bisa digunakan untuk mengecat furnitur menjadi hitam.
+PROPITEM_TXT_133971,White Paint (D),Cat Putih (D)
+PROPITEM_TXT_133972,White Paint (C),Cat Putih (C)
+PROPITEM_TXT_133973,White Paint (B),Cat Putih (B)
+PROPITEM_TXT_133974,White Paint (A),Cat Putih (A)
+PROPITEM_TXT_133975,A paint that can paint furniture white.,Cat yang bisa digunakan untuk mengecat furnitur menjadi putih.
+PROPITEM_TXT_133976,Gold Paint (D),Cat Emas (D)
+PROPITEM_TXT_133977,Gold Paint (C),Cat Emas (C)
+PROPITEM_TXT_133978,Gold Paint (B),Cat Emas (B)
+PROPITEM_TXT_133979,Gold Paint (A),Cat Emas (A)
+PROPITEM_TXT_133980,A paint that can paint furniture gold.,Cat yang bisa digunakan untuk mengecat furnitur menjadi emas.
 PROPITEM_TXT_133981,Wooden Chair Single Pack (5 Days),Wooden Chair Single Pack (5 Days)
 PROPITEM_TXT_133982,Wooden Chair Single Pack (15 Days),Wooden Chair Single Pack (15 Days)
 PROPITEM_TXT_133983,Wooden Chair Single Pack (20 Days),Wooden Chair Single Pack (20 Days)
@@ -18827,10 +18827,10 @@ PROPITEM_TXT_134445,Imitation Pearl (C),Imitation Pearl (C)
 PROPITEM_TXT_134446,Imitation Pearl (B),Imitation Pearl (B)
 PROPITEM_TXT_134447,Imitation Pearl (A),Imitation Pearl (A)
 PROPITEM_TXT_134448,An artificially created pearl. It can be used for many purposes.,An artificially created pearl. It can be used for many purposes.
-PROPITEM_TXT_134449,Flask (D),Flask (D)
-PROPITEM_TXT_134450,Flask (C),Flask (C)
-PROPITEM_TXT_134451,Flask (B),Flask (B)
-PROPITEM_TXT_134452,Flask (A),Flask (A)
+PROPITEM_TXT_134449,Flask (D),Labu (D)
+PROPITEM_TXT_134450,Flask (C),Labu (C)
+PROPITEM_TXT_134451,Flask (B),Labu (B)
+PROPITEM_TXT_134452,Flask (A),Labu (A)
 PROPITEM_TXT_134453,A clear glass bottle. It's a neccessary ingredient for alchemy experiments.,A clear glass bottle. It's a neccessary ingredient for alchemy experiments.
 PROPITEM_TXT_134454,Hinge (D),Hinge (D)
 PROPITEM_TXT_134455,Hinge (C),Hinge (C)
@@ -18868,11 +18868,11 @@ PROPITEM_TXT_134486,Chandelier Single Pack (5 Days),Chandelier Single Pack (5 Da
 PROPITEM_TXT_134487,Chandelier Single Pack (15 Days),Chandelier Single Pack (15 Days)
 PROPITEM_TXT_134488,Chandelier Single Pack (20 Days),Chandelier Single Pack (20 Days)
 PROPITEM_TXT_134489,Chandelier Single Pack (30 Days),Chandelier Single Pack (30 Days)
-PROPITEM_TXT_134490,Mirror (D),Mirror (D)
-PROPITEM_TXT_134491,Mirror (C),Mirror (C)
-PROPITEM_TXT_134492,Mirror (B),Mirror (B)
-PROPITEM_TXT_134493,Mirror (A),Mirror (A)
-PROPITEM_TXT_134494,A mirror that allows you to look at your reflection.,A mirror that allows you to look at your reflection.
+PROPITEM_TXT_134490,Mirror (D),Cermin (D)
+PROPITEM_TXT_134491,Mirror (C),Cermin (C)
+PROPITEM_TXT_134492,Mirror (B),Cermin (B)
+PROPITEM_TXT_134493,Mirror (A),Cermin (A)
+PROPITEM_TXT_134494,A mirror that allows you to look at your reflection.,Cermin yang memungkinkan Anda untuk melihat pantulan diri Anda.
 PROPITEM_TXT_134495,Silverwork of Attack (D),Silverwork of Attack (D)
 PROPITEM_TXT_134496,Silverwork of Attack (C),Silverwork of Attack (C)
 PROPITEM_TXT_134497,Silverwork of Attack (B),Silverwork of Attack (B)
