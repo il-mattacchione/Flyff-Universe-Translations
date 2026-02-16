@@ -130,12 +130,12 @@ UI_TOOLTIP_INV_BOOTS,Boots,Bottes
 UI_TOOLTIP_INV_HELMET,Helmet,Casque
 UI_TOOLTIP_INV_CLO,Cloak,Cape
 UI_TOOLTIP_INV_WEAPON,Weapon,Armes
-UI_TOOLTIP_INV_GUARD,Shield,Shield
+UI_TOOLTIP_INV_GUARD,Shield,Bouclier
 UI_TOOLTIP_INV_MASK,Mask,Masque
 UI_TOOLTIP_INV_RID,Flying Item,Planche/Balai
 UI_TOOLTIP_INV_NECKLACE,Necklace,Collier
 UI_TOOLTIP_INV_RING,Ring,Anneau
-UI_TOOLTIP_INV_EARRING,Earring,Earring
+UI_TOOLTIP_INV_EARRING,Earring,Boucle
 UI_TOOLTIP_INV_BULLET,"Sub Weapon (Arrows, Posters)",Arme secondaire
 UI_TOOLTIP_INV_CLOTHES_1,Fashion hat,Chapeau fashion
 UI_TOOLTIP_INV_CLOTHES_2,Fashion costume,Vêtement fashion
