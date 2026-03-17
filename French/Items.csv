@@ -2635,7 +2635,7 @@ PROPITEM_TXT_004713,+5% Exp. for 10 Minutes. Legend has it that it also works as
 PROPITEM_TXT_004714,Scroll of Amplification ES,Parchemin Spécial d'Amplification
 PROPITEM_TXT_004715,x1.5 Exp. for 1 hour. This buff is not stackable.,"Parchemin augmentant l'expérience acquise de 50% pendant 1h (EXPx1,5) Ce bonus n'est pas cumulable."
 PROPITEM_TXT_004716,Scroll of Amplification EM,Parchemin de Grande Maîtrise
-PROPITEM_TXT_004717,x2 Exp. for 1 hour. This buff is not stackable.,Parchemin augmentant l'expérience acquise de 100% pendant 1h (EXP x2).
+PROPITEM_TXT_004717,x2 Exp. for 1 hour. This buff is not stackable.,Parchemin augmentant l'expérience acquise de 100% pendant 1h (EXP x2) Ce bonus n'est pas cumulable..
 PROPITEM_TXT_004718,Scroll of Amplification DR,Parchemin de Prospérité
 PROPITEM_TXT_004719,x2 Item Drop Rate for 1 hour. This buff is not stackable.,Parchemin augmentant les chances d'avoir des objets x2.
 PROPITEM_TXT_004720,Def-Upcut Stone,Pierre Arès
@@ -12460,11 +12460,11 @@ PROPITEM_TXT_122501,Used when converting regular weapons into Ultimate Weapons.,
 PROPITEM_TXT_122502,Ultimate Orb,Orbe Ultime
 PROPITEM_TXT_122503,Used when converting regular weapons into Ultimate Weapons.,Utilisé pour convertir des armes normales en Armes Ultimes.
 PROPITEM_TXT_122504,Scroll of Ultimate Power,Parchemin de Pouvoir Ultime
-PROPITEM_TXT_122505,Resets the range value for the fixed stat of Ultimate Weapons and certain Unique Weapons.,Réinitialise la fourchette de stat fixes des Armes Ultimes et certaines Armes Uniques.
+PROPITEM_TXT_122505,Resets the range value for the fixed stat of Ultimate Weapons and certain Unique Weapons.,Réinitialise la fourchette de stat fixes des Armes Ultimes et certaines Armes Uniques (Lignes jaune pâle).
 PROPITEM_TXT_122506,Scroll of Ultimate Bonus,Parchemin de Bonus Ultime
-PROPITEM_TXT_122507,Resets the kind of random stat and value that gets applied to the Ultimate Weapon.,Réinitialise le type de de stat aléatoire ainsi que la valeur qui est appliqué à l'Arme Ultime.
+PROPITEM_TXT_122507,Resets the kind of random stat and value that gets applied to the Ultimate Weapon.,Réinitialise le type de de stat aléatoire ainsi que la valeur qui est appliqué à l'Arme Ultime (Lignes jaune doré).
 PROPITEM_TXT_122508,Sunstone,Orichalque
-PROPITEM_TXT_122509,Used for upgrading Ultimate Weapon.,Utilisé pour améliorer des Armes Ultimes.
+PROPITEM_TXT_122509,Used for upgrading Ultimate Weapon.,Un métal rare aux propriétés magiques, essentiel pour améliorer des Armes Ultimes ou des bijoux ultimes.
 PROPITEM_TXT_122510,Scroll of XProtect,Parchemin Xprotect Ultime
 PROPITEM_TXT_122511,"This scroll prevents the loss of Ultimate Weapon for upgrade failure. To use, place scroll in the appropriate box on the Upgrade Menu before attempting the upgrade. The scroll is consumed in the process.","Ce parchemin permet d'empêcher la perte liée à l'échec d'amélioration d'Arme Ultime. Pour l'utiliser, placez le parchemin au bon endroit dans le menu d'amélioration avant de tenter l'amélioration. Le parchemin est consommé durant la manipulation."
 PROPITEM_TXT_123000,Shield of the Jade Dragon,Bouclier du Dragon de Jade
@@ -24607,7 +24607,7 @@ PROPITEM_TXT_155558,Battle-Worn Dementia,Yo-yo de la Démence usé par les comba
 PROPITEM_TXT_155559,Cursed Dementia,Yo-yo de la Démence maudite
 PROPITEM_TXT_155560,Dementia,Yo-yo de la Démence
 PROPITEM_TXT_155561,Scroll of Ultimate Bonus II,Parchemin de Bonus Ultime II
-PROPITEM_TXT_155562,Resets the random stats and values of special options applied to the Ultimate Weapon.,Réinitialise les statistiques aléatoires et les valeurs des options spéciales appliquées à l’Arme Ultime.
+PROPITEM_TXT_155562,Resets the random stats and values of special options applied to the Ultimate Weapon.,Réinitialise les statistiques aléatoires et les valeurs des options spéciales appliquées à l’Arme Ultime à partir d'une amélioration +6 (Lignes Orange).
 PROPITEM_TXT_155563,FWC 2025 Bloody Death Messenger’s Set (Winners),FWC 2025 Ensemble du Messager de la Mort Sanglant (Vainqueurs)
 PROPITEM_TXT_155564,FWC 2025 Bloody Death Messenger’s Scroll,FWC 2025 Parchemin du Messager de la Mort Sanglant
 PROPITEM_TXT_155565,FWC 2025 Bloody Death Messenger’s Hat (M),FWC 2025 Chapeau du Messager de la Mort Sanglant (H)
