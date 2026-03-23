@@ -8105,7 +8105,7 @@ PROPITEM_TXT_101467,Menhera Kei Green Patch,Menhera Kei Green Patch
 PROPITEM_TXT_101468,Menhera Kei Yellow Patch,Menhera Kei Yellow Patch
 PROPITEM_TXT_101469,Menhera Kei Black Patch,Menhera Kei Black Patch
 PROPITEM_TXT_101470,Menhera Kei White Patch,Menhera Kei White Patch
-PROPITEM_TXT_101471,"Exchange 10 mosquitoes and 50,000 Penya for a Rock-Paper-Scissors coupon to the Mayor of Flarine.","Exchange 10 mosquitoes and 50,000 Penya for a Rock-Paper-Scissors coupon to the Mayor of Flarine."
+PROPITEM_TXT_101471,"Exchange 10 mosquitoes and 50,000 penyas for a Rock-Paper-Scissors coupon to the Mayor of Flarine.","Exchange 10 mosquitoes and 50,000 penyas for a Rock-Paper-Scissors coupon to the Mayor of Flarine."
 PROPITEM_TXT_101472,Low Star Sign Cloak (Aries),Low Star Sign Cloak (Aries)
 PROPITEM_TXT_101473,Low Star Sign Cloak (Taurus),Low Star Sign Cloak (Taurus)
 PROPITEM_TXT_101474,Low Star Sign Cloak (Gemini),Low Star Sign Cloak (Gemini)
@@ -8256,8 +8256,8 @@ PROPITEM_TXT_101609,Gummy Bear Black Glasses,Gummy Bear Black Glasses
 PROPITEM_TXT_101610,Gummy Bear White Glasses,Gummy Bear White Glasses
 PROPITEM_TXT_101611,Stat Scroll Box,Stat Scroll Box
 PROPITEM_TXT_101612,Select which Weapons Stat Scroll you want to receive!,Select which Weapons Stat Scroll you want to receive!
-PROPITEM_TXT_101613,Extended Flyff Pass,Extended Flyff Pass
-PROPITEM_TXT_101614,This purchase gives you many advantages during the Flyff Pass season:\n-More Flyff Pass rewards including an Exclusive Costume\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!,This purchase gives you many advantages during the Flyff Pass season:\n-More Flyff Pass rewards including an Exclusive Costume\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!
+PROPITEM_TXT_101613,Extended Battle Pass,Extended Battle Pass
+PROPITEM_TXT_101614,This purchase gives you many advantages during the Battle Pass season:\n-More Battle Pass rewards including an Exclusive Costume\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!,This purchase gives you many advantages during the Battle Pass season:\n-More Battle Pass rewards including an Exclusive Costume\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!
 PROPITEM_TXT_101615,Blue Chips,Blue Chips
 PROPITEM_TXT_101616,藐视全服 Guild Cloak,藐视全服 Guild Cloak
 PROPITEM_TXT_101617,Baby Wild Rabbit,Baby Wild Rabbit
@@ -11821,7 +11821,7 @@ PROPITEM_TXT_121999,Black Flying Sheep,Black Flying Sheep
 PROPITEM_TXT_122000,Star Lucky Box,Star Lucky Box
 PROPITEM_TXT_122001,This box contains a Star Set with Speed bonus. You can select your gender after opening the Lucky Box.,This box contains a Star Set with Speed bonus. You can select your gender after opening the Lucky Box.
 PROPITEM_TXT_400010,Extended October Pass,Extended October Pass
-PROPITEM_TXT_400011,This purchase gives you many advantages during the October Pass season:\n-More Flyff Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!,This purchase gives you many advantages during the October Pass season:\n-More Flyff Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!
+PROPITEM_TXT_400011,This purchase gives you many advantages during the October Pass season:\n-More Battle Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!,This purchase gives you many advantages during the October Pass season:\n-More Battle Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!
 PROPITEM_TXT_015114,Beer,Beer
 PROPITEM_TXT_015115,An ordinary beer that can be found everywhere.\nIt can be exchanged for various items via the NPC.,An ordinary beer that can be found everywhere.\nIt can be exchanged for various items via the NPC.
 PROPITEM_TXT_015116,Finest Beer,Finest Beer
@@ -11955,7 +11955,7 @@ PROPITEM_TXT_221929,Nitro Booster (30 Days),Nitro Booster (30 Days)
 PROPITEM_TXT_221930,"Provides unlimited nitro booster for 30 days, increasing your flying speed by up to 30%.","Provides unlimited nitro booster for 30 days, increasing your flying speed by up to 30%."
 PROPITEM_TXT_221931,"Provides unlimited nitro booster increasing your flying speed by up to 30%. To use, double click while mounted and press the <X> Key to toggle the boost on or off.","Provides unlimited nitro booster increasing your flying speed by up to 30%. To use, double click while mounted and press the <X> Key to toggle the boost on or off."
 PROPITEM_TXT_221932,Extended November Pass,Extended November Pass
-PROPITEM_TXT_221933,This purchase gives you many advantages during the November Pass season:\n-More Flyff Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!,This purchase gives you many advantages during the November Pass season:\n-More Flyff Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!
+PROPITEM_TXT_221933,This purchase gives you many advantages during the November Pass season:\n-More Battle Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!,This purchase gives you many advantages during the November Pass season:\n-More Battle Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!
 PROPITEM_TXT_221934,Modern Halloween 10% Orange Set,Modern Halloween 10% Orange Set
 PROPITEM_TXT_221935,Modern Halloween Orange Hat (M),Modern Halloween Orange Hat (M)
 PROPITEM_TXT_221936,Modern Halloween Orange Suit (M),Modern Halloween Orange Suit (M)
@@ -12685,7 +12685,7 @@ PROPITEM_TXT_422044,Teleport to one of the towns and return later where the scro
 PROPITEM_TXT_124000,Forest World Template (XL),Forest World Template (XL)
 PROPITEM_TXT_124001,Volcano World Template (XL),Volcano World Template (XL)
 PROPITEM_TXT_124002,Snow World Template (XL),Snow World Template (XL)
-PROPITEM_TXT_124003,Guild Ship Blinkwing,Guild Ship Blinkwing
+PROPITEM_TXT_124003,Guild House Blinkwing,Guild House Blinkwing
 PROPITEM_TXT_131001,Scroll of Housing Preset,Scroll of Housing Preset
 PROPITEM_TXT_131002,Using this scroll will increase your maximum housing presets count by 1! (This maximum count will be increased for all templates).,Using this scroll will increase your maximum housing presets count by 1! (This maximum count will be increased for all templates).
 PROPITEM_TXT_131003,Common Trees Housing Pack,Common Trees Housing Pack
@@ -12906,7 +12906,7 @@ PROPITEM_TXT_131206,Reverse mouse left and right direction for 10 seconds to fro
 PROPITEM_TXT_131207,Thanksgiving Gacha Box 2023,Thanksgiving Gacha Box 2023
 PROPITEM_TXT_131208,This box dropped by Wild Turkey drop various rewards! Get as much as possible!,This box dropped by Wild Turkey drop various rewards! Get as much as possible!
 PROPITEM_TXT_131209,Extended December Pass,Extended December Pass
-PROPITEM_TXT_131210,This purchase gives you many advantages during the December Pass season:\n-More Flyff Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!,This purchase gives you many advantages during the December Pass season:\n-More Flyff Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!
+PROPITEM_TXT_131210,This purchase gives you many advantages during the December Pass season:\n-More Battle Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!,This purchase gives you many advantages during the December Pass season:\n-More Battle Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!
 PROPITEM_TXT_131211,Thanksgiving 2023 10% Grey Set,Thanksgiving 2023 10% Grey Set
 PROPITEM_TXT_131212,Thanksgiving 2023 Grey Hat (M),Thanksgiving 2023 Grey Hat (M)
 PROPITEM_TXT_131213,Thanksgiving 2023 Grey Suit (M),Thanksgiving 2023 Grey Suit (M)
@@ -13252,7 +13252,7 @@ PROPITEM_TXT_230213,Unlocks bonus playtime rewards. Can only be used once per da
 PROPITEM_TXT_230214,Bonus Login Coupon,Bonus Login Coupon
 PROPITEM_TXT_230215,"Activates the bonus login rewards track. After claiming all rewards, you can use another coupon to start over.","Activates the bonus login rewards track. After claiming all rewards, you can use another coupon to start over."
 PROPITEM_TXT_230216,Extended January Pass,Extended January Pass
-PROPITEM_TXT_230217,This purchase gives you many advantages during the January Pass season:\n-More Flyff Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!,This purchase gives you many advantages during the January Pass season:\n-More Flyff Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!
+PROPITEM_TXT_230217,This purchase gives you many advantages during the January Pass season:\n-More Battle Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!,This purchase gives you many advantages during the January Pass season:\n-More Battle Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!
 PROPITEM_TXT_230218,PlayPark Launch Gift,PlayPark Launch Gift
 PROPITEM_TXT_230219,Gift for the Flyff U x PlayPark launch!,Gift for the Flyff U x PlayPark launch!
 PROPITEM_TXT_722153,Candy Cane 10% Red Set,Candy Cane 10% Red Set
@@ -13398,68 +13398,68 @@ PROPITEM_TXT_131824,[Personal House NPC] Cachu,[Personal House NPC] Cachu
 PROPITEM_TXT_131825,This NPC will grant you the following bonus when placed on the Personal House: Party Exp +10%.,This NPC will grant you the following bonus when placed on the Personal House: Party Exp +10%.
 PROPITEM_TXT_131826,[Personal House NPC] Pang,[Personal House NPC] Pang
 PROPITEM_TXT_131827,This NPC will grant you the following bonus when placed on the Personal House: Buffs limited to characters level 120 and below.,This NPC will grant you the following bonus when placed on the Personal House: Buffs limited to characters level 120 and below.
-PROPITEM_TXT_131828,[Guild Ship NPC] Gira,[Guild Ship NPC] Gira
-PROPITEM_TXT_131829,This NPC will grant you the following bonus when placed on the Guild Ship: MP Consumption Decrease +10%.,This NPC will grant you the following bonus when placed on the Guild Ship: MP Consumption Decrease +10%.
-PROPITEM_TXT_131830,[Guild Ship NPC] Affe,[Guild Ship NPC] Affe
-PROPITEM_TXT_131831,This NPC will grant you the following bonus when placed on the Guild Ship: FP Consumption Decrease +10%.,This NPC will grant you the following bonus when placed on the Guild Ship: FP Consumption Decrease +10%.
-PROPITEM_TXT_131832,[Guild Ship NPC] Sham,[Guild Ship NPC] Sham
-PROPITEM_TXT_131833,This NPC will grant you the following bonus when placed on the Guild Ship: Increased MP +10%.,This NPC will grant you the following bonus when placed on the Guild Ship: Increased MP +10%.
-PROPITEM_TXT_131834,[Guild Ship NPC] Lamew,[Guild Ship NPC] Lamew
-PROPITEM_TXT_131835,This NPC will grant you the following bonus when placed on the Guild Ship: Increased FP +10%.,This NPC will grant you the following bonus when placed on the Guild Ship: Increased FP +10%.
-PROPITEM_TXT_131836,[Guild Ship NPC] Quarter,[Guild Ship NPC] Quarter
-PROPITEM_TXT_131837,This NPC will grant you the following bonus when placed on the Guild Ship: Increased HP +10%.,This NPC will grant you the following bonus when placed on the Guild Ship: Increased HP +10%.
-PROPITEM_TXT_131838,[Guild Ship NPC] Duron,[Guild Ship NPC] Duron
-PROPITEM_TXT_131839,This NPC will grant you the following bonus when placed on the Guild Ship: Battle Artifact HP +10%.,This NPC will grant you the following bonus when placed on the Guild Ship: Battle Artifact HP +10%.
-PROPITEM_TXT_131840,[Guild Ship NPC] Dolphie,[Guild Ship NPC] Dolphie
-PROPITEM_TXT_131841,This NPC will grant you the following bonus when placed on the Guild Ship: Battle Artifact DEF +10%.,This NPC will grant you the following bonus when placed on the Guild Ship: Battle Artifact DEF +10%.
-PROPITEM_TXT_131842,[Guild Ship NPC] Fuba,[Guild Ship NPC] Fuba
-PROPITEM_TXT_131843,This NPC will grant you the following bonus when placed on the Guild Ship: Battle Artifact Recovery +10%.,This NPC will grant you the following bonus when placed on the Guild Ship: Battle Artifact Recovery +10%.
-PROPITEM_TXT_131844,[Guild Ship NPC] Bako,[Guild Ship NPC] Bako
-PROPITEM_TXT_131845,This NPC will grant you the following bonus when placed on the Guild Ship: Guild Member HP Near Artifact +500.,This NPC will grant you the following bonus when placed on the Guild Ship: Guild Member HP Near Artifact +500.
-PROPITEM_TXT_131846,[Guild Ship NPC] Wick,[Guild Ship NPC] Wick
-PROPITEM_TXT_131847,This NPC will grant you the following bonus when placed on the Guild Ship: Guild Member ATK Near Artifact +3%.,This NPC will grant you the following bonus when placed on the Guild Ship: Guild Member ATK Near Artifact +3%.
-PROPITEM_TXT_131848,[Guild Ship NPC] Wina,[Guild Ship NPC] Wina
-PROPITEM_TXT_131849,This NPC will grant you the following bonus when placed on the Guild Ship: Guild Member DEF Near Artifact +3%.,This NPC will grant you the following bonus when placed on the Guild Ship: Guild Member DEF Near Artifact +3%.
-PROPITEM_TXT_131850,[Guild Ship NPC] Pitch,[Guild Ship NPC] Pitch
-PROPITEM_TXT_131851,This NPC will grant you the following bonus when placed on the Guild Ship: Guild Member Attack Speed Near Artifact +5%.,This NPC will grant you the following bonus when placed on the Guild Ship: Guild Member Attack Speed Near Artifact +5%.
-PROPITEM_TXT_131852,[Guild Ship NPC] Catch,[Guild Ship NPC] Catch
-PROPITEM_TXT_131853,This NPC will grant you the following bonus when placed on the Guild Ship: Guild Member Casting Speed Near Artifact +5%.,This NPC will grant you the following bonus when placed on the Guild Ship: Guild Member Casting Speed Near Artifact +5%.
-PROPITEM_TXT_131854,[Guild Ship NPC] Met,[Guild Ship NPC] Met
-PROPITEM_TXT_131855,This NPC will grant you the following bonus when placed on the Guild Ship: Drop Rate Increase +5%.,This NPC will grant you the following bonus when placed on the Guild Ship: Drop Rate Increase +5%.
-PROPITEM_TXT_131856,[Guild Ship NPC] Ego,[Guild Ship NPC] Ego
-PROPITEM_TXT_131857,This NPC will grant you the following bonus when placed on the Guild Ship: Drop Rate Increase +5%.,This NPC will grant you the following bonus when placed on the Guild Ship: Drop Rate Increase +5%.
-PROPITEM_TXT_131858,[Guild Ship NPC] Wifielder,[Guild Ship NPC] Wifielder
-PROPITEM_TXT_131859,This NPC will grant you the following bonus when placed on the Guild Ship: Drop Rate Increase +5%.,This NPC will grant you the following bonus when placed on the Guild Ship: Drop Rate Increase +5%.
-PROPITEM_TXT_131860,[Guild Ship NPC] Simid,[Guild Ship NPC] Simid
-PROPITEM_TXT_131861,This NPC will grant you the following bonus when placed on the Guild Ship: Drop Rate Increase +5%.,This NPC will grant you the following bonus when placed on the Guild Ship: Drop Rate Increase +5%.
-PROPITEM_TXT_131862,[Guild Ship NPC] Chord,[Guild Ship NPC] Chord
-PROPITEM_TXT_131863,This NPC will grant you the following bonus when placed on the Guild Ship: PvP Damage +3%.,This NPC will grant you the following bonus when placed on the Guild Ship: PvP Damage +3%.
-PROPITEM_TXT_131864,[Guild Ship NPC] Anura,[Guild Ship NPC] Anura
-PROPITEM_TXT_131865,This NPC will grant you the following bonus when placed on the Guild Ship: PvP Damage Reduction +3%.,This NPC will grant you the following bonus when placed on the Guild Ship: PvP Damage Reduction +3%.
-PROPITEM_TXT_131866,[Guild Ship NPC] Vikel,[Guild Ship NPC] Vikel
-PROPITEM_TXT_131867,This NPC will grant you the following bonus when placed on the Guild Ship: PvP Melee/Range Block +3%.,This NPC will grant you the following bonus when placed on the Guild Ship: PvP Melee/Range Block +3%.
-PROPITEM_TXT_131868,[Guild Ship NPC] Soz,[Guild Ship NPC] Soz
-PROPITEM_TXT_131869,This NPC will grant you the following bonus when placed on the Guild Ship: PvP Block Penetration +3%.,This NPC will grant you the following bonus when placed on the Guild Ship: PvP Block Penetration +3%.
-PROPITEM_TXT_131870,[Guild Ship NPC] Naso,[Guild Ship NPC] Naso
-PROPITEM_TXT_131871,This NPC will grant you the following bonus when placed on the Guild Ship: PvP Critical Chance +3%.,This NPC will grant you the following bonus when placed on the Guild Ship: PvP Critical Chance +3%.
-PROPITEM_TXT_131872,[Guild Ship NPC] Nuso,[Guild Ship NPC] Nuso
-PROPITEM_TXT_131873,This NPC will grant you the following bonus when placed on the Guild Ship: PvP Critical Damage +3%.,This NPC will grant you the following bonus when placed on the Guild Ship: PvP Critical Damage +3%.
-PROPITEM_TXT_131874,[Guild Ship NPC] Cobao,[Guild Ship NPC] Cobao
-PROPITEM_TXT_131875,This NPC will grant you the following bonus when placed on the Guild Ship: Healing +3%.,This NPC will grant you the following bonus when placed on the Guild Ship: Healing +3%.
-PROPITEM_TXT_131876,[Guild Ship NPC] Aibao,[Guild Ship NPC] Aibao
-PROPITEM_TXT_131877,This NPC will grant you the following bonus when placed on the Guild Ship: Magic Resistance +3%.,This NPC will grant you the following bonus when placed on the Guild Ship: Magic Resistance +3%.
-PROPITEM_TXT_131878,[Guild Ship NPC] Nanco,[Guild Ship NPC] Nanco
-PROPITEM_TXT_131879,This NPC will grant you the following bonus when placed on the Guild Ship: Critical Resist +3%.,This NPC will grant you the following bonus when placed on the Guild Ship: Critical Resist +3%.
-PROPITEM_TXT_131880,[Guild Ship NPC] Asa,[Guild Ship NPC] Asa
-PROPITEM_TXT_131881,This NPC will grant you the following bonus when placed on the Guild Ship: Allow you to teleport to the place of your choice.,This NPC will grant you the following bonus when placed on the Guild Ship: Allow you to teleport to the place of your choice.
-PROPITEM_TXT_131882,[Guild Ship NPC] Alyn,[Guild Ship NPC] Alyn
-PROPITEM_TXT_131883,This NPC will grant you the following bonus when placed on the Guild Ship: Weapon/Armor upgrade chance +3%.,This NPC will grant you the following bonus when placed on the Guild Ship: Weapon/Armor upgrade chance +3%.
-PROPITEM_TXT_131884,[Guild Ship NPC] Lane,[Guild Ship NPC] Lane
-PROPITEM_TXT_131885,This NPC will grant you the following bonus when placed on the Guild Ship: Accessory upgrade chance +3%.,This NPC will grant you the following bonus when placed on the Guild Ship: Accessory upgrade chance +3%.
-PROPITEM_TXT_131886,[Guild Ship NPC] Runni,[Guild Ship NPC] Runni
-PROPITEM_TXT_131887,This NPC will grant you the following bonus when placed on the Guild Ship: Piercing upgrade chance +3%.,This NPC will grant you the following bonus when placed on the Guild Ship: Piercing upgrade chance +3%.
-PROPITEM_TXT_131888,[Guild Ship NPC] Pang,[Guild Ship NPC] Pang
-PROPITEM_TXT_131889,This NPC will grant you the following bonus when placed on the Guild Ship: Buffs limited to characters level 140 and below.,This NPC will grant you the following bonus when placed on the Guild Ship: Buffs limited to characters level 140 and below.
+PROPITEM_TXT_131828,[Guild House NPC] Gira,[Guild House NPC] Gira
+PROPITEM_TXT_131829,This NPC will grant you the following bonus when placed on the Guild House: MP Consumption Decrease +10%.,This NPC will grant you the following bonus when placed on the Guild House: MP Consumption Decrease +10%.
+PROPITEM_TXT_131830,[Guild House NPC] Affe,[Guild House NPC] Affe
+PROPITEM_TXT_131831,This NPC will grant you the following bonus when placed on the Guild House: FP Consumption Decrease +10%.,This NPC will grant you the following bonus when placed on the Guild House: FP Consumption Decrease +10%.
+PROPITEM_TXT_131832,[Guild House NPC] Sham,[Guild House NPC] Sham
+PROPITEM_TXT_131833,This NPC will grant you the following bonus when placed on the Guild House: Increased MP +10%.,This NPC will grant you the following bonus when placed on the Guild House: Increased MP +10%.
+PROPITEM_TXT_131834,[Guild House NPC] Lamew,[Guild House NPC] Lamew
+PROPITEM_TXT_131835,This NPC will grant you the following bonus when placed on the Guild House: Increased FP +10%.,This NPC will grant you the following bonus when placed on the Guild House: Increased FP +10%.
+PROPITEM_TXT_131836,[Guild House NPC] Quarter,[Guild House NPC] Quarter
+PROPITEM_TXT_131837,This NPC will grant you the following bonus when placed on the Guild House: Increased HP +10%.,This NPC will grant you the following bonus when placed on the Guild House: Increased HP +10%.
+PROPITEM_TXT_131838,[Guild House NPC] Duron,[Guild House NPC] Duron
+PROPITEM_TXT_131839,This NPC will grant you the following bonus when placed on the Guild House: Battle Artifact HP +10%.,This NPC will grant you the following bonus when placed on the Guild House: Battle Artifact HP +10%.
+PROPITEM_TXT_131840,[Guild House NPC] Dolphie,[Guild House NPC] Dolphie
+PROPITEM_TXT_131841,This NPC will grant you the following bonus when placed on the Guild House: Battle Artifact DEF +10%.,This NPC will grant you the following bonus when placed on the Guild House: Battle Artifact DEF +10%.
+PROPITEM_TXT_131842,[Guild House NPC] Fuba,[Guild House NPC] Fuba
+PROPITEM_TXT_131843,This NPC will grant you the following bonus when placed on the Guild House: Battle Artifact Recovery +10%.,This NPC will grant you the following bonus when placed on the Guild House: Battle Artifact Recovery +10%.
+PROPITEM_TXT_131844,[Guild House NPC] Bako,[Guild House NPC] Bako
+PROPITEM_TXT_131845,This NPC will grant you the following bonus when placed on the Guild House: Allies HP near house artifact +500.,This NPC will grant you the following bonus when placed on the Guild House: Allies HP near house artifact +500.
+PROPITEM_TXT_131846,[Guild House NPC] Wick,[Guild House NPC] Wick
+PROPITEM_TXT_131847,This NPC will grant you the following bonus when placed on the Guild House: Allies ATK near house artifact +3%.,This NPC will grant you the following bonus when placed on the Guild House: Allies ATK near house artifact +3%.
+PROPITEM_TXT_131848,[Guild House NPC] Wina,[Guild House NPC] Wina
+PROPITEM_TXT_131849,This NPC will grant you the following bonus when placed on the Guild House: Allies DEF near house artifact +3%.,This NPC will grant you the following bonus when placed on the Guild House: Allies DEF near house artifact +3%.
+PROPITEM_TXT_131850,[Guild House NPC] Pitch,[Guild House NPC] Pitch
+PROPITEM_TXT_131851,This NPC will grant you the following bonus when placed on the Guild House: Allies Attack Speed near house artifact +5%.,This NPC will grant you the following bonus when placed on the Guild House: Allies Attack Speed near house artifact +5%.
+PROPITEM_TXT_131852,[Guild House NPC] Catch,[Guild House NPC] Catch
+PROPITEM_TXT_131853,This NPC will grant you the following bonus when placed on the Guild House: Allies Casting Speed near house artifact +5%.,This NPC will grant you the following bonus when placed on the Guild House: Allies Casting Speed near house artifact +5%.
+PROPITEM_TXT_131854,[Guild House NPC] Met,[Guild House NPC] Met
+PROPITEM_TXT_131855,This NPC will grant you the following bonus when placed on the Guild House: Drop Rate Increase +5%.,This NPC will grant you the following bonus when placed on the Guild House: Drop Rate Increase +5%.
+PROPITEM_TXT_131856,[Guild House NPC] Ego,[Guild House NPC] Ego
+PROPITEM_TXT_131857,This NPC will grant you the following bonus when placed on the Guild House: Drop Rate Increase +5%.,This NPC will grant you the following bonus when placed on the Guild House: Drop Rate Increase +5%.
+PROPITEM_TXT_131858,[Guild House NPC] Wifielder,[Guild House NPC] Wifielder
+PROPITEM_TXT_131859,This NPC will grant you the following bonus when placed on the Guild House: Drop Rate Increase +5%.,This NPC will grant you the following bonus when placed on the Guild House: Drop Rate Increase +5%.
+PROPITEM_TXT_131860,[Guild House NPC] Simid,[Guild House NPC] Simid
+PROPITEM_TXT_131861,This NPC will grant you the following bonus when placed on the Guild House: Drop Rate Increase +5%.,This NPC will grant you the following bonus when placed on the Guild House: Drop Rate Increase +5%.
+PROPITEM_TXT_131862,[Guild House NPC] Chord,[Guild House NPC] Chord
+PROPITEM_TXT_131863,This NPC will grant you the following bonus when placed on the Guild House: PvP Damage +3%.,This NPC will grant you the following bonus when placed on the Guild House: PvP Damage +3%.
+PROPITEM_TXT_131864,[Guild House NPC] Anura,[Guild House NPC] Anura
+PROPITEM_TXT_131865,This NPC will grant you the following bonus when placed on the Guild House: PvP Damage Reduction +3%.,This NPC will grant you the following bonus when placed on the Guild House: PvP Damage Reduction +3%.
+PROPITEM_TXT_131866,[Guild House NPC] Vikel,[Guild House NPC] Vikel
+PROPITEM_TXT_131867,This NPC will grant you the following bonus when placed on the Guild House: PvP Melee/Range Block +3%.,This NPC will grant you the following bonus when placed on the Guild House: PvP Melee/Range Block +3%.
+PROPITEM_TXT_131868,[Guild House NPC] Soz,[Guild House NPC] Soz
+PROPITEM_TXT_131869,This NPC will grant you the following bonus when placed on the Guild House: PvP Block Penetration +3%.,This NPC will grant you the following bonus when placed on the Guild House: PvP Block Penetration +3%.
+PROPITEM_TXT_131870,[Guild House NPC] Naso,[Guild House NPC] Naso
+PROPITEM_TXT_131871,This NPC will grant you the following bonus when placed on the Guild House: PvP Critical Chance +3%.,This NPC will grant you the following bonus when placed on the Guild House: PvP Critical Chance +3%.
+PROPITEM_TXT_131872,[Guild House NPC] Nuso,[Guild House NPC] Nuso
+PROPITEM_TXT_131873,This NPC will grant you the following bonus when placed on the Guild House: PvP Critical Damage +3%.,This NPC will grant you the following bonus when placed on the Guild House: PvP Critical Damage +3%.
+PROPITEM_TXT_131874,[Guild House NPC] Cobao,[Guild House NPC] Cobao
+PROPITEM_TXT_131875,This NPC will grant you the following bonus when placed on the Guild House: Healing +3%.,This NPC will grant you the following bonus when placed on the Guild House: Healing +3%.
+PROPITEM_TXT_131876,[Guild House NPC] Aibao,[Guild House NPC] Aibao
+PROPITEM_TXT_131877,This NPC will grant you the following bonus when placed on the Guild House: Magic Resistance +3%.,This NPC will grant you the following bonus when placed on the Guild House: Magic Resistance +3%.
+PROPITEM_TXT_131878,[Guild House NPC] Nanco,[Guild House NPC] Nanco
+PROPITEM_TXT_131879,This NPC will grant you the following bonus when placed on the Guild House: Critical Resist +3%.,This NPC will grant you the following bonus when placed on the Guild House: Critical Resist +3%.
+PROPITEM_TXT_131880,[Guild House NPC] Asa,[Guild House NPC] Asa
+PROPITEM_TXT_131881,This NPC will grant you the following bonus when placed on the Guild House: Allow you to teleport to the place of your choice.,This NPC will grant you the following bonus when placed on the Guild House: Allow you to teleport to the place of your choice.
+PROPITEM_TXT_131882,[Guild House NPC] Alyn,[Guild House NPC] Alyn
+PROPITEM_TXT_131883,This NPC will grant you the following bonus when placed on the Guild House: Weapon/Armor upgrade chance +3%.,This NPC will grant you the following bonus when placed on the Guild House: Weapon/Armor upgrade chance +3%.
+PROPITEM_TXT_131884,[Guild House NPC] Lane,[Guild House NPC] Lane
+PROPITEM_TXT_131885,This NPC will grant you the following bonus when placed on the Guild House: Accessory upgrade chance +3%.,This NPC will grant you the following bonus when placed on the Guild House: Accessory upgrade chance +3%.
+PROPITEM_TXT_131886,[Guild House NPC] Runni,[Guild House NPC] Runni
+PROPITEM_TXT_131887,This NPC will grant you the following bonus when placed on the Guild House: Piercing upgrade chance +3%.,This NPC will grant you the following bonus when placed on the Guild House: Piercing upgrade chance +3%.
+PROPITEM_TXT_131888,[Guild House NPC] Pang,[Guild House NPC] Pang
+PROPITEM_TXT_131889,This NPC will grant you the following bonus when placed on the Guild House: Buffs limited to characters level 140 and below.,This NPC will grant you the following bonus when placed on the Guild House: Buffs limited to characters level 140 and below.
 PROPITEM_TXT_522047,Cushion Chair Single Pack,Cushion Chair Single Pack
 PROPITEM_TXT_522048,Spinning Globe Single Pack,Spinning Globe Single Pack
 PROPITEM_TXT_522049,Compass Single Pack,Compass Single Pack
@@ -14046,20 +14046,20 @@ PROPITEM_TXT_722451,"A package containing 5x Scroll of Amplification ES, 1x Extr
 PROPITEM_TXT_722452,Early Bird Package,Early Bird Package
 PROPITEM_TXT_722453,"A package containing 15x Upcut Stone, 15x Vital Drink X or Refresher Hold, 10x Scroll of Amplification ES and 20x Scroll of Return. All items are also linked.","A package containing 15x Upcut Stone, 15x Vital Drink X or Refresher Hold, 10x Scroll of Amplification ES and 20x Scroll of Return. All items are also linked."
 PROPITEM_TXT_230220,Extended February Pass,Extended February Pass
-PROPITEM_TXT_230221,This purchase gives you many advantages during the February Pass season:\n-More Flyff Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!,This purchase gives you many advantages during the February Pass season:\n-More Flyff Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!
+PROPITEM_TXT_230221,This purchase gives you many advantages during the February Pass season:\n-More Battle Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!,This purchase gives you many advantages during the February Pass season:\n-More Battle Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!
 PROPITEM_TXT_230224,Extended March Pass,Extended March Pass
-PROPITEM_TXT_230225,This purchase gives you many advantages during the March Pass season:\n-More Flyff Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!,This purchase gives you many advantages during the March Pass season:\n-More Flyff Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!
+PROPITEM_TXT_230225,This purchase gives you many advantages during the March Pass season:\n-More Battle Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!,This purchase gives you many advantages during the March Pass season:\n-More Battle Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!
 PROPITEM_TXT_230222,January Supply Pack,January Supply Pack
 PROPITEM_TXT_230226,Extended April Pass,Extended April Pass
-PROPITEM_TXT_230227,This purchase gives you many advantages during the April Pass season:\n-More Flyff Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!,This purchase gives you many advantages during the April Pass season:\n-More Flyff Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!
+PROPITEM_TXT_230227,This purchase gives you many advantages during the April Pass season:\n-More Battle Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!,This purchase gives you many advantages during the April Pass season:\n-More Battle Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!
 PROPITEM_TXT_230228,Extended May Pass,Extended May Pass
-PROPITEM_TXT_230229,This purchase gives you many advantages during the May Pass season:\n-More Flyff Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!,This purchase gives you many advantages during the May Pass season:\n-More Flyff Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!
+PROPITEM_TXT_230229,This purchase gives you many advantages during the May Pass season:\n-More Battle Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!,This purchase gives you many advantages during the May Pass season:\n-More Battle Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!
 PROPITEM_TXT_230230,Extended June Pass,Extended June Pass
-PROPITEM_TXT_230231,This purchase gives you many advantages during the June Pass season:\n-More Flyff Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!,This purchase gives you many advantages during the June Pass season:\n-More Flyff Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!
+PROPITEM_TXT_230231,This purchase gives you many advantages during the June Pass season:\n-More Battle Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!,This purchase gives you many advantages during the June Pass season:\n-More Battle Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!
 PROPITEM_TXT_230232,Extended July Pass,Extended July Pass
-PROPITEM_TXT_230233,This purchase gives you many advantages during the July Pass season:\n-More Flyff Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!,This purchase gives you many advantages during the July Pass season:\n-More Flyff Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!
+PROPITEM_TXT_230233,This purchase gives you many advantages during the July Pass season:\n-More Battle Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!,This purchase gives you many advantages during the July Pass season:\n-More Battle Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!
 PROPITEM_TXT_230234,Extended August Pass,Extended August Pass
-PROPITEM_TXT_230235,This purchase gives you many advantages during the August Pass season:\n-More Flyff Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!,This purchase gives you many advantages during the August Pass season:\n-More Flyff Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!
+PROPITEM_TXT_230235,This purchase gives you many advantages during the August Pass season:\n-More Battle Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!,This purchase gives you many advantages during the August Pass season:\n-More Battle Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!
 PROPITEM_TXT_722454,Basic Wall Single Pack,Basic Wall Single Pack
 PROPITEM_TXT_722455,Flaris Wall Single Pack,Flaris Wall Single Pack
 PROPITEM_TXT_722456,Cove Wall Single Pack,Cove Wall Single Pack
@@ -14526,37 +14526,37 @@ PROPITEM_TXT_722864,[Personal House NPC] Lala (7 Days),[Personal House NPC] Lala
 PROPITEM_TXT_722865,[Personal House NPC] Tino (7 Days),[Personal House NPC] Tino (7 Days)
 PROPITEM_TXT_722866,[Personal House NPC] Cachu (7 Days),[Personal House NPC] Cachu (7 Days)
 PROPITEM_TXT_722867,[Personal House NPC] Pang (7 Days),[Personal House NPC] Pang (7 Days)
-PROPITEM_TXT_722868,[Guild Ship NPC] Gira (7 Days),[Guild Ship NPC] Gira (7 Days)
-PROPITEM_TXT_722869,[Guild Ship NPC] Affe (7 Days),[Guild Ship NPC] Affe (7 Days)
-PROPITEM_TXT_722870,[Guild Ship NPC] Sham (7 Days),[Guild Ship NPC] Sham (7 Days)
-PROPITEM_TXT_722871,[Guild Ship NPC] Lamew (7 Days),[Guild Ship NPC] Lamew (7 Days)
-PROPITEM_TXT_722872,[Guild Ship NPC] Quarter (7 Days),[Guild Ship NPC] Quarter (7 Days)
-PROPITEM_TXT_722873,[Guild Ship NPC] Duron (7 Days),[Guild Ship NPC] Duron (7 Days)
-PROPITEM_TXT_722874,[Guild Ship NPC] Dolphie (7 Days),[Guild Ship NPC] Dolphie (7 Days)
-PROPITEM_TXT_722875,[Guild Ship NPC] Fuba (7 Days),[Guild Ship NPC] Fuba (7 Days)
-PROPITEM_TXT_722876,[Guild Ship NPC] Bako (7 Days),[Guild Ship NPC] Bako (7 Days)
-PROPITEM_TXT_722877,[Guild Ship NPC] Wick (7 Days),[Guild Ship NPC] Wick (7 Days)
-PROPITEM_TXT_722878,[Guild Ship NPC] Wina (7 Days),[Guild Ship NPC] Wina (7 Days)
-PROPITEM_TXT_722879,[Guild Ship NPC] Pitch (7 Days),[Guild Ship NPC] Pitch (7 Days)
-PROPITEM_TXT_722880,[Guild Ship NPC] Catch (7 Days),[Guild Ship NPC] Catch (7 Days)
-PROPITEM_TXT_722881,[Guild Ship NPC] Met (7 Days),[Guild Ship NPC] Met (7 Days)
-PROPITEM_TXT_722882,[Guild Ship NPC] Ego (7 Days),[Guild Ship NPC] Ego (7 Days)
-PROPITEM_TXT_722883,[Guild Ship NPC] Wifielder (7 Days),[Guild Ship NPC] Wifielder (7 Days)
-PROPITEM_TXT_722884,[Guild Ship NPC] Simid (7 Days),[Guild Ship NPC] Simid (7 Days)
-PROPITEM_TXT_722885,[Guild Ship NPC] Chord (7 Days),[Guild Ship NPC] Chord (7 Days)
-PROPITEM_TXT_722886,[Guild Ship NPC] Anura (7 Days),[Guild Ship NPC] Anura (7 Days)
-PROPITEM_TXT_722887,[Guild Ship NPC] Vikel (7 Days),[Guild Ship NPC] Vikel (7 Days)
-PROPITEM_TXT_722888,[Guild Ship NPC] Soz (7 Days),[Guild Ship NPC] Soz (7 Days)
-PROPITEM_TXT_722889,[Guild Ship NPC] Naso (7 Days),[Guild Ship NPC] Naso (7 Days)
-PROPITEM_TXT_722890,[Guild Ship NPC] Nuso (7 Days),[Guild Ship NPC] Nuso (7 Days)
-PROPITEM_TXT_722891,[Guild Ship NPC] Cobao (7 Days),[Guild Ship NPC] Cobao (7 Days)
-PROPITEM_TXT_722892,[Guild Ship NPC] Aibao (7 Days),[Guild Ship NPC] Aibao (7 Days)
-PROPITEM_TXT_722893,[Guild Ship NPC] Nanco (7 Days),[Guild Ship NPC] Nanco (7 Days)
-PROPITEM_TXT_722894,[Guild Ship NPC] Asa (7 Days),[Guild Ship NPC] Asa (7 Days)
-PROPITEM_TXT_722895,[Guild Ship NPC] Alyn (7 Days),[Guild Ship NPC] Alyn (7 Days)
-PROPITEM_TXT_722896,[Guild Ship NPC] Lane (7 Days),[Guild Ship NPC] Lane (7 Days)
-PROPITEM_TXT_722897,[Guild Ship NPC] Runni (7 Days),[Guild Ship NPC] Runni (7 Days)
-PROPITEM_TXT_722898,[Guild Ship NPC] Pang (7 Days),[Guild Ship NPC] Pang (7 Days)
+PROPITEM_TXT_722868,[Guild House NPC] Gira (7 Days),[Guild House NPC] Gira (7 Days)
+PROPITEM_TXT_722869,[Guild House NPC] Affe (7 Days),[Guild House NPC] Affe (7 Days)
+PROPITEM_TXT_722870,[Guild House NPC] Sham (7 Days),[Guild House NPC] Sham (7 Days)
+PROPITEM_TXT_722871,[Guild House NPC] Lamew (7 Days),[Guild House NPC] Lamew (7 Days)
+PROPITEM_TXT_722872,[Guild House NPC] Quarter (7 Days),[Guild House NPC] Quarter (7 Days)
+PROPITEM_TXT_722873,[Guild House NPC] Duron (7 Days),[Guild House NPC] Duron (7 Days)
+PROPITEM_TXT_722874,[Guild House NPC] Dolphie (7 Days),[Guild House NPC] Dolphie (7 Days)
+PROPITEM_TXT_722875,[Guild House NPC] Fuba (7 Days),[Guild House NPC] Fuba (7 Days)
+PROPITEM_TXT_722876,[Guild House NPC] Bako (7 Days),[Guild House NPC] Bako (7 Days)
+PROPITEM_TXT_722877,[Guild House NPC] Wick (7 Days),[Guild House NPC] Wick (7 Days)
+PROPITEM_TXT_722878,[Guild House NPC] Wina (7 Days),[Guild House NPC] Wina (7 Days)
+PROPITEM_TXT_722879,[Guild House NPC] Pitch (7 Days),[Guild House NPC] Pitch (7 Days)
+PROPITEM_TXT_722880,[Guild House NPC] Catch (7 Days),[Guild House NPC] Catch (7 Days)
+PROPITEM_TXT_722881,[Guild House NPC] Met (7 Days),[Guild House NPC] Met (7 Days)
+PROPITEM_TXT_722882,[Guild House NPC] Ego (7 Days),[Guild House NPC] Ego (7 Days)
+PROPITEM_TXT_722883,[Guild House NPC] Wifielder (7 Days),[Guild House NPC] Wifielder (7 Days)
+PROPITEM_TXT_722884,[Guild House NPC] Simid (7 Days),[Guild House NPC] Simid (7 Days)
+PROPITEM_TXT_722885,[Guild House NPC] Chord (7 Days),[Guild House NPC] Chord (7 Days)
+PROPITEM_TXT_722886,[Guild House NPC] Anura (7 Days),[Guild House NPC] Anura (7 Days)
+PROPITEM_TXT_722887,[Guild House NPC] Vikel (7 Days),[Guild House NPC] Vikel (7 Days)
+PROPITEM_TXT_722888,[Guild House NPC] Soz (7 Days),[Guild House NPC] Soz (7 Days)
+PROPITEM_TXT_722889,[Guild House NPC] Naso (7 Days),[Guild House NPC] Naso (7 Days)
+PROPITEM_TXT_722890,[Guild House NPC] Nuso (7 Days),[Guild House NPC] Nuso (7 Days)
+PROPITEM_TXT_722891,[Guild House NPC] Cobao (7 Days),[Guild House NPC] Cobao (7 Days)
+PROPITEM_TXT_722892,[Guild House NPC] Aibao (7 Days),[Guild House NPC] Aibao (7 Days)
+PROPITEM_TXT_722893,[Guild House NPC] Nanco (7 Days),[Guild House NPC] Nanco (7 Days)
+PROPITEM_TXT_722894,[Guild House NPC] Asa (7 Days),[Guild House NPC] Asa (7 Days)
+PROPITEM_TXT_722895,[Guild House NPC] Alyn (7 Days),[Guild House NPC] Alyn (7 Days)
+PROPITEM_TXT_722896,[Guild House NPC] Lane (7 Days),[Guild House NPC] Lane (7 Days)
+PROPITEM_TXT_722897,[Guild House NPC] Runni (7 Days),[Guild House NPC] Runni (7 Days)
+PROPITEM_TXT_722898,[Guild House NPC] Pang (7 Days),[Guild House NPC] Pang (7 Days)
 PROPITEM_TXT_722899,Cushion Chair Single Pack (10 Days),Cushion Chair Single Pack (10 Days)
 PROPITEM_TXT_722900,Spinning Globe Single Pack (10 Days),Spinning Globe Single Pack (10 Days)
 PROPITEM_TXT_722901,Compass Single Pack (10 Days),Compass Single Pack (10 Days)
@@ -16762,7 +16762,7 @@ PROPITEM_TXT_725813,Green beach swimsuit and Brown Sandal inside,Green beach swi
 PROPITEM_TXT_725814,Modern Black Swimsuit Set (M),Modern Black Swimsuit Set (M)
 PROPITEM_TXT_725815,A full modern black swim costume inside,A full modern black swim costume inside
 PROPITEM_TXT_725816,Extended September Pass,Extended September Pass
-PROPITEM_TXT_725817,This purchase gives you many advantages during the September Pass season:\n-More Flyff Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!,This purchase gives you many advantages during the September Pass season:\n-More Flyff Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!
+PROPITEM_TXT_725817,This purchase gives you many advantages during the September Pass season:\n-More Battle Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!,This purchase gives you many advantages during the September Pass season:\n-More Battle Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!
 PROPITEM_TXT_725818,Summer Lucky Box,Summer Lucky Box
 PROPITEM_TXT_725819,This box contains a random special item. Good summer!,This box contains a random special item. Good summer!
 PROPITEM_TXT_725820,4% Card Piece Select Box,4% Card Piece Select Box
@@ -17301,8 +17301,8 @@ PROPITEM_TXT_800217,Rainbow Jewel (10),Rainbow Jewel (10)
 PROPITEM_TXT_800218,Gives +10 All stat when applied to a ultimate weapon. Can only be attached once.,Gives +10 All stat when applied to a ultimate weapon. Can only be attached once.
 PROPITEM_TXT_801000,Scroll of Pet Inventory (Character House),Scroll of Pet Inventory (Character House)
 PROPITEM_TXT_801001,Using this scroll will increase your maximum character house pet inventory slots by 1!,Using this scroll will increase your maximum character house pet inventory slots by 1!
-PROPITEM_TXT_801002,Scroll of Pet Inventory (Guild Ship),Scroll of Pet Inventory (Guild Ship)
-PROPITEM_TXT_801003,Using this scroll will increase your maximum guild ship pet inventory slots by 1! (Warning: this will be linked to the guild),Using this scroll will increase your maximum guild ship pet inventory slots by 1! (Warning: this will be linked to the guild)
+PROPITEM_TXT_801002,Scroll of Pet Inventory (Guild House),Scroll of Pet Inventory (Guild House)
+PROPITEM_TXT_801003,Using this scroll will increase your maximum guild house pet inventory slots by 1! (Warning: this will be linked to the guild),Using this scroll will increase your maximum guild house pet inventory slots by 1! (Warning: this will be linked to the guild)
 PROPITEM_TXT_140000,Cubic Ring,Cubic Ring
 PROPITEM_TXT_140001,"This ring is used to propose to another player, and is deleted when the couple is broken.","This ring is used to propose to another player, and is deleted when the couple is broken."
 PROPITEM_TXT_140002,Fancy Cubic Ring,Fancy Cubic Ring
@@ -19104,11 +19104,11 @@ PROPITEM_TXT_144007,[Housing] Regular Tree Seed,[Housing] Regular Tree Seed
 PROPITEM_TXT_144008,[Housing] Unique Tree Seed,[Housing] Unique Tree Seed
 PROPITEM_TXT_144009,[Housing] Rare Tree Seed,[Housing] Rare Tree Seed
 PROPITEM_TXT_144010,[Housing] Legendary Tree Seed,[Housing] Legendary Tree Seed
-PROPITEM_TXT_144011,[Housing] Ordinary Rock Deposit,[Housing] Ordinary Rock Deposit
-PROPITEM_TXT_144012,[Housing] Regular Rock Deposit,[Housing] Regular Rock Deposit
-PROPITEM_TXT_144013,[Housing] Unique Rock Deposit,[Housing] Unique Rock Deposit
-PROPITEM_TXT_144014,[Housing] Rare Rock Deposit,[Housing] Rare Rock Deposit
-PROPITEM_TXT_144015,[Housing] Legendary Rock Deposit,[Housing] Legendary Rock Deposit
+PROPITEM_TXT_144011,[Housing] Ordinary Ore Deposit,[Housing] Ordinary Ore Deposit
+PROPITEM_TXT_144012,[Housing] Regular Ore Deposit,[Housing] Regular Ore Deposit
+PROPITEM_TXT_144013,[Housing] Unique Ore Deposit,[Housing] Unique Ore Deposit
+PROPITEM_TXT_144014,[Housing] Rare Ore Deposit,[Housing] Rare Ore Deposit
+PROPITEM_TXT_144015,[Housing] Legendary Ore Deposit,[Housing] Legendary Ore Deposit
 PROPITEM_TXT_726181,2024 Wizard Bag (M),2024 Wizard Bag (M)
 PROPITEM_TXT_726182,2024 Wizard bag for Female characters,2024 Wizard bag for Female characters
 PROPITEM_TXT_726183,2024 Witch Bag (F),2024 Witch Bag (F)
@@ -19524,19 +19524,19 @@ PROPITEM_TXT_726200,PXP 2024 Early Bird,PXP 2024 Early Bird
 PROPITEM_TXT_726201,"A package containing 1x Ice Crown Weapons, 1x Rudolph Costume Box, 10x Scroll of Amplification ES, 2x Extra Bag (30 Days), 10x Flask of the Tiger, 10x Flask of the Rabbit, 10x Flask of the Fox and 10x Flask of the Lion. All items are also linked.","A package containing 1x Ice Crown Weapons, 1x Rudolph Costume Box, 10x Scroll of Amplification ES, 2x Extra Bag (30 Days), 10x Flask of the Tiger, 10x Flask of the Rabbit, 10x Flask of the Fox and 10x Flask of the Lion. All items are also linked."
 PROPITEM_TXT_726202,PXP 2024 Door Prize,PXP 2024 Door Prize
 PROPITEM_TXT_726203,"A package containing 1x Rudolph Costume Box, 5x Scroll of Amplification ES, 2x Extra Bag (30 Days), 5x Flask of the Tiger, 5x Flask of the Rabbit, 5x Flask of the Fox, 5x Flask of the Lion and 1x Baby Lawolf (7 Days). All items are also linked.","A package containing 1x Rudolph Costume Box, 5x Scroll of Amplification ES, 2x Extra Bag (30 Days), 5x Flask of the Tiger, 5x Flask of the Rabbit, 5x Flask of the Fox, 5x Flask of the Lion and 1x Baby Lawolf (7 Days). All items are also linked."
-PROPITEM_TXT_826187,Extended Emotes,Extended Emotes
-PROPITEM_TXT_826188,"This package contains 9 emotes for your character: Meditation, Flip Jump 1, Lift O/X/Rock/Paper/Scissors, and Dance 10/11.","This package contains 9 emotes for your character: Meditation, Flip Jump 1, Lift O/X/Rock/Paper/Scissors, and Dance 10/11."
-PROPITEM_TXT_826189,Meditation Emote,Meditation Emote
-PROPITEM_TXT_826190,Flip Jump 1 Emote,Flip Jump 1 Emote
-PROPITEM_TXT_826191,Flip Jump 2 Emote,Flip Jump 2 Emote
-PROPITEM_TXT_826192,Lift O Emote,Lift O Emote
-PROPITEM_TXT_826193,Lift X Emote,Lift X Emote
-PROPITEM_TXT_826194,Lift Rock Emote,Lift Rock Emote
-PROPITEM_TXT_826195,Lift Paper Emote,Lift Paper Emote
-PROPITEM_TXT_826196,Lift Scissors Emote,Lift Scissors Emote
-PROPITEM_TXT_826197,Dance 10 Emote,Dance 10 Emote
-PROPITEM_TXT_826198,Dance 11 Emote,Dance 11 Emote
-PROPITEM_TXT_826199,Provides a new emote for your character!,Provides a new emote for your character!
+PROPITEM_TXT_826187,Extended Motions,Extended Motions
+PROPITEM_TXT_826188,"This package contains 9 motions for your character: Meditation, Flip Jump 1, Lift O/X/Rock/Paper/Scissors, and Dance 10/11.","This package contains 9 motions for your character: Meditation, Flip Jump 1, Lift O/X/Rock/Paper/Scissors, and Dance 10/11."
+PROPITEM_TXT_826189,Meditation Motion,Meditation Motion
+PROPITEM_TXT_826190,Flip Jump 1 Motion,Flip Jump 1 Motion
+PROPITEM_TXT_826191,Flip Jump 2 Motion,Flip Jump 2 Motion
+PROPITEM_TXT_826192,Lift O Motion,Lift O Motion
+PROPITEM_TXT_826193,Lift X Motion,Lift X Motion
+PROPITEM_TXT_826194,Lift Rock Motion,Lift Rock Motion
+PROPITEM_TXT_826195,Lift Paper Motion,Lift Paper Motion
+PROPITEM_TXT_826196,Lift Scissors Motion,Lift Scissors Motion
+PROPITEM_TXT_826197,Dance 10 Motion,Dance 10 Motion
+PROPITEM_TXT_826198,Dance 11 Motion,Dance 11 Motion
+PROPITEM_TXT_826199,Provides a new motion for your character!,Provides a new motion for your character!
 PROPITEM_TXT_826200,Card and Dice Bag,Card and Dice Bag
 PROPITEM_TXT_826201,"This bag gives you 10 additional card, card piece, dice and dice piece item slots.","This bag gives you 10 additional card, card piece, dice and dice piece item slots."
 PROPITEM_TXT_145000,Blessing of the Demon,Blessing of the Demon
@@ -19584,18 +19584,18 @@ PROPITEM_TXT_144028,[Event] Normal Bait,[Event] Normal Bait
 PROPITEM_TXT_144029,This is a standard lure for event participation. You can get fish ranked D to B.,This is a standard lure for event participation. You can get fish ranked D to B.
 PROPITEM_TXT_144030,[Event] Premium Bait,[Event] Premium Bait
 PROPITEM_TXT_144031,This is a standard lure for event participation. You can get fish ranked C to A.,This is a standard lure for event participation. You can get fish ranked C to A.
-PROPITEM_TXT_144032,Polite Greeting Emote,Polite Greeting Emote
-PROPITEM_TXT_144033,Hurray Emote,Hurray Emote
-PROPITEM_TXT_144034,Clap Emote,Clap Emote
-PROPITEM_TXT_144035,Brrr Emote,Brrr Emote
-PROPITEM_TXT_144036,Dance 12 Emote,Dance 12 Emote
-PROPITEM_TXT_144037,Hot Emote,Hot Emote
-PROPITEM_TXT_144038,LMAO Emote,LMAO Emote
-PROPITEM_TXT_144039,Ninja Emote,Ninja Emote
-PROPITEM_TXT_144040,Aha Emote,Aha Emote
-PROPITEM_TXT_144041,Provoke Emote,Provoke Emote
-PROPITEM_TXT_144042,Surprised Emote,Surprised Emote
-PROPITEM_TXT_144043,Look Around Emote,Look Around Emote
+PROPITEM_TXT_144032,Polite Greeting Motion,Polite Greeting Motion
+PROPITEM_TXT_144033,Hurray Motion,Hurray Motion
+PROPITEM_TXT_144034,Clap Motion,Clap Motion
+PROPITEM_TXT_144035,Brrr Motion,Brrr Motion
+PROPITEM_TXT_144036,Dance 12 Motion,Dance 12 Motion
+PROPITEM_TXT_144037,Hot Motion,Hot Motion
+PROPITEM_TXT_144038,LMAO Motion,LMAO Motion
+PROPITEM_TXT_144039,Ninja Motion,Ninja Motion
+PROPITEM_TXT_144040,Aha Motion,Aha Motion
+PROPITEM_TXT_144041,Provoke Motion,Provoke Motion
+PROPITEM_TXT_144042,Surprised Motion,Surprised Motion
+PROPITEM_TXT_144043,Look Around Motion,Look Around Motion
 PROPITEM_TXT_201001,5th grade Jewel Selection Box,5th grade Jewel Selection Box
 PROPITEM_TXT_201002,You can select 1 out of total 7 5th grade ultimate weapon jewels.,You can select 1 out of total 7 5th grade ultimate weapon jewels.
 PROPITEM_TXT_201003,Tier A Piercing Card Lucky Box,Tier A Piercing Card Lucky Box
@@ -24888,7 +24888,7 @@ PROPITEM_TXT_155692,The Turkeylicious Bloody Red Set for male characters.,The Tu
 PROPITEM_TXT_155693,The Turkeylicious Bloody Red Set for female characters.,The Turkeylicious Bloody Red Set for female characters.
 PROPITEM_TXT_155694,Turkeylicious Neon Pink Set,Turkeylicious Neon Pink Set
 PROPITEM_TXT_155695,Turkeylicious Bloody Red Set,Turkeylicious Bloody Red Set
-PROPITEM_TXT_155696,Arm Heart Emote,Arm Heart Emote
+PROPITEM_TXT_155696,Arm Heart Motion,Arm Heart Motion
 PROPITEM_TXT_155697,Green Frogzy,Green Frogzy
 PROPITEM_TXT_155698,Yellow Frogzy,Yellow Frogzy
 PROPITEM_TXT_155699,Pink Frogzy,Pink Frogzy
@@ -25267,7 +25267,7 @@ PROPITEM_TXT_902403,2025 Christmas Sleigh Blue,2025 Christmas Sleigh Blue
 PROPITEM_TXT_902404,2025 Christmas Sleigh Red,2025 Christmas Sleigh Red
 PROPITEM_TXT_902405,2025 Christmas Sleigh Black,2025 Christmas Sleigh Black
 PROPITEM_TXT_902406,A magical Christmas sleigh to travel through the winter skies! Maximum Speed: 64 km/h.,A magical Christmas sleigh to travel through the winter skies! Maximum Speed: 64 km/h.
-PROPITEM_TXT_902407,Surrender Emote,Surrender Emote
+PROPITEM_TXT_902407,Surrender Motion,Surrender Motion
 PROPITEM_TXT_902408,2026 Happy New Year Coupon,2026 Happy New Year Coupon
 PROPITEM_TXT_902409,A Gift Box to celebrate the New Year for 2026.,A Gift Box to celebrate the New Year for 2026.
 PROPITEM_TXT_902410,Trans Random Box,Trans Random Box
@@ -25571,7 +25571,7 @@ PROPITEM_TXT_902701,Dew of Transparent Affection,Rugiada di Trasparente Affetto
 PROPITEM_TXT_902702,"Complex thoughts vanish, leaving only your beloved in sight. Clears the mind to reduce Casting Time by 10%. Lasts for 30 minutes.","I pensieri complessi svaniscono, lasciando solo la persona amata alla vista. Libera la mente riducendo il tempo di lancio del 10%. Dura 30 minuti."
 PROPITEM_TXT_902703,Scroll of Ultimate Bonus Select Box,Scroll of Ultimate Bonus Select Box
 PROPITEM_TXT_902704,Select which scroll you want to receive!,Select which scroll you want to receive!
-PROPITEM_TXT_902705,Begging Emote,Begging Emote
+PROPITEM_TXT_902705,Begging Motion,Begging Motion
 PROPITEM_TXT_902706,Button Mark 10% Green Set,Button Mark 10% Green Set
 PROPITEM_TXT_902707,Button Mark Green Backpack,Button Mark Green Backpack
 PROPITEM_TXT_902708,Button Mark Green Mask,Button Mark Green Mask
@@ -26117,241 +26117,4 @@ PROPITEM_TXT_903244,Lovable Chocolatier Brown Weapon Set,Lovable Chocolatier Bro
 PROPITEM_TXT_903245,Select which Lovable Chocolatier Brown Weapon you want to receive!,Select which Lovable Chocolatier Brown Weapon you want to receive!
 PROPITEM_TXT_903246,Lovable Chocolatier Weapon Skin Box,Lovable Chocolatier Weapon Skin Box
 PROPITEM_TXT_903247,Select your favorite color!,Select your favorite color!
-PROPITEM_TXT_903248,Stretching Emote,Stretching Emote
-PROPITEM_TXT_903249,All-in-One Pet Package,All-in-One Pet Package
-PROPITEM_TXT_903250,"A package containing 1x Feed Bag (7 Days), 3x Pet Reroll Scroll and 3x Pet Transmute. All items are also linked.","A package containing 1x Feed Bag (7 Days), 3x Pet Reroll Scroll and 3x Pet Transmute. All items are also linked."
-PROPITEM_TXT_903251,Spring Hunting Package,Spring Hunting Package
-PROPITEM_TXT_903252,A package containing 3x Scroll of Reduction A and 3x Scroll of Reduction B. All items are also linked.,A package containing 3x Scroll of Reduction A and 3x Scroll of Reduction B. All items are also linked.
-PROPITEM_TXT_903253,Elixir Select Box A,Elixir Select Box A
-PROPITEM_TXT_903254,Select which Elixir you want to receive!,Select which Elixir you want to receive!
-PROPITEM_TXT_903255,Spring Exp Power Package,Spring Exp Power Package
-PROPITEM_TXT_903256,"A package containing 3x [20~160] Amplification ES Scroll Select Box, 3x Power Scroll, 3x Potion Box and 3x Flask Box. All items are also linked.","A package containing 3x [20~160] Amplification ES Scroll Select Box, 3x Power Scroll, 3x Potion Box and 3x Flask Box. All items are also linked."
-PROPITEM_TXT_903257,Guardian Easter Bunny Pet Select Box,Guardian Easter Bunny Pet Select Box
-PROPITEM_TXT_903258,Select which Guardian Easter Bunny Pet you want to receive!,Select which Guardian Easter Bunny Pet you want to receive!
-PROPITEM_TXT_903259,Jeff's 2026 Easter Egg,Jeff's 2026 Easter Egg
-PROPITEM_TXT_903260,Good luck Adventurer !,Good luck Adventurer !
-PROPITEM_TXT_903261,Pixel Rabbit Pet Select Box,Pixel Rabbit Pet Select Box
-PROPITEM_TXT_903262,Select which Pixel Rabbit Pet you want to receive!,Select which Pixel Rabbit Pet you want to receive!
-PROPITEM_TXT_903263,PlayPark Community Gathering Giveaway,PlayPark Community Gathering Giveaway
-PROPITEM_TXT_903264,"A package containing 5x Scroll of Amplification ES, 5x Upcut Stone, 5x Power Scroll, 10x Flask Box, 10x Potion Box, 1x Extra Bag (30 days), 1x Feed Bag (7 days), 1x Ice Crown Weapons Skin Box, 1x Casual Set Select Box, 1x Madrigal Flying Selection Box (30 days) and 1x Madrigal PickupPet Selection Box (30 days). All items are also linked.","A package containing 5x Scroll of Amplification ES, 5x Upcut Stone, 5x Power Scroll, 10x Flask Box, 10x Potion Box, 1x Extra Bag (30 days), 1x Feed Bag (7 days), 1x Ice Crown Weapons Skin Box, 1x Casual Set Select Box, 1x Madrigal Flying Selection Box (30 days) and 1x Madrigal PickupPet Selection Box (30 days). All items are also linked."
-PROPITEM_TXT_903265,Casual Set Select Box,Casual Set Select Box
-PROPITEM_TXT_903266,Select which Gender you want to receive!,Select which Gender you want to receive!
-PROPITEM_TXT_903267,Lucky Clover 10% Green Set,Lucky Clover 10% Green Set
-PROPITEM_TXT_903268,Lucky Clover Green Bag,Lucky Clover Green Bag
-PROPITEM_TXT_903269,Lucky Clover Green Beard,Lucky Clover Green Beard
-PROPITEM_TXT_903270,Lucky Clover Green Hat (M),Lucky Clover Green Hat (M)
-PROPITEM_TXT_903271,Lucky Clover Green Suit (M),Lucky Clover Green Suit (M)
-PROPITEM_TXT_903272,Lucky Clover Green Shoes (M),Lucky Clover Green Shoes (M)
-PROPITEM_TXT_903273,Lucky Clover 10% Green Set (M),Lucky Clover 10% Green Set (M)
-PROPITEM_TXT_903274,The Lucky Clover 10% Green Set for male characters.,The Lucky Clover 10% Green Set for male characters.
-PROPITEM_TXT_903275,Lucky Clover Green Hat (F),Lucky Clover Green Hat (F)
-PROPITEM_TXT_903276,Lucky Clover Green Suit (F),Lucky Clover Green Suit (F)
-PROPITEM_TXT_903277,Lucky Clover Green Shoes (F),Lucky Clover Green Shoes (F)
-PROPITEM_TXT_903278,Lucky Clover 10% Green Set (F),Lucky Clover 10% Green Set (F)
-PROPITEM_TXT_903279,The Lucky Clover 10% Green Set for female characters.,The Lucky Clover 10% Green Set for female characters.
-PROPITEM_TXT_903280,Lucky Clover 10% Red Set,Lucky Clover 10% Red Set
-PROPITEM_TXT_903281,Lucky Clover Red Bag,Lucky Clover Red Bag
-PROPITEM_TXT_903282,Lucky Clover Red Beard,Lucky Clover Red Beard
-PROPITEM_TXT_903283,Lucky Clover Red Hat (M),Lucky Clover Red Hat (M)
-PROPITEM_TXT_903284,Lucky Clover Red Suit (M),Lucky Clover Red Suit (M)
-PROPITEM_TXT_903285,Lucky Clover Red Shoes (M),Lucky Clover Red Shoes (M)
-PROPITEM_TXT_903286,Lucky Clover 10% Red Set (M),Lucky Clover 10% Red Set (M)
-PROPITEM_TXT_903287,The Lucky Clover 10% Red Set for male characters.,The Lucky Clover 10% Red Set for male characters.
-PROPITEM_TXT_903288,Lucky Clover Red Hat (F),Lucky Clover Red Hat (F)
-PROPITEM_TXT_903289,Lucky Clover Red Suit (F),Lucky Clover Red Suit (F)
-PROPITEM_TXT_903290,Lucky Clover Red Shoes (F),Lucky Clover Red Shoes (F)
-PROPITEM_TXT_903291,Lucky Clover 10% Red Set (F),Lucky Clover 10% Red Set (F)
-PROPITEM_TXT_903292,The Lucky Clover 10% Red Set for female characters.,The Lucky Clover 10% Red Set for female characters.
-PROPITEM_TXT_903293,Lucky Clover 8% Blue Set,Lucky Clover 8% Blue Set
-PROPITEM_TXT_903294,Lucky Clover Blue Bag,Lucky Clover Blue Bag
-PROPITEM_TXT_903295,Lucky Clover Blue Beard,Lucky Clover Blue Beard
-PROPITEM_TXT_903296,Lucky Clover Blue Hat (M),Lucky Clover Blue Hat (M)
-PROPITEM_TXT_903297,Lucky Clover Blue Suit (M),Lucky Clover Blue Suit (M)
-PROPITEM_TXT_903298,Lucky Clover Blue Shoes (M),Lucky Clover Blue Shoes (M)
-PROPITEM_TXT_903299,Lucky Clover 8% Blue Set (M),Lucky Clover 8% Blue Set (M)
-PROPITEM_TXT_903300,The Lucky Clover 8% Blue Set for male characters.,The Lucky Clover 8% Blue Set for male characters.
-PROPITEM_TXT_903301,Lucky Clover Blue Hat (F),Lucky Clover Blue Hat (F)
-PROPITEM_TXT_903302,Lucky Clover Blue Suit (F),Lucky Clover Blue Suit (F)
-PROPITEM_TXT_903303,Lucky Clover Blue Shoes (F),Lucky Clover Blue Shoes (F)
-PROPITEM_TXT_903304,Lucky Clover 8% Blue Set (F),Lucky Clover 8% Blue Set (F)
-PROPITEM_TXT_903305,The Lucky Clover 8% Blue Set for female characters.,The Lucky Clover 8% Blue Set for female characters.
-PROPITEM_TXT_903306,Lucky Clover 8% Purple Set,Lucky Clover 8% Purple Set
-PROPITEM_TXT_903307,Lucky Clover Purple Bag,Lucky Clover Purple Bag
-PROPITEM_TXT_903308,Lucky Clover Purple Beard,Lucky Clover Purple Beard
-PROPITEM_TXT_903309,Lucky Clover Purple Hat (M),Lucky Clover Purple Hat (M)
-PROPITEM_TXT_903310,Lucky Clover Purple Suit (M),Lucky Clover Purple Suit (M)
-PROPITEM_TXT_903311,Lucky Clover Purple Shoes (M),Lucky Clover Purple Shoes (M)
-PROPITEM_TXT_903312,Lucky Clover 8% Purple Set (M),Lucky Clover 8% Purple Set (M)
-PROPITEM_TXT_903313,The Lucky Clover 8% Purple Set for male characters.,The Lucky Clover 8% Purple Set for male characters.
-PROPITEM_TXT_903314,Lucky Clover Purple Hat (F),Lucky Clover Purple Hat (F)
-PROPITEM_TXT_903315,Lucky Clover Purple Suit (F),Lucky Clover Purple Suit (F)
-PROPITEM_TXT_903316,Lucky Clover Purple Shoes (F),Lucky Clover Purple Shoes (F)
-PROPITEM_TXT_903317,Lucky Clover 8% Purple Set (F),Lucky Clover 8% Purple Set (F)
-PROPITEM_TXT_903318,The Lucky Clover 8% Purple Set for female characters.,The Lucky Clover 8% Purple Set for female characters.
-PROPITEM_TXT_903319,Lucky Clover 6% Pink Set,Lucky Clover 6% Pink Set
-PROPITEM_TXT_903320,Lucky Clover Pink Bag,Lucky Clover Pink Bag
-PROPITEM_TXT_903321,Lucky Clover Pink Beard,Lucky Clover Pink Beard
-PROPITEM_TXT_903322,Lucky Clover Pink Hat (M),Lucky Clover Pink Hat (M)
-PROPITEM_TXT_903323,Lucky Clover Pink Suit (M),Lucky Clover Pink Suit (M)
-PROPITEM_TXT_903324,Lucky Clover Pink Shoes (M),Lucky Clover Pink Shoes (M)
-PROPITEM_TXT_903325,Lucky Clover 6% Pink Set (M),Lucky Clover 6% Pink Set (M)
-PROPITEM_TXT_903326,The Lucky Clover 6% Pink Set for male characters.,The Lucky Clover 6% Pink Set for male characters.
-PROPITEM_TXT_903327,Lucky Clover Pink Hat (F),Lucky Clover Pink Hat (F)
-PROPITEM_TXT_903328,Lucky Clover Pink Suit (F),Lucky Clover Pink Suit (F)
-PROPITEM_TXT_903329,Lucky Clover Pink Shoes (F),Lucky Clover Pink Shoes (F)
-PROPITEM_TXT_903330,Lucky Clover 6% Pink Set (F),Lucky Clover 6% Pink Set (F)
-PROPITEM_TXT_903331,The Lucky Clover 6% Pink Set for female characters.,The Lucky Clover 6% Pink Set for female characters.
-PROPITEM_TXT_903332,Lucky Clover 4% Brown Set,Lucky Clover 4% Brown Set
-PROPITEM_TXT_903333,Lucky Clover Brown Bag,Lucky Clover Brown Bag
-PROPITEM_TXT_903334,Lucky Clover Brown Beard,Lucky Clover Brown Beard
-PROPITEM_TXT_903335,Lucky Clover Brown Hat (M),Lucky Clover Brown Hat (M)
-PROPITEM_TXT_903336,Lucky Clover Brown Suit (M),Lucky Clover Brown Suit (M)
-PROPITEM_TXT_903337,Lucky Clover Brown Shoes (M),Lucky Clover Brown Shoes (M)
-PROPITEM_TXT_903338,Lucky Clover 4% Brown Set (M),Lucky Clover 4% Brown Set (M)
-PROPITEM_TXT_903339,The Lucky Clover 4% Brown Set for male characters.,The Lucky Clover 4% Brown Set for male characters.
-PROPITEM_TXT_903340,Lucky Clover Brown Hat (F),Lucky Clover Brown Hat (F)
-PROPITEM_TXT_903341,Lucky Clover Brown Suit (F),Lucky Clover Brown Suit (F)
-PROPITEM_TXT_903342,Lucky Clover Brown Shoes (F),Lucky Clover Brown Shoes (F)
-PROPITEM_TXT_903343,Lucky Clover 4% Brown Set (F),Lucky Clover 4% Brown Set (F)
-PROPITEM_TXT_903344,The Lucky Clover 4% Brown Set for female characters.,The Lucky Clover 4% Brown Set for female characters.
-PROPITEM_TXT_903345,Lucky Clover 2% Turquoise Set,Lucky Clover 2% Turquoise Set
-PROPITEM_TXT_903346,Lucky Clover Turquoise Bag,Lucky Clover Turquoise Bag
-PROPITEM_TXT_903347,Lucky Clover Turquoise Beard,Lucky Clover Turquoise Beard
-PROPITEM_TXT_903348,Lucky Clover Turquoise Hat (M),Lucky Clover Turquoise Hat (M)
-PROPITEM_TXT_903349,Lucky Clover Turquoise Suit (M),Lucky Clover Turquoise Suit (M)
-PROPITEM_TXT_903350,Lucky Clover Turquoise Shoes (M),Lucky Clover Turquoise Shoes (M)
-PROPITEM_TXT_903351,Lucky Clover 2% Turquoise Set (M),Lucky Clover 2% Turquoise Set (M)
-PROPITEM_TXT_903352,The Lucky Clover 2% Turquoise Set for male characters.,The Lucky Clover 2% Turquoise Set for male characters.
-PROPITEM_TXT_903353,Lucky Clover Turquoise Hat (F),Lucky Clover Turquoise Hat (F)
-PROPITEM_TXT_903354,Lucky Clover Turquoise Suit (F),Lucky Clover Turquoise Suit (F)
-PROPITEM_TXT_903355,Lucky Clover Turquoise Shoes (F),Lucky Clover Turquoise Shoes (F)
-PROPITEM_TXT_903356,Lucky Clover 2% Turquoise Set (F),Lucky Clover 2% Turquoise Set (F)
-PROPITEM_TXT_903357,The Lucky Clover 2% Turquoise Set for female characters.,The Lucky Clover 2% Turquoise Set for female characters.
-PROPITEM_TXT_903358,Lucky Clover 2% Black Set,Lucky Clover 2% Black Set
-PROPITEM_TXT_903359,Lucky Clover Black Bag,Lucky Clover Black Bag
-PROPITEM_TXT_903360,Lucky Clover Black Beard,Lucky Clover Black Beard
-PROPITEM_TXT_903361,Lucky Clover Black Hat (M),Lucky Clover Black Hat (M)
-PROPITEM_TXT_903362,Lucky Clover Black Suit (M),Lucky Clover Black Suit (M)
-PROPITEM_TXT_903363,Lucky Clover Black Shoes (M),Lucky Clover Black Shoes (M)
-PROPITEM_TXT_903364,Lucky Clover 2% Black Set (M),Lucky Clover 2% Black Set (M)
-PROPITEM_TXT_903365,The Lucky Clover 2% Black Set for male characters.,The Lucky Clover 2% Black Set for male characters.
-PROPITEM_TXT_903366,Lucky Clover Black Hat (F),Lucky Clover Black Hat (F)
-PROPITEM_TXT_903367,Lucky Clover Black Suit (F),Lucky Clover Black Suit (F)
-PROPITEM_TXT_903368,Lucky Clover Black Shoes (F),Lucky Clover Black Shoes (F)
-PROPITEM_TXT_903369,Lucky Clover 2% Black Set (F),Lucky Clover 2% Black Set (F)
-PROPITEM_TXT_903370,The Lucky Clover 2% Black Set for female characters.,The Lucky Clover 2% Black Set for female characters.
-PROPITEM_TXT_903371,Lucky Clover Costume Lucky Box,Lucky Clover Costume Lucky Box
-PROPITEM_TXT_903372,This box contains a Lucky Clover Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Lucky Clover Set with Speed Bonus. You can select your gender after opening the Lucky Box.
-PROPITEM_TXT_903373,PlayPark All-Stars 2026 Door Prize,PlayPark All-Stars 2026 Door Prize
-PROPITEM_TXT_903374,"A package containing 10x Scroll of Amplification ES, 10x Upcut Stone, 10x Power Scroll, 20x Flask Box, 20x Potion Box, 1x Extra Bag (30 days), 1x Feed Bag (7 days), 1x Card Disc (7 days), 1x Scroll of PickUp Boost (7 day), 1x Meteo Bike (Yellow) (30 Days) and 1x Baby Tiger (30 Days). All items are also linked.","A package containing 10x Scroll of Amplification ES, 10x Upcut Stone, 10x Power Scroll, 20x Flask Box, 20x Potion Box, 1x Extra Bag (30 days), 1x Feed Bag (7 days), 1x Card Disc (7 days), 1x Scroll of PickUp Boost (7 day), 1x Meteo Bike (Yellow) (30 Days) and 1x Baby Tiger (30 Days). All items are also linked."
-PROPITEM_TXT_903375,Lotus Blossom 10% Cyan Set,Lotus Blossom 10% Cyan Set
-PROPITEM_TXT_903376,Lotus Blossom Cyan Ribbon,Lotus Blossom Cyan Ribbon
-PROPITEM_TXT_903377,Lotus Blossom Cyan Tilak,Lotus Blossom Cyan Tilak
-PROPITEM_TXT_903378,Lotus Blossom Cyan Hat (M),Lotus Blossom Cyan Hat (M)
-PROPITEM_TXT_903379,Lotus Blossom Cyan Suit (M),Lotus Blossom Cyan Suit (M)
-PROPITEM_TXT_903380,Lotus Blossom Cyan Shoes (M),Lotus Blossom Cyan Shoes (M)
-PROPITEM_TXT_903381,Lotus Blossom Cyan Hands (M),Lotus Blossom Cyan Hands (M)
-PROPITEM_TXT_903382,Lotus Blossom 10% Cyan Set (M),Lotus Blossom 10% Cyan Set (M)
-PROPITEM_TXT_903383,The Lotus Blossom 10% Cyan Set for male characters.,The Lotus Blossom 10% Cyan Set for male characters.
-PROPITEM_TXT_903384,Lotus Blossom Cyan Hat (F),Lotus Blossom Cyan Hat (F)
-PROPITEM_TXT_903385,Lotus Blossom Cyan Suit (F),Lotus Blossom Cyan Suit (F)
-PROPITEM_TXT_903386,Lotus Blossom Cyan Shoes (F),Lotus Blossom Cyan Shoes (F)
-PROPITEM_TXT_903387,Lotus Blossom Cyan Hands (F),Lotus Blossom Cyan Hands (F)
-PROPITEM_TXT_903388,Lotus Blossom 10% Cyan Set (F),Lotus Blossom 10% Cyan Set (F)
-PROPITEM_TXT_903389,The Lotus Blossom 10% Cyan Set for female characters.,The Lotus Blossom 10% Cyan Set for female characters.
-PROPITEM_TXT_903390,Lotus Blossom 8% Purple Set,Lotus Blossom 8% Purple Set
-PROPITEM_TXT_903391,Lotus Blossom Purple Ribbon,Lotus Blossom Purple Ribbon
-PROPITEM_TXT_903392,Lotus Blossom Purple Tilak,Lotus Blossom Purple Tilak
-PROPITEM_TXT_903393,Lotus Blossom Purple Hat (M),Lotus Blossom Purple Hat (M)
-PROPITEM_TXT_903394,Lotus Blossom Purple Suit (M),Lotus Blossom Purple Suit (M)
-PROPITEM_TXT_903395,Lotus Blossom Purple Shoes (M),Lotus Blossom Purple Shoes (M)
-PROPITEM_TXT_903396,Lotus Blossom Purple Hands (M),Lotus Blossom Purple Hands (M)
-PROPITEM_TXT_903397,Lotus Blossom 8% Purple Set (M),Lotus Blossom 8% Purple Set (M)
-PROPITEM_TXT_903398,The Lotus Blossom 8% Purple Set for male characters.,The Lotus Blossom 8% Purple Set for male characters.
-PROPITEM_TXT_903399,Lotus Blossom Purple Hat (F),Lotus Blossom Purple Hat (F)
-PROPITEM_TXT_903400,Lotus Blossom Purple Suit (F),Lotus Blossom Purple Suit (F)
-PROPITEM_TXT_903401,Lotus Blossom Purple Shoes (F),Lotus Blossom Purple Shoes (F)
-PROPITEM_TXT_903402,Lotus Blossom Purple Hands (F),Lotus Blossom Purple Hands (F)
-PROPITEM_TXT_903403,Lotus Blossom 8% Purple Set (F),Lotus Blossom 8% Purple Set (F)
-PROPITEM_TXT_903404,The Lotus Blossom 8% Purple Set for female characters.,The Lotus Blossom 8% Purple Set for female characters.
-PROPITEM_TXT_903405,Lotus Blossom 6% Green Set,Lotus Blossom 6% Green Set
-PROPITEM_TXT_903406,Lotus Blossom Green Ribbon,Lotus Blossom Green Ribbon
-PROPITEM_TXT_903407,Lotus Blossom Green Tilak,Lotus Blossom Green Tilak
-PROPITEM_TXT_903408,Lotus Blossom Green Hat (M),Lotus Blossom Green Hat (M)
-PROPITEM_TXT_903409,Lotus Blossom Green Suit (M),Lotus Blossom Green Suit (M)
-PROPITEM_TXT_903410,Lotus Blossom Green Shoes (M),Lotus Blossom Green Shoes (M)
-PROPITEM_TXT_903411,Lotus Blossom Green Hands (M),Lotus Blossom Green Hands (M)
-PROPITEM_TXT_903412,Lotus Blossom 6% Green Set (M),Lotus Blossom 6% Green Set (M)
-PROPITEM_TXT_903413,The Lotus Blossom 6% Green Set for male characters.,The Lotus Blossom 6% Green Set for male characters.
-PROPITEM_TXT_903414,Lotus Blossom Green Hat (F),Lotus Blossom Green Hat (F)
-PROPITEM_TXT_903415,Lotus Blossom Green Suit (F),Lotus Blossom Green Suit (F)
-PROPITEM_TXT_903416,Lotus Blossom Green Shoes (F),Lotus Blossom Green Shoes (F)
-PROPITEM_TXT_903417,Lotus Blossom Green Hands (F),Lotus Blossom Green Hands (F)
-PROPITEM_TXT_903418,Lotus Blossom 6% Green Set (F),Lotus Blossom 6% Green Set (F)
-PROPITEM_TXT_903419,The Lotus Blossom 6% Green Set for female characters.,The Lotus Blossom 6% Green Set for female characters.
-PROPITEM_TXT_903420,Lotus Blossom 4% Blue Set,Lotus Blossom 4% Blue Set
-PROPITEM_TXT_903421,Lotus Blossom Blue Ribbon,Lotus Blossom Blue Ribbon
-PROPITEM_TXT_903422,Lotus Blossom Blue Tilak,Lotus Blossom Blue Tilak
-PROPITEM_TXT_903423,Lotus Blossom Blue Hat (M),Lotus Blossom Blue Hat (M)
-PROPITEM_TXT_903424,Lotus Blossom Blue Suit (M),Lotus Blossom Blue Suit (M)
-PROPITEM_TXT_903425,Lotus Blossom Blue Shoes (M),Lotus Blossom Blue Shoes (M)
-PROPITEM_TXT_903426,Lotus Blossom Blue Hands (M),Lotus Blossom Blue Hands (M)
-PROPITEM_TXT_903427,Lotus Blossom 4% Blue Set (M),Lotus Blossom 4% Blue Set (M)
-PROPITEM_TXT_903428,The Lotus Blossom 4% Blue Set for male characters.,The Lotus Blossom 4% Blue Set for male characters.
-PROPITEM_TXT_903429,Lotus Blossom Blue Hat (F),Lotus Blossom Blue Hat (F)
-PROPITEM_TXT_903430,Lotus Blossom Blue Suit (F),Lotus Blossom Blue Suit (F)
-PROPITEM_TXT_903431,Lotus Blossom Blue Shoes (F),Lotus Blossom Blue Shoes (F)
-PROPITEM_TXT_903432,Lotus Blossom Blue Hands (F),Lotus Blossom Blue Hands (F)
-PROPITEM_TXT_903433,Lotus Blossom 4% Blue Set (F),Lotus Blossom 4% Blue Set (F)
-PROPITEM_TXT_903434,The Lotus Blossom 4% Blue Set for female characters.,The Lotus Blossom 4% Blue Set for female characters.
-PROPITEM_TXT_903435,Lotus Blossom 2% Red Set,Lotus Blossom 2% Red Set
-PROPITEM_TXT_903436,Lotus Blossom Red Ribbon,Lotus Blossom Red Ribbon
-PROPITEM_TXT_903437,Lotus Blossom Red Tilak,Lotus Blossom Red Tilak
-PROPITEM_TXT_903438,Lotus Blossom Red Hat (M),Lotus Blossom Red Hat (M)
-PROPITEM_TXT_903439,Lotus Blossom Red Suit (M),Lotus Blossom Red Suit (M)
-PROPITEM_TXT_903440,Lotus Blossom Red Shoes (M),Lotus Blossom Red Shoes (M)
-PROPITEM_TXT_903441,Lotus Blossom Red Hands (M),Lotus Blossom Red Hands (M)
-PROPITEM_TXT_903442,Lotus Blossom 2% Red Set (M),Lotus Blossom 2% Red Set (M)
-PROPITEM_TXT_903443,The Lotus Blossom 2% Red Set for male characters.,The Lotus Blossom 2% Red Set for male characters.
-PROPITEM_TXT_903444,Lotus Blossom Red Hat (F),Lotus Blossom Red Hat (F)
-PROPITEM_TXT_903445,Lotus Blossom Red Suit (F),Lotus Blossom Red Suit (F)
-PROPITEM_TXT_903446,Lotus Blossom Red Shoes (F),Lotus Blossom Red Shoes (F)
-PROPITEM_TXT_903447,Lotus Blossom Red Hands (F),Lotus Blossom Red Hands (F)
-PROPITEM_TXT_903448,Lotus Blossom 2% Red Set (F),Lotus Blossom 2% Red Set (F)
-PROPITEM_TXT_903449,The Lotus Blossom 2% Red Set for female characters.,The Lotus Blossom 2% Red Set for female characters.
-PROPITEM_TXT_903450,Lotus Blossom 2% Black Set,Lotus Blossom 2% Black Set
-PROPITEM_TXT_903451,Lotus Blossom Black Ribbon,Lotus Blossom Black Ribbon
-PROPITEM_TXT_903452,Lotus Blossom Black Tilak,Lotus Blossom Black Tilak
-PROPITEM_TXT_903453,Lotus Blossom Black Hat (M),Lotus Blossom Black Hat (M)
-PROPITEM_TXT_903454,Lotus Blossom Black Suit (M),Lotus Blossom Black Suit (M)
-PROPITEM_TXT_903455,Lotus Blossom Black Shoes (M),Lotus Blossom Black Shoes (M)
-PROPITEM_TXT_903456,Lotus Blossom Black Hands (M),Lotus Blossom Black Hands (M)
-PROPITEM_TXT_903457,Lotus Blossom 2% Black Set (M),Lotus Blossom 2% Black Set (M)
-PROPITEM_TXT_903458,The Lotus Blossom 2% Black Set for male characters.,The Lotus Blossom 2% Black Set for male characters.
-PROPITEM_TXT_903459,Lotus Blossom Black Hat (F),Lotus Blossom Black Hat (F)
-PROPITEM_TXT_903460,Lotus Blossom Black Suit (F),Lotus Blossom Black Suit (F)
-PROPITEM_TXT_903461,Lotus Blossom Black Shoes (F),Lotus Blossom Black Shoes (F)
-PROPITEM_TXT_903462,Lotus Blossom Black Hands (F),Lotus Blossom Black Hands (F)
-PROPITEM_TXT_903463,Lotus Blossom 2% Black Set (F),Lotus Blossom 2% Black Set (F)
-PROPITEM_TXT_903464,The Lotus Blossom 2% Black Set for female characters.,The Lotus Blossom 2% Black Set for female characters.
-PROPITEM_TXT_903465,Lotus Blossom Costume Lucky Box,Lotus Blossom Costume Lucky Box
-PROPITEM_TXT_903466,This box contains a Lotus Blossom Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Lotus Blossom Set with Speed Bonus. You can select your gender after opening the Lucky Box.
-PROPITEM_TXT_903467,Lotus Blossom Gold Skyblade ,Lotus Blossom Gold Skyblade 
-PROPITEM_TXT_903468,Lotus Blossom Silver Skyblade,Lotus Blossom Silver Skyblade
-PROPITEM_TXT_903469,Lotus Blossom Black Skyblade,Lotus Blossom Black Skyblade
-PROPITEM_TXT_903470,"A divine skyblade imbued with ancient martial power, allowing its wielder to travel the skies. Maximum Speed: 64 km/h.","A divine skyblade imbued with ancient martial power, allowing its wielder to travel the skies. Maximum Speed: 64 km/h."
-PROPITEM_TXT_135099,[Event] 2026 Spring Monster Ball Lv1,[Event] 2026 Spring Monster Ball Lv1
-PROPITEM_TXT_135100,[Event] 2026 Spring Monster Ball Lv2,[Event] 2026 Spring Monster Ball Lv2
-PROPITEM_TXT_135101,[Event] 2026 Spring Monster Ball Lv3,[Event] 2026 Spring Monster Ball Lv3
-PROPITEM_TXT_135102,[Event] 2026 Spring Monster Ball Lv4,[Event] 2026 Spring Monster Ball Lv4
-PROPITEM_TXT_135103,"A Monster Ball that summons a top-tier monster. Be careful when using it, as giant monsters occasionally appear.\n※Retrieval is scheduled for a limited time after the event ends.","A Monster Ball that summons a top-tier monster. Be careful when using it, as giant monsters occasionally appear.\n※Retrieval is scheduled for a limited time after the event ends."
-PROPITEM_TXT_135104,[Event] 2026 Giant Monster Box Lv1,[Event] 2026 Giant Monster Box Lv1
-PROPITEM_TXT_135105,[Event] 2026 Giant Monster Box Lv2,[Event] 2026 Giant Monster Box Lv2
-PROPITEM_TXT_135106,[Event] 2026 Giant Monster Box Lv3,[Event] 2026 Giant Monster Box Lv3
-PROPITEM_TXT_135107,[Event] 2026 Giant Monster Box Lv4,[Event] 2026 Giant Monster Box Lv4
-PROPITEM_TXT_135108,[Event] 2026 General Monster Box Lv1,[Event] 2026 General Monster Box Lv1
-PROPITEM_TXT_135109,[Event] 2026 General Monster Box Lv2,[Event] 2026 General Monster Box Lv2
-PROPITEM_TXT_135110,[Event] 2026 General Monster Box Lv3,[Event] 2026 General Monster Box Lv3
-PROPITEM_TXT_135111,[Event] 2026 General Monster Box Lv4,[Event] 2026 General Monster Box Lv4
-PROPITEM_TXT_135112,Box obtained by hunting a Lv4 Giant monster. Test your Luck today!!,Box obtained by hunting a Lv4 Giant monster. Test your Luck today!!
-PROPITEM_TXT_135113,Box obtained by hunting a Lv4 General monster. Test your Luck today!!,Box obtained by hunting a Lv4 General monster. Test your Luck today!!
+PROPITEM_TXT_903248,Stretching Motion,Stretching Motion
