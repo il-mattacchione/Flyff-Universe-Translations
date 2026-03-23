@@ -1078,7 +1078,7 @@ TEXTCLIENT_RAINBOWRACE_NOFLY,You cannot start flying during the preparatory peri
 TEXTCLIENT_RAINBOWRACE_NOSTAND,You cannot stop flying during the racing period.,Non puoi smettere di volare durante il periodo di gara.
 TEXTCLIENT_RAINBOWRACE_NOSTACK,Your target is already suffering from this item!,Il tuo bersaglio sta già subendo gli effetti di questo oggetto!
 TEXTCLIENT_RAINBOWRACE_PREP,The Rainbow Race begins in %d seconds...,La Rainbow Race inizierà tra %d secondi...
-TEXTCLIENT_RAINBOWRACE_START,The Rainbow Race begins now!,La Rainbow Race inzia ora!
+TEXTCLIENT_RAINBOWRACE_START,The Rainbow Race begins now!,La Rainbow Race inizia ora!
 TEXTCLIENT_RAINBOWRACE_FINISH,You've finished the race!,Hai finito la gara!
 TEXTCLIENT_RAINBOWRACE_END,The Rainbow Race is over! The winner is %s!,La Rainbow Race è terminata! Il vincitore è %s!
 TEXTCLIENT_RAINBOWRACE_NOPENYA,You do not have enough Penya to apply for the Rainbow Race.,Non hai abbastanza Penya per iscriverti alla Rainbow Race.
