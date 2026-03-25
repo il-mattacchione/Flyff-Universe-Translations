@@ -66,7 +66,7 @@ UI_OPTION_FULLSCREEN,Fullscreen,全螢幕
 UI_MOTION_TAB_MOT,Motion,動作
 UI_MOTION_TAB_EMO,Emoticon,表情
 UI_REVIVAL_TITLE,Resurrection,復活
-UI_REVIVAL_LODESTAR,Lodestar,生命光柱
+UI_REVIVAL_LODESTAR,Lodestar,城鎮之星
 UI_REVIVAL_LODESTAR_TIP,Revive at the nearest town,在最近的城鎮復活
 UI_REVIVAL_LODELIGHT,Lodelight,生命光塔
 UI_REVIVAL_LODELIGHT_TIP,Revive at your chosen Lodelight,在已選擇的生命光塔復活
@@ -2311,8 +2311,8 @@ UI_TOOLTIP_PVPCRITICALBONUS,PvP Critical Damage,PvP爆擊傷害
 UI_TOOLTIP_PVPCRITICALCHANCE,PvP Critical Chance,PvP爆擊機率
 UI_TOOLTIP_PENYA_RATE,Penya Drop Bonus,金幣掉落加成
 UI_OPTION_UNDERWATER,Underwater Effect,水下效果
-UI_REVIVAL_LODELIGHT_CONFIRM,Resurrect at Lodelight?,Resurrect at Lodelight?
-UI_REVIVAL_LODESTAR_CONFIRM,Resurrect at Lodestar?,Resurrect at Lodestar?
+UI_REVIVAL_LODELIGHT_CONFIRM,Resurrect at Lodelight?,在生命光塔復活?
+UI_REVIVAL_LODESTAR_CONFIRM,Resurrect at Lodestar?,在城鎮之星復活?
 UI_CASHSHOP_CONFIRM_MSG_CMT,Purchase %dx %s (x%d) for %s?,Purchase %dx %s (x%d) for %s?
 UI_BATTLEPASS_MISSION_HOUSING_BOOK_WRITE,Write in a Friend's House Guestbook,Write in a Friend's House Guestbook
 UI_PURCHASE_INAPP_SUCCESS,Purchase was successful!,Purchase was successful!
