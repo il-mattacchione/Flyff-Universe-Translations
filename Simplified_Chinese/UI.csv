@@ -2053,7 +2053,7 @@ UI_HOUSINGSETUP_FILTER_HDR,Filter,筛选
 UI_HOUSINGSETUP_FILTER_HDR_ALL,All,全部
 UI_HOUSINGSETUP_FILTER_TREE,Trees,树
 UI_HOUSINGSETUP_FILTER_OTHER,Other,Other
-UI_GUILDHOUSINGBIDS_INFO,"You can place a bid on this Guild Ship. In #b#u%s#nb#nu, the guild with the highest bid will gain ownership of this Guild Ship. \n\n#b#uNote:#nu#nb \n- You can only bid on one Guild Ship at a time. \n- The Penya used to place a bid is taken from your Guild Bank. \n- You can increase your bid at any time before the bidding period ends.",你可以为此公会船提交竞标。在 #b#u%s#nb#nu 之后，出价最高的公会将获得此公会船的所有权。\nb#u注意：#nu#nb\n-同一时间只能对一个公会船进行竞标。\n-用于竞标的金币将从你的公会银行中扣除。\n-你可以在竞标期结束前的任意时间追加出价。
+UI_GUILDHOUSINGBIDS_INFO,"You can place a bid on this Guild Ship. In #b#u%s#nb#nu, the guild with the highest bid will gain ownership of this Guild Ship. \n\n#b#uNote:#nu#nb \n- You can only bid on one Guild Ship at a time. \n- The Penya used to place a bid is taken from your Guild Bank. \n- You can increase your bid at any time before the bidding period ends.",你可以为此公会船提交竞标。在 #b#u%s#nb#nu 之后，出价最高的公会将获得此公会船的所有权。\n#b#u注意：#nu#nb\n-同一时间只能对一个公会船进行竞标。\n-用于竞标的金币将从你的公会银行中扣除。\n-你可以在竞标期结束前的任意时间追加出价。
 UI_GUILDHOUSINGBIDS_HDR,Guild Bids,公会竞标
 UI_GUILDHOUSINGBIDS_PLACE,Place Bid,提交竞标
 UI_GUILDHOUSINGBIDS_MSGBOX_INFO,Enter the amount you wish to bid. #b#uBids are placed using Penya from your Guild Bank.#nu#nb,请输入你希望竞标的金额。#b#u竞标将使用你公会银行中的金币进行。#nu#nb
