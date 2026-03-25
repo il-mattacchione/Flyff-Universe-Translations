@@ -1979,9 +1979,9 @@ UI_BATTLEPASS_OCT,October %d Pass,十月 %d 通行证
 UI_BATTLEPASS_NOV,November %d Pass,十一月 %d 通行证
 UI_BATTLEPASS_DEC,December %d Pass,十二月 %d 通行证
 UI_BATTLEPASS_MISSION_CONSECUTIVE_LOGIN,Log In for %s Consecutive Days,连续登录 %s 天
-UI_BATTLEPASS_INFO6,%s ends at: #b%s#nb (UTC Time)\nWeekly points limit: #b%d / %d#nb\n#iPoints earned from Season missions are not counted toward the weekly limit.#ni\n#iSome rewards are enhanced after reaching level %d.#ni,%s 结束时间：#b%s#nb（UTC 时间）\n每周积分上限：#b%d / %d#nb\ni赛季任务获得的积分不计入每周上限。#ni\ni达到 %d 级后，部分奖励将获得强化。#ni
-UI_BATTLEPASS_INFO7,%s ends at: #b%s#nb (UTC Time)\nWeekly points limit: #b%d / %d#nb\n#iPoints earned from Season missions are not counted toward the weekly limit.#ni,%s 结束时间：#b%s#nb（UTC 时间）\n每周积分上限：#b%d / %d#nb\ni赛季任务获得的积分不计入每周上限。#ni
-UI_BATTLEPASS_INFO8,%s ends at: #b%s#nb (UTC Time)\n#iSome rewards are enhanced after reaching level %d.#ni,%s 结束时间：#b%s#nb（UTC 时间）\ni达到 %d 级后，部分奖励将获得强化。#ni
+UI_BATTLEPASS_INFO6,%s ends at: #b%s#nb (UTC Time)\nWeekly points limit: #b%d / %d#nb\n#iPoints earned from Season missions are not counted toward the weekly limit.#ni\n#iSome rewards are enhanced after reaching level %d.#ni,%s 结束时间：#b%s#nb（UTC 时间）\n每周积分上限：#b%d / %d#nb\n#i赛季任务获得的积分不计入每周上限。#ni\n#i达到 %d 级后，部分奖励将获得强化。#ni
+UI_BATTLEPASS_INFO7,%s ends at: #b%s#nb (UTC Time)\nWeekly points limit: #b%d / %d#nb\n#iPoints earned from Season missions are not counted toward the weekly limit.#ni,%s 结束时间：#b%s#nb（UTC 时间）\n每周积分上限：#b%d / %d#nb\n#i赛季任务获得的积分不计入每周上限。#ni
+UI_BATTLEPASS_INFO8,%s ends at: #b%s#nb (UTC Time)\n#iSome rewards are enhanced after reaching level %d.#ni,%s 结束时间：#b%s#nb（UTC 时间）\n#i达到 %d 级后，部分奖励将获得强化。#ni
 UI_BATTLEPASS_INFO9,%s ends at: #b%s#nb (UTC Time),%s 结束时间：#b%s#nb（UTC 时间）
 UI_REMOTE_SHOP_TITLE,Remote Shop,远程商店
 UI_HALLOWEENPASS,Halloween Pass,Halloween Pass
