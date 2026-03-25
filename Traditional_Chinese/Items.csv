@@ -6141,7 +6141,7 @@ PROPITEM_TXT_017356,Prevents a card from being destroyed when an upgrade fails.,
 PROPITEM_TXT_100000,Scroll of Guild Members,公會成員卷軸
 PROPITEM_TXT_100001,Permanently increases the amount of members you can have in a guild by 5. Only works on the current guild you are in.,永久增加5名公會成員，僅適用當前所在公會。
 PROPITEM_TXT_100002,Change Channel,切換頻道
-PROPITEM_TXT_100003,Change the current channel.,切換你所在的伺服器
+PROPITEM_TXT_100003,Change the current channel.,切換目前的頻道。
 PROPITEM_TXT_009278,7 Days Scroll of Party Exp,劇團經驗加成卷軸(7日)
 PROPITEM_TXT_009279,"Increase the rate at which Party Exp is gained by 50%, when the party leader has it activated. (Lasts 7 days from activation, even if logged off)",團長使用時，所有劇團成員狩獵時所獲得的劇團經驗值會提升50%。(持續7天，即使登出也會持續計算)
 PROPITEM_TXT_009280,15 Days Scroll of Party Exp,劇團經驗加成卷軸(15日)
