@@ -1,5 +1,5 @@
-﻿The cost of unbinding is 100,000 Penya per item.
-#cffff0000Unbinding will remove #ball upgrades, bonuses, element and piercings#nb.
-You cannot cancel the operation once it is done.#nc
-The item will be tradable again. If you want to keep all improvements, please use a Scroll of Unbinding instead of this menu.
-Only works on Soul-Bound items and #bnot Soul-Linked items#nb.
+Il costo dello slegamento è di 100.000 Penya per oggetto.
+#cffff0000Lo slegamento rimuoverà #btutti i potenziamenti, i bonus, gli elementi e i piercing#nb.
+Una volta eseguita, questa azione non può essere annullata.#nc
+L'oggetto tornerà ad essere scambiabile. Se desideri conservare tutti i potenziamenti, utilizza una Pergamena di Slegamento invece di questo menu.
+Funziona solo su oggetti Vincolati all'Anima e #bnon su oggetti Legati all'Anima#nb.
