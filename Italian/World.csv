@@ -1,129 +1,129 @@
 ﻿Key,English,Italian
-DUASYLUM_WLD_000000,Ankou's Asylum,Ankou's Asylum
-DUASYLUM_WLD_000001,Ankou's Cell,Ankou's Cell
-DUCAVERN_WLD_000000,Leren Chasm (Instance Dungeon),Leren Chasm (Instance Dungeon)
+DUASYLUM_WLD_000000,Ankou's Asylum,Rifugio di Ankou
+DUASYLUM_WLD_000001,Ankou's Cell,Cella di Ankou
+DUCAVERN_WLD_000000,Leren Chasm (Instance Dungeon),Crepa di Leren (Dungeon Istanziato)
 DUHERNEOS_WLD_000000,Herneos (Dungeon),Herneos (Dungeon)
 DUDADK_WLD_000000,Dekane Mine (Dungeon),Miniera di Dekane
-WORLD_DUFLMAS_DUFLMAS_RGN_000000,Mars Mine (Dungeon),Mars Mine (Dungeon)
-DUGUARDIANE_WLD_000000,Guardiane Sanctuary (Instance Dungeon),Guardiane Sanctuary (Instance Dungeon)
-DURUINS_WLD_000000,Rhisis Catacombs (Instance Dungeon),Rhisis Catacombs (Instance Dungeon)
+WORLD_DUFLMAS_DUFLMAS_RGN_000000,Mars Mine (Dungeon),Miniera di Mars (Dungeon)
+DUGUARDIANE_WLD_000000,Guardiane Sanctuary (Instance Dungeon),Santuario Guardiane (Dungeon Istanziato)
+DURUINS_WLD_000000,Rhisis Catacombs (Instance Dungeon),Catacombe di Rhisis (Dungeon Istanziato)
 DURUSTIA_WLD_000000,The Wilds,The Wilds
-DUSATEMPLE_WLD_000000,Iblis Temple (Dungeon),Tempio di Iblis
-DUSTORM_WLD_000000,Storm Peak (Instance Dungeon),Storm Peak (Instance Dungeon)
-DUUNDERWATER_WLD_000000,Envy Depths (Instance Dungeon),Envy Depths (Instance Dungeon)
+DUSATEMPLE_WLD_000000,Iblis Temple (Dungeon),Tempio di Iblis (Dungeon)
+DUSTORM_WLD_000000,Storm Peak (Instance Dungeon),Picco Tempesta (Dungeon Istanziato)
+DUUNDERWATER_WLD_000000,Envy Depths (Instance Dungeon),Abissi dell'Envy (Dungeon Istanziato)
 DUVOLKANE_WLD_000000,Volkane,Volkane
 DUVOLKANE_WLD_000001,Volkane (Dungeon),Volkane (Dungeon)
 WDARENA_WLD_000000,Arena,Arena
-WDARENA_WLD_000001,You can PvP in the Arena.,You can PvP in the Arena.
-WDARENA_WLD_000002,Training Center,Training Center
-WDARENA_WLD_000003,Test your capabilities against dummies!,Test your capabilities against dummies!
+WDARENA_WLD_000001,You can PvP in the Arena.,Puoi fare PvP nell'Arena.
+WDARENA_WLD_000002,Training Center,Centro di Allenamento
+WDARENA_WLD_000003,Test your capabilities against dummies!,Metti alla prova le tue capacità contro i manichini!
 WDARENA_WLD_000004,,
 WDARENA_WLD_000005,,
-WDARENA_WLD_000006,The Bronze Vagrant,The Bronze Vagrant
-WDARENA_WLD_000007,The Bronze Elementor,The Bronze Elementor
-WDARENA_WLD_000008,The Bronze Knight,The Bronze Knight
-WDARENA_WLD_000009,The Bronze Psykeeper,The Bronze Psykeeper
-WDARENA_WLD_000010,The Bronze Billposter,The Bronze Billposter
-WDARENA_WLD_000011,The Bronze Blade,The Bronze Blade
-WDARENA_WLD_000012,The Bronze Jester,The Bronze Jester
-WDARENA_WLD_000013,The Bronze Ranger,The Bronze Ranger
-WDARENA_WLD_000014,The Bronze Ringmaster,The Bronze Ringmaster
-WDCOLOSSEUM_WLD_000001,The Colosseum,The Colosseum
-WDCOLOSSEUM_WLD_000002,Colosseum Stadium,Colosseum Stadium
-WDCOLOSSEUM_WLD_000003,The Cage of Clockworks,The Cage of Clockworks
-WDCOLOSSEUM_WLD_000004,Clockworks was sealed here after the Clockworks War.,Clockworks was sealed here after the Clockworks War.
-WDEVENT_WLD_000000,Duel Zone,Duel Zone
-WORLD_WDGUILDWAR_WDGUILDWAR_RGN_000000,Prove yourself!\nShow them that you are the best!,Prove yourself!\nShow them that you are the best!
-WDGUILDWARBIG_WLD_000000,Prove yourself!\nShow them that you are the best!,Prove yourself!\nShow them that you are the best!
-WORLD_WDGUILDWAR_CAVERN_RGN_000000,Prove yourself!\nShow them that you are the best!,Prove yourself!\nShow them that you are the best!
-WORLD_WDGUILDWAR_CORAL_RGN_000000,Prove yourself!\nShow them that you are the best!,Prove yourself!\nShow them that you are the best!
-WORLD_WDGUILDWAR_GUARDIANE_RGN_000000,Prove yourself!\nShow them that you are the best!,Prove yourself!\nShow them that you are the best!
-WORLD_WDGUILDWAR_KAILLUN_RGN_000000,Prove yourself!\nShow them that you are the best!,Prove yourself!\nShow them that you are the best!
-WORLD_WDGUILDWAR_SNOW_RGN_000000,Prove yourself!\nShow them that you are the best!,Prove yourself!\nShow them that you are the best!
-WORLD_WDGUILDWAR_UNDERWATER_RGN_000000,Prove yourself!\nShow them that you are the best!,Prove yourself!\nShow them that you are the best!
-WORLD_WDGUILDWAR_VOLCANO_RGN_000000,Prove yourself!\nShow them that you are the best!,Prove yourself!\nShow them that you are the best!
+WDARENA_WLD_000006,The Bronze Vagrant,Il Vagrant di Bronzo
+WDARENA_WLD_000007,The Bronze Elementor,L'Elementor di Bronzo
+WDARENA_WLD_000008,The Bronze Knight,Il Knight di Bronzo
+WDARENA_WLD_000009,The Bronze Psykeeper,Il Psykeeper di Bronzo
+WDARENA_WLD_000010,The Bronze Billposter,Il Billposter di Bronzo
+WDARENA_WLD_000011,The Bronze Blade,Il Blade di Bronzo
+WDARENA_WLD_000012,The Bronze Jester,Il Jester di Bronzo
+WDARENA_WLD_000013,The Bronze Ranger,Il Ranger di Bronzo
+WDARENA_WLD_000014,The Bronze Ringmaster,Il Ringmaster di Bronzo
+WDCOLOSSEUM_WLD_000001,The Colosseum,Il Colosseo
+WDCOLOSSEUM_WLD_000002,Colosseum Stadium,Stadio Colosseo
+WDCOLOSSEUM_WLD_000003,The Cage of Clockworks,La Gabbia del Clockworks
+WDCOLOSSEUM_WLD_000004,Clockworks was sealed here after the Clockworks War.,Clockworks è stato rinchiuso qui dopo la Guerra di Clockworks.
+WDEVENT_WLD_000000,Duel Zone,Zona Duello
+WORLD_WDGUILDWAR_WDGUILDWAR_RGN_000000,Prove yourself!\nShow them that you are the best!,Dimostra il tuo valore!\nDimostra loro che sei il migliore!
+WDGUILDWARBIG_WLD_000000,Prove yourself!\nShow them that you are the best!,Dimostra il tuo valore!\nDimostra loro che sei il migliore!
+WORLD_WDGUILDWAR_CAVERN_RGN_000000,Prove yourself!\nShow them that you are the best!,Dimostra il tuo valore!\nDimostra loro che sei il migliore!
+WORLD_WDGUILDWAR_CORAL_RGN_000000,Prove yourself!\nShow them that you are the best!,Dimostra il tuo valore!\nDimostra loro che sei il migliore!
+WORLD_WDGUILDWAR_GUARDIANE_RGN_000000,Prove yourself!\nShow them that you are the best!,Dimostra il tuo valore!\nDimostra loro che sei il migliore!
+WORLD_WDGUILDWAR_KAILLUN_RGN_000000,Prove yourself!\nShow them that you are the best!,Dimostra il tuo valore!\nDimostra loro che sei il migliore!
+WORLD_WDGUILDWAR_SNOW_RGN_000000,Prove yourself!\nShow them that you are the best!,Dimostra il tuo valore!\nDimostra loro che sei il migliore!
+WORLD_WDGUILDWAR_UNDERWATER_RGN_000000,Prove yourself!\nShow them that you are the best!,Dimostra il tuo valore!\nDimostra loro che sei il migliore!
+WORLD_WDGUILDWAR_VOLCANO_RGN_000000,Prove yourself!\nShow them that you are the best!,Dimostra il tuo valore!\nDimostra loro che sei il migliore!
 WDKEBARAS_WLD_000000,Lodelight,Lodelight
-WDKEBARAS_WLD_000001,This is a safe place.,This is a safe place.
+WDKEBARAS_WLD_000001,This is a safe place.,Questo è un luogo sicuro.
 WORLD_WDKEBARAS_WDKEBARAS_RGN_000000,Kebaras,Kebaras
-WORLD_WDKEBARAS_WDKEBARAS_RGN_000001,"Welcome to the town of Kebaras!\nLong ago, this place served as a prison for criminals...","Welcome to the town of Kebaras!\nLong ago, this place served as a prison for criminals..."
-WDMADRIGAL_WLD_000000,Mysterious Castle,Mysterious Castle
-WDMADRIGAL_WLD_000001,This place is not marked on the map. No one knows how to enter it...,This place is not marked on the map. No one knows how to enter it...
-WDMADRIGAL_WLD_000002,Refuge of Middle Leren Mountains,Refuge of Middle Leren Mountains
-WDMADRIGAL_WLD_000003,Line Flarine ↔ Saint City,Line Flarine ↔ Saint City
-WDMADRIGAL_WLD_000004,Line Flarine ↔ Darkon 1,Line Flarine ↔ Darkon 1
-WDMADRIGAL_WLD_000005,Line Flarine ↔ Mars Mine,Line Flarine ↔ Mars Mine
-WDMADRIGAL_WLD_000006,Line Saint City ↔ Garden of Rhisis,Line Saint City ↔ Garden of Rhisis
-WDMADRIGAL_WLD_000007,Line Saint City ↔ Fantasy Desert,Line Saint City ↔ Fantasy Desert
-WDMADRIGAL_WLD_000008,Line Darkon 1 ↔ Darken,Line Darkon 1 ↔ Darken
-WDMADRIGAL_WLD_000009,Line Darken ↔ Arians,Line Darken ↔ Arians
-WDMADRIGAL_WLD_000010,Line Arians ↔ Guardiane,Line Arians ↔ Guardiane
-WDMADRIGAL_WLD_000011,Line Arians ↔ Deadwallderness,Line Arians ↔ Deadwallderness
-WDMADRIGAL_WLD_000012,Azria\nAbandoned Erons Factory,Azria\nAbandoned Erons Factory
-WDMADRIGAL_WLD_000013,Azria\nVillage,Azria\nVillage
-WDMADRIGAL_WLD_000014,Line Deadwallderness ↔ Azria,Line Deadwallderness ↔ Azria
-WDMADRIGAL_WLD_000015,Storm Peak Entrance,Storm Peak Entrance
-WDMADRIGAL_WLD_000017,Envy Depths Entrance,Envy Depths Entrance
-WDMADRIGAL_WLD_000019,Guardiane Sanctuary Entrance,Guardiane Sanctuary Entrance
-WDMADRIGAL_WLD_000021,Leren Chasm Entrance,Leren Chasm Entrance
-WDMADRIGAL_WLD_000022,Wilds Entrance,Wilds Entrance
-WDMADRIGAL_WLD_000023,Rhisis Catacombs,Rhisis Catacombs
-WDMADRIGAL_WLD_000024,This is a safe place.,This is a safe place.
-WDMADRIGAL_WLD_000025,The Wilds Entrance,The Wilds Entrance
-WDMADRIGAL_WLD_000026,Coral Village,Coral Village
-WDMADRIGAL_WLD_000028,Coral Island,Coral Island
-WDMADRIGAL_WLD_000029,Welcome to Coral!,Welcome to Coral!
-WDMADRIGAL_WLD_000030,Red Sea,Red Sea
-WDMADRIGAL_WLD_000032,Deep Sea,Deep Sea
-WDMADRIGAL_WLD_000034,Swamp,Swamp
-WDMADRIGAL_WLD_000035,Saint City Arena,Saint City Arena
-WDMADRIGAL_WLD_000036,This place was famous long ago...,This place was famous long ago...
+WORLD_WDKEBARAS_WDKEBARAS_RGN_000001,"Welcome to the town of Kebaras!\nLong ago, this place served as a prison for criminals...","Benvenuto nella città di Kebaras!\nMolto tempo fa, questo luogo fungeva da prigione per i criminali..."
+WDMADRIGAL_WLD_000000,Mysterious Castle,Castello Misterioso
+WDMADRIGAL_WLD_000001,This place is not marked on the map. No one knows how to enter it...,Questo posto non è segnato sulla mappa. Nessuno sa come accedervi...
+WDMADRIGAL_WLD_000002,Refuge of Middle Leren Mountains,Rifugio dei Cuore dei Monti Leren
+WDMADRIGAL_WLD_000003,Line Flarine ↔ Saint City,Linea Flarine ↔ Città Santa
+WDMADRIGAL_WLD_000004,Line Flarine ↔ Darkon 1,Linea Flarine ↔ Darkon 1
+WDMADRIGAL_WLD_000005,Line Flarine ↔ Mars Mine,Linea Flarine ↔ Miniera di Mars
+WDMADRIGAL_WLD_000006,Line Saint City ↔ Garden of Rhisis,Linea Città Santa ↔ Giardino di Rhisis
+WDMADRIGAL_WLD_000007,Line Saint City ↔ Fantasy Desert,Linea Città Santa ↔ Deserto Fantasy
+WDMADRIGAL_WLD_000008,Line Darkon 1 ↔ Darken,Linea Darkon 1 ↔ Darken
+WDMADRIGAL_WLD_000009,Line Darken ↔ Arians,Linea Darken ↔ Arians
+WDMADRIGAL_WLD_000010,Line Arians ↔ Guardiane,Linea Arians ↔ Guardiane
+WDMADRIGAL_WLD_000011,Line Arians ↔ Deadwallderness,Linea Arians ↔ Deadwallderness
+WDMADRIGAL_WLD_000012,Azria\nAbandoned Erons Factory,Azria\nFabbrica di Erons Abbandonata
+WDMADRIGAL_WLD_000013,Azria\nVillage,Villaggio\ndi Azria
+WDMADRIGAL_WLD_000014,Line Deadwallderness ↔ Azria,Linea Deadwallderness ↔ Azria
+WDMADRIGAL_WLD_000015,Storm Peak Entrance,Ingresso di Picco Tempesta
+WDMADRIGAL_WLD_000017,Envy Depths Entrance,Ingresso di Abissi dell'Envy
+WDMADRIGAL_WLD_000019,Guardiane Sanctuary Entrance,Ingresso di Santuario Guardiane
+WDMADRIGAL_WLD_000021,Leren Chasm Entrance,Ingresso della Crepa di Leren
+WDMADRIGAL_WLD_000022,Wilds Entrance,Ingresso Wilds
+WDMADRIGAL_WLD_000023,Rhisis Catacombs,Catacombe di Rhisis
+WDMADRIGAL_WLD_000024,This is a safe place.,Questo è un luogo sicuro.
+WDMADRIGAL_WLD_000025,The Wilds Entrance,Ingresso Wilds
+WDMADRIGAL_WLD_000026,Coral Village,Villaggio Corallo
+WDMADRIGAL_WLD_000028,Coral Island,Isola Corallo
+WDMADRIGAL_WLD_000029,Welcome to Coral!,Benvenuto a Corallo!
+WDMADRIGAL_WLD_000030,Red Sea,Mare Rosso
+WDMADRIGAL_WLD_000032,Deep Sea,Mare Profondo
+WDMADRIGAL_WLD_000034,Swamp,Palude
+WDMADRIGAL_WLD_000035,Saint City Arena,Arena della Città Santa
+WDMADRIGAL_WLD_000036,This place was famous long ago...,Questo posto era famoso molto tempo fa...
 WDMADRIGAL_WLD_000037,Kaillun,Kaillun
-WDMADRIGAL_WLD_000038,Welcome to Kaillun!,Welcome to Kaillun!
-WDMADRIGAL_WLD_000039,Orbalune Port,Orbalune Port
-WDMADRIGAL_WLD_000040,This is a safe place.,This is a safe place.
-WDMADRIGAL_WLD_000041,Kaillun Grassland,Kaillun Grassland
-WDMADRIGAL_WLD_000042,Dreknir Ridge,Dreknir Ridge
-WDMADRIGAL_WLD_000043,Lionrath Falls,Lionrath Falls
-WDMADRIGAL_WLD_000044,Velora Cliffs,Velora Cliffs
-WDMADRIGAL_WLD_000045,Dreknir Forest,Dreknir Forest
-WDMADRIGAL_WLD_000046,Ankou's Asylum Entrance,Ankou's Asylum Entrance
-WDMADRIGAL_WLD_000047,This is a safe place.,This is a safe place.
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000000,Darkon 1\nErons Factory 2,Darkon 1\nErons Factory 2
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000001,Erons Factory 2. Used to produce Erons.,Erons Factory 2. Used to produce Erons.
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000002,The Middle of Leren Mountains,The Middle of Leren Mountains
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000003,The middle district of Leren Mountains in Flaris.\nThere is Billeting Place of the High-Dwarpets and the Plain of Bubble.,The middle district of Leren Mountains in Flaris.\nThere is Billeting Place of the High-Dwarpets and the Plain of Bubble.
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000004,Flarine\nCentral Flarine,Flarine\nCentral Flarine
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000005,The main hub of activity for Flaris is in the middle of Flarine.\nThere is a station and a public office.\nThere are stores for armor and weapons.,The main hub of activity for Flaris is in the middle of Flarine.\nThere is a station and a public office.\nThere are stores for armor and weapons.
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000006,Flarine\nEastern Flarine,Flarine\nEastern Flarine
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000007,"The eastern part of Flarine.\nHere you can get food, magic materials, and job training.","The eastern part of Flarine.\nHere you can get food, magic materials, and job training."
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000008,Flarine\nNorthern Flarine,Flarine\nNorthern Flarine
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000009,The northern part of Flarine.\nThe Job Masters and Lodestar are here.,The northern part of Flarine.\nThe Job Masters and Lodestar are here.
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000010,Someone is watching you.,Someone is watching you.
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000011,Plain of Bubble,Plain of Bubble
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000012,This area was created by the Clown God Bubble.,This area was created by the Clown God Bubble.
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000013,The South of Leren Mountains,The South of Leren Mountains
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000014,The southern district of the Leren Mountains.,The southern district of the Leren Mountains.
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000015,The Center for Guild Combat,The Center for Guild Combat
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000016,Guild combat is managed here.,Guild combat is managed here.
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000017,The South of Leren Mountains\nAltar of Dreadpet,The South of Leren Mountains\nAltar of Dreadpet
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000018,Dreadpet is kept here.\nHis keepers control great magic.,Dreadpet is kept here.\nHis keepers control great magic.
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000019,Darkon 1\nErons Factory 1,Darkon 1\nErons Factory 1
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000020,The First Erons Factory.\nThis factory produces 80% of all Erons.,The First Erons Factory.\nThis factory produces 80% of all Erons.
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000021,Darkon\nAltar of Violet,Darkon\nAltar of Violet
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000022,There is evidence here of a major event.,There is evidence here of a major event.
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000023,The Middle of Leren Mountains,The Middle of Leren Mountains
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000024,The middle of the Leren Mountains.\nThere is Billeting Place of the High-Dwarpets and the Plain of Bubble.,The middle of the Leren Mountains.\nThere is Billeting Place of the High-Dwarpets and the Plain of Bubble.
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000025,Billeting Place of High-Dwarpets,Billeting Place of High-Dwarpets
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000026,The High-Dwarpets have created Billeting place.\n A certain High-Dwapet once stored the Book of Technique here.,The High-Dwarpets have created Billeting place.\n A certain High-Dwapet once stored the Book of Technique here.
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000027,Northern River of Weeping,Northern River of Weeping
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000028,Haunt of Nyangnyang,Haunt of Nyangnyang
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000029,Haunt of Nyangnyang.,Haunt of Nyangnyang.
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000030,The bridge was repaired!\n You used to have to jump across a gap.,The bridge was repaired!\n You used to have to jump across a gap.
+WDMADRIGAL_WLD_000038,Welcome to Kaillun!,Benvenuto a Kaillun!
+WDMADRIGAL_WLD_000039,Orbalune Port,Porto di Orbalune
+WDMADRIGAL_WLD_000040,This is a safe place.,Questo è un luogo sicuro.
+WDMADRIGAL_WLD_000041,Kaillun Grassland,Prateria di Kaillun
+WDMADRIGAL_WLD_000042,Dreknir Ridge,Cresta di Dreknir
+WDMADRIGAL_WLD_000043,Lionrath Falls,Cascate di Lionrath
+WDMADRIGAL_WLD_000044,Velora Cliffs,Scogliere della Velora
+WDMADRIGAL_WLD_000045,Dreknir Forest,Foresta di Dreknir
+WDMADRIGAL_WLD_000046,Ankou's Asylum Entrance,Ingresso del Rifugio di Ankou
+WDMADRIGAL_WLD_000047,This is a safe place.,Questo è un luogo sicuro.
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000000,Darkon 1\nErons Factory 2,Darkon 1\nFabbrica di Erons 2
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000001,Erons Factory 2. Used to produce Erons.,Fabbrica di Erons 2. Un tempo produceva Erons.
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000002,The Middle of Leren Mountains,Il Cuore dei Monti Leren
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000003,The middle district of Leren Mountains in Flaris.\nThere is Billeting Place of the High-Dwarpets and the Plain of Bubble.,Il distretto centrale dei Monti Leren a Flaris.\nCi sono il Villaggio degli Alti Nani e la Pianura di Bubble.
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000004,Flarine\nCentral Flarine,Flarine\nFlarine Centrale
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000005,The main hub of activity for Flaris is in the middle of Flarine.\nThere is a station and a public office.\nThere are stores for armor and weapons.,Il centro principale delle attività di Flaris si trova nel cuore di Flarine.\nC’è una stazione e un ufficio pubblico.\nCi sono negozi che vendono armature e armi.
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000006,Flarine\nEastern Flarine,Flarine\nFlarine Orientale
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000007,"The eastern part of Flarine.\nHere you can get food, magic materials, and job training.","La parte orientale di Flarine.\nQui puoi procurarti cibo, materiali magici e formazione professionale."
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000008,Flarine\nNorthern Flarine,Flarine\nFlarine Settentrionale
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000009,The northern part of Flarine.\nThe Job Masters and Lodestar are here.,La parte settentrionale di Flarine.\nSono qui i Job Masters e il Lodestar.
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000010,Someone is watching you.,Qualcuno ti sta osservando.
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000011,Plain of Bubble,Pianura di Bubble
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000012,This area was created by the Clown God Bubble.,Questa zona è stata creata dal Dio Clown Bubble.
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000013,The South of Leren Mountains,I Monti Leren Meridionali
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000014,The southern district of the Leren Mountains.,Il distretto meridionale dei Monti Leren.
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000015,The Center for Guild Combat,Il Centro per il Combattimento di Gilda
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000016,Guild combat is managed here.,Il combattimento di gilda viene gestito qui.
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000017,The South of Leren Mountains\nAltar of Dreadpet,I Monti Leren Meridionali\nAltare di Dreadpet
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000018,Dreadpet is kept here.\nHis keepers control great magic.,Dreadpet è custodito qui.\nI guardiani controllano una grande magia.
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000019,Darkon 1\nErons Factory 1,Darkon 1\nFabbrica di Erons 1
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000020,The First Erons Factory.\nThis factory produces 80% of all Erons.,La Prima Fabbrica di Erons.\nQuesta fabbrica produce l'80% di tutti gli Eroni.
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000021,Darkon\nAltar of Violet,Darkon\nAltare Viola
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000022,There is evidence here of a major event.,Qui si riscontrano tracce di un evento di grande portata.
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000023,The Middle of Leren Mountains,Il Cuore dei Monti Leren
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000024,The middle of the Leren Mountains.\nThere is Billeting Place of the High-Dwarpets and the Plain of Bubble.,Il Cuore dei Monti Leren\nIl distretto centrale dei Monti Leren a Flaris.\nCi sono il Villaggio degli Alti Nani e la Pianura di Bubble.
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000025,Billeting Place of High-Dwarpets,Villaggio degli Alti Nani
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000026,The High-Dwarpets have created Billeting place.\n A certain High-Dwarpet once stored the Book of Technique here.,Gli Alti Nani hanno creato un alloggio.\n Un certo Alto Nano un tempo custodiva qui il Libro delle Tecniche.
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000027,Northern River of Weeping,Il Fiume del Pianto del Nord
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000028,Haunt of Nyangnyang,Ritrovo di Nyangnyang
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000029,Haunt of Nyangnyang.,Ritrovo di Nyangnyang
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000030,The bridge was repaired!\n You used to have to jump across a gap.,Il ponte è riparato!\n Una volta bisognava saltare per superare un burrone.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000031,Lodelight,Lodelight
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000032,This is a safe place.,This is a safe place.
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000033,Madren Town,Madren Town
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000034,This is a small town for Demian.\nCast-off Demian live here.,This is a small town for Demian.\nCast-off Demian live here.
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000035,Middle of River of Weeping,Middle of River of Weeping
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000032,This is a safe place.,Questo è un luogo sicuro.
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000033,Madren Town,Villaggio di Madren
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000034,This is a small town for Demian.\nCast-off Demian live here.,Per Demian questa è una piccola città.\n"Qui vive Demian, il reietto."
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000035,Middle of River of Weeping,Cuore del Fiume del Pianto
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000036,This river overflows when it rains every once in a while.\nHigh-Dwarpet can sometimes be seen bathing here.,This river overflows when it rains every once in a while.\nHigh-Dwarpet can sometimes be seen bathing here.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000037,Madren Town\nAltar of Dreadpet,Madren Town\nAltar of Dreadpet
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000038,Another place for controlling the Dreadpet.\nThere are supervisors here that use strong magic.,Another place for controlling the Dreadpet.\nThere are supervisors here that use strong magic.
@@ -137,7 +137,7 @@ WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000045,The residence of Ludviehill,The residence
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000046,The rich of Flaris live in Ludviehill.,The rich of Flaris live in Ludviehill.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000049,Saint Tree,Saint Tree
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000050,Saint Tree is really old\n This tree is one of the symbols of Saint Morning.,Saint Tree is really old\n This tree is one of the symbols of Saint Morning.
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000051,Saint Morning\nAltar of Violet,Saint Morning\nAltar of Violet
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000051,Saint Morning\nAltar of Violet,Saint Morning\nAltare Viola
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000052,"Here, as in other places, there is evidence of a major event.","Here, as in other places, there is evidence of a major event."
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000053,Northern Hillid Mountains,Northern Hillid Mountains
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000054,The Northern district of the Hillid Mountains,The Northern district of the Hillid Mountains
@@ -154,7 +154,7 @@ WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000064,Saint Morning square,Saint Morning square
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000065,Saint Morning square is a local hang out.\nThere is lots of space to open stores.,Saint Morning square is a local hang out.\nThere is lots of space to open stores.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000066,Saint Morning\nThe Madrigal History Society.,Saint Morning\nThe Madrigal History Society.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000067,Research in the History of Madrigal is being made here.,Research in the History of Madrigal is being made here.
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000068,Flaris\nAltar of Violet,Flaris\nAltar of Violet
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000068,Flaris\nAltar of Violet,Flaris\nAltare Viola
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000069,"There is a certain smell in the air and stones litter the landscape, evidence of a major event.","There is a certain smell in the air and stones litter the landscape, evidence of a major event."
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000070,The Garden of Rhisis,The Garden of Rhisis
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000071,The Garden of Rhisis.\nThis once used to be a beautiful place but was ruined in the war with Clockworks.,The Garden of Rhisis.\nThis once used to be a beautiful place but was ruined in the war with Clockworks.
@@ -253,8 +253,8 @@ WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000163,Eillun,Eillun
 PROTOTYPE_WLD_000000,Prototype,Prototype
 WDPROTOTYPE_WLD_000000,Unknown Place in Madrigal,Unknown Place in Madrigal
 WDPROTOTYPE_WLD_000001,Only a Game Master can help you to leave.,Only a Game Master can help you to leave.
-WDREALM_WLD_000000,This is a safe place.,This is a safe place.
-WDREALM_WLD_000001,This is a safe place.,This is a safe place.
-WDREALM_WLD_000002,This is a safe place.,This is a safe place.
+WDREALM_WLD_000000,This is a safe place.,Questo è un luogo sicuro.
+WDREALM_WLD_000001,This is a safe place.,Questo è un luogo sicuro.
+WDREALM_WLD_000002,This is a safe place.,Questo è un luogo sicuro.
 WORLD_WDEVENT01_WDEVENT01_RGN_000000,You enter a battle zone!!!,You enter a battle zone!!!
 WDHEAVEN06_1_WLD_000003,Secret Room,Secret Room
