@@ -1711,10 +1711,10 @@ UI_CHARINFO_PK_COUNT,Player(s) Killed,Joueur(s) Tué(s)
 UI_CHARINFO_PK_STOLENCHIPS,PK Chips Stolen,Jetons PK Volés
 UI_CHARINFO_PK_VALUE,PK Value,Valeur PK
 UI_USETICKET,Use ticket!,Utiliser le ticket !
-UI_TICKETCHANGE,Change Layer!,Changer de Couche !
+UI_TICKETCHANGE,Change Layer!,Changer d'étage !
 UI_TICKET,Ticket Area,Zone de ticket
-UI_TICKETCHANNELSEL,Select a Layer,Choisissez une Couche
-UI_TICKETCHANNEL,Layer,Couche
+UI_TICKETCHANNELSEL,Select a Layer,Choisissez un étage
+UI_TICKETCHANNEL,Layer,Étage
 UI_TICKETLEAVE,Leave Area,Quitter la Zone
 UI_TARGETITEMLEVEL,Required Target Level: %d,Niveau de Cible requis : %d
 UI_DUNGEON_REQ_ITEM,Required Items:,Objets requis :
