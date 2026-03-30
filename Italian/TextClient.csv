@@ -1161,154 +1161,154 @@ TEXTCLIENT_HOUSINGPRESETS_TOOMANY,You have too many presets for that map.,Hai tr
 TEXTCLIENT_HOUSINGPRESETS_NORIGHTS,You don't have rights to make a preset of that house.,Non hai il diritto di creare un preset di quella casa.
 TEXTCLIENT_HOUSINGPRESETS_SUCCESS,"You successfully created housing preset ""%s""","Hai creato con successo il preset della casa ""%s"""
 TEXTCLIENT_HOUSINGPRESETS_EXIST,You already have a preset with that name. Please use another name.,Esiste già un preset con quel nome. Si prega di utilizzare un altro nome.
-TEXTCLIENT_UPGRADE_UNSAFE,Your item will be destroyed if the process fails. It is recommended to use the upgrade menu at the Armor shop. Are you sure you want to continue?,Your item will be destroyed if the process fails. It is recommended to use the upgrade menu at the Armor shop. Are you sure you want to continue?
-TEXTCLIENT_HOUSEFURNITURE_TOOMUCH,You can't have more than %d props of this type.,You can't have more than %d props of this type.
-TEXTCLIENT_CTRL_SHIPDRIVE,The wheel is stuck... The ship seems to be uncontrollable for now.,The wheel is stuck... The ship seems to be uncontrollable for now.
-TEXTCLIENT_HOUSINGPRESET_EXPIRED,Some things couldn't be placed because they are expired.,Some things couldn't be placed because they are expired.
-TEXTCLIENT_REAPMONEY_RAINBOWRACE_REFUND,You received %s Penya as a refund from the Rainbow Race.,You received %s Penya as a refund from the Rainbow Race.
-TEXTCLIENT_HOUSINGPRESETS_MAXREACHED,You already reached the maximum unlockable slots for housing presets!,You already reached the maximum unlockable slots for housing presets!
-TEXTCLIENT_HOUSINGPRESETS_SUCCESS01,You can now have a maximum of %d housing presets!,You can now have a maximum of %d housing presets!
-TEXTCLIENT_HOUSING_NOSHOP,You can't open a private shop in houses!,You can't open a private shop in houses!
-TEXTCLIENT_HOUSING_NORETURNSCROLL,You cannot use a return scroll in houses!,You cannot use a return scroll in houses!
-TEXTCLIENT_RANDOMSCROLL_BEST,This item already has the best random stat possible.,This item already has the best random stat possible.
-TEXTCLIENT_DUNGEON_CUSTOM_OBJECTIVE,%d minute(s) remaining to %s,%d minute(s) remaining to %s
-TEXTCLIENT_RAINBOWRACE_BLINK,You cannot teleport during the rainbow race.,You cannot teleport during the rainbow race.
-TEXTCLIENT_RAINBOWRACE_DISQUALIFY,You have been disqualified from the race.,You have been disqualified from the race.
-TEXTCLIENT_RAINBOWRACE_PREANNOUNCE,The Rainbow Race will begin in 10 minutes! Register in Darken City.,The Rainbow Race will begin in 10 minutes! Register in Darken City.
-TEXTCLIENT_BANK_EXTRABAG_USED,Bank is now expanded.,Bank is now expanded.
-TEXTCLIENT_RAINBOWRACE_NOBOARD,You cannot enter the Rainbow Race because equipping the flying item failed.,You cannot enter the Rainbow Race because equipping the flying item failed.
-TEXTCLIENT_EXTERNALLOGIN,Direct sign in is not available. Please sign in from the website.,Direct sign in is not available. Please sign in from the website.
-TEXTCLIENT_EVENTBUFF,%s is active!,%s is active!
-TEXTCLIENT_STORAGEFULL,The bag is full.,The bag is full.
-TEXTCLIENT_STORAGE_ARMOR,%s Armor Pack (%d/%d),%s Armor Pack (%d/%d)
-TEXTCLIENT_STORAGE_ONE,You can only use one bag at a time.,You can only use one bag at a time.
-TEXTCLIENT_MOTIONNOPVP,You cannot use this emote in a PvP area.,You cannot use this emote in a PvP area.
-TEXTCLIENT_ITEMPACK_UPGRADE_SUCCESS,Upgrade was successful.,Upgrade was successful.
-TEXTCLIENT_HOUSING_NOTENOUGH_PROP,You need more of that prop in order to place it.,You need more of that prop in order to place it.
-TEXTCLIENT_HOUSING_NOTENOUGH_NPC,You need more of that npc in order to place it.,You need more of that npc in order to place it.
-TEXTCLIENT_GUILDHOUSING_ARTIFACT_ATTACK_NOTAPPLY,You did not apply for this Artifact Battle.,You did not apply for this Artifact Battle.
-TEXTCLIENT_GUILDHOUSING_ARTIFACT_REGISTER_NOGUILD,You need a guild to join the Artifact Battle!,You need a guild to join the Artifact Battle!
-TEXTCLIENT_GUILDHOUSING_ARTIFACT_REGISTER_NOPERMISSION,You need the guild housing privilege to register to the Artifact Battle.,You need the guild housing privilege to register to the Artifact Battle.
-TEXTCLIENT_GUILDHOUSING_ARTIFACT_REGISTER_NOGOLD,You need at least %d Penya to register to the Artifact Battle.,You need at least %d Penya to register to the Artifact Battle.
-TEXTCLIENT_GUILDHOUSING_ARTIFACT_REGISTER_ALREADYREGISTERED,Your guild is already registered to the Artifact Battle!,Your guild is already registered to the Artifact Battle!
-TEXTCLIENT_GUILDHOUSING_ARTIFACT_REGISTER_SUCCESS,You have successfully registered for the next Artifact Battle. A %d Penya fee has been taken off your guild bank.,You have successfully registered for the next Artifact Battle. A %d Penya fee has been taken off your guild bank.
-TEXTCLIENT_GUILDHOUSING_ARTIFACT_CANCEL_SUCCESS,You successfully cancelled your application for the next Artifact Battle. The %d Penya fee has been deposited back into your guild bank.,You successfully cancelled your application for the next Artifact Battle. The %d Penya fee has been deposited back into your guild bank.
-TEXTCLIENT_GUILDHOUSING_ARTIFACT_CANCEL_STARTED,"The Artifact Battle has already started, you can't cancel your application!","The Artifact Battle has already started, you can't cancel your application!"
-TEXTCLIENT_GUILDHOUSING_ARTIFACT_REGISTER_NOBATTLE,There is no Artifact Battle this week. Please try again next week!,There is no Artifact Battle this week. Please try again next week!
-TEXTCLIENT_HOUSING_NPC_GUILDHOUSE,You can only place a guild ship NPC here.,You can only place a guild ship NPC here.
+TEXTCLIENT_UPGRADE_UNSAFE,Your item will be destroyed if the process fails. It is recommended to use the upgrade menu at the Armor shop. Are you sure you want to continue?,In caso di fallimento, il tuo oggetto verrà distrutto. Si consiglia di utilizzare il menu di potenziamento nel Negozio Armature. Sei sicuro di voler continuare?
+TEXTCLIENT_HOUSEFURNITURE_TOOMUCH,You can't have more than %d props of this type.,Non è possibile avere più di %d oggetti di questo tipo.
+TEXTCLIENT_CTRL_SHIPDRIVE,The wheel is stuck... The ship seems to be uncontrollable for now.,Il timone è bloccato... Per ora la nave sembra fuori controllo.
+TEXTCLIENT_HOUSINGPRESET_EXPIRED,Some things couldn't be placed because they are expired.,Alcuni articoli non è stato possibile inserirli perché sono scaduti.
+TEXTCLIENT_REAPMONEY_RAINBOWRACE_REFUND,You received %s Penya as a refund from the Rainbow Race.,Hai ricevuto %s Penya come rimborso dalla Rainbow Race.
+TEXTCLIENT_HOUSINGPRESETS_MAXREACHED,You already reached the maximum unlockable slots for housing presets!,Hai già raggiunto il numero massimo di slot sbloccabili per i preset di alloggi!
+TEXTCLIENT_HOUSINGPRESETS_SUCCESS01,You can now have a maximum of %d housing presets!,Ora puoi avere un massimo di %d impostazioni predefinite per le abitazioni!
+TEXTCLIENT_HOUSING_NOSHOP,You can't open a private shop in houses!,Non si può aprire un negozio privato in casa!
+TEXTCLIENT_HOUSING_NORETURNSCROLL,You cannot use a return scroll in houses!,Non è possibile usare una pergamena di ritorno all'interno delle case!
+TEXTCLIENT_RANDOMSCROLL_BEST,This item already has the best random stat possible.,Questo oggetto ha già le migliori statistiche casuali possibili.
+TEXTCLIENT_DUNGEON_CUSTOM_OBJECTIVE,%d minute(s) remaining to %s,%d minuti rimanenti a %s
+TEXTCLIENT_RAINBOWRACE_BLINK,You cannot teleport during the rainbow race.,Non è possibile teletrasportarsi durante la Rainbow Race.
+TEXTCLIENT_RAINBOWRACE_DISQUALIFY,You have been disqualified from the race.,Sei stato squalificato dalla gara.
+TEXTCLIENT_RAINBOWRACE_PREANNOUNCE,The Rainbow Race will begin in 10 minutes! Register in Darken City.,La Rainbow Race inizierà tra 10 minuti! Iscriviti a Città Darken.
+TEXTCLIENT_BANK_EXTRABAG_USED,Bank is now expanded.,La banca è stata ampliata.
+TEXTCLIENT_RAINBOWRACE_NOBOARD,You cannot enter the Rainbow Race because equipping the flying item failed.,Non puoi partecipare alla Rainbow Race perché non sei riuscito a equipaggiare l'oggetto di volo.
+TEXTCLIENT_EXTERNALLOGIN,Direct sign in is not available. Please sign in from the website.,L'accesso diretto non è disponibile. Effettua l'accesso dal sito web.
+TEXTCLIENT_EVENTBUFF,%s is active!,%s è attiva!
+TEXTCLIENT_STORAGEFULL,The bag is full.,La borsa è pieno.
+TEXTCLIENT_STORAGE_ARMOR,%s Armor Pack (%d/%d),%s Pacchetto Armature (%d/%d)
+TEXTCLIENT_STORAGE_ONE,You can only use one bag at a time.,Puoi usare solo una borsa alla volta.
+TEXTCLIENT_MOTIONNOPVP,You cannot use this emote in a PvP area.,Non puoi usare questa emote in un’area PvP.
+TEXTCLIENT_ITEMPACK_UPGRADE_SUCCESS,Upgrade was successful.,Il potenziamento è successo.
+TEXTCLIENT_HOUSING_NOTENOUGH_PROP,You need more of that prop in order to place it.,Per posizionarlo ti servono più copie di quello oggetto.
+TEXTCLIENT_HOUSING_NOTENOUGH_NPC,You need more of that npc in order to place it.,Per posizionarlo ti servono più copie di quell'NPC.
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_ATTACK_NOTAPPLY,You did not apply for this Artifact Battle.,Non ti sei iscritto a questa Battaglia Artefatti.
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_REGISTER_NOGUILD,You need a guild to join the Artifact Battle!,Per partecipare alla Battaglia degli Artefatti devi entrare a far parte di una gilda!
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_REGISTER_NOPERMISSION,You need the guild housing privilege to register to the Artifact Battle.,Per iscriverti alla Battaglia degli Artefatti devi disporre del privilegio della residenza della gilda.
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_REGISTER_NOGOLD,You need at least %d Penya to register to the Artifact Battle.,Per iscriverti alla Battaglia dei Manufatti ti servono almeno %d Penya.
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_REGISTER_ALREADYREGISTERED,Your guild is already registered to the Artifact Battle!,La tua gilda è già iscritta alle Battaglia degli Artefatti!
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_REGISTER_SUCCESS,You have successfully registered for the next Artifact Battle. A %d Penya fee has been taken off your guild bank.,Ti sei registrato con successo alla prossima Battaiglia degli Artefatti. È stata prelevata una quota di %d Penya dalla banca della tua gilda.
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_CANCEL_SUCCESS,You successfully cancelled your application for the next Artifact Battle. The %d Penya fee has been deposited back into your guild bank.,La tua iscrizione alla prossima Battaiglia degli Artefatti è stata cancellata con successo. La quota di %d Penya è stata riaccreditata nella banca della tua gilda.
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_CANCEL_STARTED,"The Artifact Battle has already started, you can't cancel your application!","La Battaglia degli Artefatti è già iniziata, non puoi più annullare la tua iscrizione!"
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_REGISTER_NOBATTLE,There is no Artifact Battle this week. Please try again next week!,Questa settimana non si terrà la Battaglia degli Artefatti. Riprovate la prossima settimana!
+TEXTCLIENT_HOUSING_NPC_GUILDHOUSE,You can only place a guild ship NPC here.,Qui puoi posizionare solo un NPC della nave della gilda.
 TEXTCLIENT_EVENT_COLLECTION_WRONG_ITEM,This item cannot be used.,Questo oggetto non può essere utilizzato.
-TEXTCLIENT_EVENT_COLLECTION_SUBMIT_SUCCESS,Successfully submitted.,Successfully submitted.
-TEXTCLIENT_HOUSING_NPC_PLAYERHOUSE,You can only place a Personal House NPC here.,You can only place a Personal House NPC here.
-TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_TAKEN,This artifact spawn position is already taken by another guild.,This artifact spawn position is already taken by another guild.
-TEXTCLIENT_HOUSEOBJECTS_TOOMUCH,You can't have more than %d props placed at the same time!,You can't have more than %d props placed at the same time!
-TEXTCLIENT_ITEM_CANNOT_ROOT_QUEST,The %s can only be obtained while the %s is in progress.,The %s can only be obtained while the %s is in progress.
-TEXTCLIENT_HOUSEDITION_INFO,"You can move props / npcs using edition menu. To quit that mode, press ESC.","You can move props / npcs using edition menu. To quit that mode, press ESC."
-TEXTCLIENT_GUILDHOUSING_ARTIFACTDESTROYED,Guild %s has destroyed Guild %s's artifact!,Guild %s has destroyed Guild %s's artifact!
-TEXTCLIENT_GUILDHOUSING_DISMISSED_1,The owner of this guild ship has dismantled the guild!,The owner of this guild ship has dismantled the guild!
-TEXTCLIENT_GUILDHOUSING_DISMISSED_2,The guild ship's artifact has been destroyed. The ship is now unclaimed.,The guild ship's artifact has been destroyed. The ship is now unclaimed.
-TEXTCLIENT_KALGASASSAULT_FAIL,Registration failed.,Registration failed.
-TEXTCLIENT_KALGASASSAULT_FAIL_LEVEL,The registration is not possible due to low level.,The registration is not possible due to low level.
-TEXTCLIENT_KALGASASSAULT_SUCCESS,You have successfully registered.,You have successfully registered.
-TEXTCLIENT_KALGASASSAULT_ENTRY_FAILURE,Entry failed.,Entry failed.
-TEXTCLIENT_KALGASASSAULT_CANNOT_FRIENDADD,You cannot add friends in the Kalgas Assault.,You cannot add friends in the Kalgas Assault.
-TEXTCLIENT_KALGASASSAULT_CANNOT_PARTY,You cannot make a party in the Kalgas Assault.,You cannot make a party in the Kalgas Assault.
-TEXTCLIENT_KALGASASSAULT_CANNOT_TRADE,You cannot trade in the Kalgas Assault.,You cannot trade in the Kalgas Assault.
-TEXTCLIENT_KALGASASSAULT_NOTUSEITEM,You cannot use items in the Kalgas Assault.,You cannot use items in the Kalgas Assault.
-TEXTCLIENT_TRANS_LOTTERY_KALGASASSAULT,You can't use the roulette in the Kalgas Assault.,You can't use the roulette in the Kalgas Assault.
-TEXTCLIENT_KALGASASSAULT_NO_OUTWAR,You cannot use Blinkwings to escape the Kalgas Assault.,You cannot use Blinkwings to escape the Kalgas Assault.
+TEXTCLIENT_EVENT_COLLECTION_SUBMIT_SUCCESS,Successfully submitted.,Inviato con successo.
+TEXTCLIENT_HOUSING_NPC_PLAYERHOUSE,You can only place a Personal House NPC here.,Qui puoi collocare solo un NPC Casa Personale.
+TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_TAKEN,This artifact spawn position is already taken by another guild.,La posizione di spawn di questo artefatto è già occupata da un'altra gilda.
+TEXTCLIENT_HOUSEOBJECTS_TOOMUCH,You can't have more than %d props placed at the same time!,Non è possibile posizionare più di %d oggetti contemporaneamente!
+TEXTCLIENT_ITEM_CANNOT_ROOT_QUEST,The %s can only be obtained while the %s is in progress.,Il %s può essere ottenuto solo mentre il %s è in corso.
+TEXTCLIENT_HOUSEDITION_INFO,"You can move props / npcs using edition menu. To quit that mode, press ESC.","Puoi spostare oggetti / npc tramite il menu edition. Per uscire da questa modalità, premi ESC."
+TEXTCLIENT_GUILDHOUSING_ARTIFACTDESTROYED,Guild %s has destroyed Guild %s's artifact!,La gilda %s ha distrutto l'artefatto della gilda %s!
+TEXTCLIENT_GUILDHOUSING_DISMISSED_1,The owner of this guild ship has dismantled the guild!,Il proprietario di questa nave della gilda ha sciolto la gilda!
+TEXTCLIENT_GUILDHOUSING_DISMISSED_2,The guild ship's artifact has been destroyed. The ship is now unclaimed.,Il manufatto della nave della gilda è stato distrutto. La nave è ora senza proprietario.
+TEXTCLIENT_KALGASASSAULT_FAIL,Registration failed.,La registrazione non è riuscita.
+TEXTCLIENT_KALGASASSAULT_FAIL_LEVEL,The registration is not possible due to low level.,Non è possibile registrarsi a causa del livello insufficiente.
+TEXTCLIENT_KALGASASSAULT_SUCCESS,You have successfully registered.,La registrazione è riuscita.
+TEXTCLIENT_KALGASASSAULT_ENTRY_FAILURE,Entry failed.,Entrata fallita.
+TEXTCLIENT_KALGASASSAULT_CANNOT_FRIENDADD,You cannot add friends in the Kalgas Assault.,Non puoi aggiungere amici in Kalgas Assault.
+TEXTCLIENT_KALGASASSAULT_CANNOT_PARTY,You cannot make a party in the Kalgas Assault.,Non puoi creare un gruppo in Kalgas Assault.
+TEXTCLIENT_KALGASASSAULT_CANNOT_TRADE,You cannot trade in the Kalgas Assault.,Non puoi scambiare nel Kalgas Assault.
+TEXTCLIENT_KALGASASSAULT_NOTUSEITEM,You cannot use items in the Kalgas Assault.,Non puoi usare gli oggetti durante il Kalgas Assault.
+TEXTCLIENT_TRANS_LOTTERY_KALGASASSAULT,You can't use the roulette in the Kalgas Assault.,Non puoi usare la roulette in Kalgas Assault.
+TEXTCLIENT_KALGASASSAULT_NO_OUTWAR,You cannot use Blinkwings to escape the Kalgas Assault.,Non puoi usare alabalzi in Kalgas Assault.
 TEXTCLIENT_GAME_KALGASASSAULT_NOTUSE,In Kalgas Assault,In Kalgas Assault
-TEXTCLIENT_KALGAS_REVIVAL_USED_SILVERCOIN,You already use Silver Coin this game.,You already use Silver Coin this game.
-TEXTCLIENT_KALGAS_REVIVAL_REQUIRE_SILVERCOIN,You require a Silver Coin.,You require a Silver Coin.
-TEXTCLIENT_KALGAS_REVIVAL_REQUIRE_GOLDCOIN,You require Gold Coins.,You require Gold Coins.
-TEXTCLIENT_KALGAS_REVIVAL_NOTENOUGH_GOLDCOIN,Not enough Gold Coins.,Not enough Gold Coins.
-TEXTCLIENT_KALGAS_PLAY_SOON,The Kalgas Assault match will start soon.,The Kalgas Assault match will start soon.
-TEXTCLIENT_KALGAS_FAIL_ENTER,Unable to enter the Kalgas Assault.,Unable to enter the Kalgas Assault.
-TEXTCLIENT_KALGAS_REGISTRATION_NOTIFICATION,The Kalgas Assault is scheduled to take place. Register now!!,The Kalgas Assault is scheduled to take place. Register now!!
-TEXTCLIENT_KALGAS_ENTER_NOTRANS,You cannot enter an Kalgas Assault while you are using a Trans item.,You cannot enter an Kalgas Assault while you are using a Trans item.
-TEXTCLIENT_PARTYSKILL_NOTUSE,You cannot use party skills in this area.,You cannot use party skills in this area.
-TEXTCLIENT_HOUSINGGUESTBOOK_COOLDOWN,Please wait a little before posting another guest book message.,Please wait a little before posting another guest book message.
-TEXTCLIENT_HOUSINGTEMPLATE_PLAYERSIN,There are still some players in your house. You can't change the template until there's nobody left inside.,There are still some players in your house. You can't change the template until there's nobody left inside.
-TEXTCLIENT_RAINBOWRACE_NOPENYA_TEAM,%s does not have enough Penya to apply for the Rainbow Race.,%s does not have enough Penya to apply for the Rainbow Race.
-TEXTCLIENT_RAINBOWRACE_OTHER_ACTIONS,%s is during other actions.,%s is during other actions.
-TEXTCLIENT_RAINBOWRACE_TEAM_DISTRIBUTION,Teams will be randomly matched after %d seconds,Teams will be randomly matched after %d seconds
-TEXTCLIENT_RAINBOWRACE_TELEPORT_CLOSED,Teleportation is no longer available.,Teleportation is no longer available.
-TEXTCLIENT_RAINBOWRACE_INVITATION_INPROGRESS,Team member invitations are in progress.,Team member invitations are in progress.
-TEXTCLIENT_RAINBOWRACE_REGISTERED_USER,%s has already registered for the race.,%s has already registered for the race.
-TEXTCLIENT_RAINBOWRACE_INVITED_USER,%s has already received an invitation.,%s has already received an invitation.
-TEXTCLIENT_RAINBOWRACE_REGISTER_FAILED,Failed to register for the Rainbow Race.,Failed to register for the Rainbow Race.
-TEXTCLIENT_RAINBOWRACE_CANNOT_APPLY,It's currently not possible to apply.,It's currently not possible to apply.
-TEXTCLIENT_RAINBOWRACE_INVITATION_OFFLINE,You can only invite users who are online.,You can only invite users who are online.
-TEXTCLIENT_RAINBOWRACE_INVITATION_CANCELED,The Rainbow Race team invitation has been canceled.,The Rainbow Race team invitation has been canceled.
-TEXTCLIENT_RAINBOWRACE_INVITATION_REFUSED,%s has refused to invite.,%s has refused to invite.
-TEXTCLIENT_KALGASASSAULT_FAIL_MASTER,You cannot play Kalgas Assault during the master quest.,You cannot play Kalgas Assault during the master quest.
-TEXTCLIENT_ITEMOTHERPLAYER,The %s belongs to another player.,The %s belongs to another player.
-TEXTCLIENT_CHAT_NO_TEAM,You are not a member of a team.,You are not a member of a team.
-TEXTCLIENT_LOOTDISABLED,You cannot loot this item.,You cannot loot this item.
-TEXTCLIENT_NO_DUEL_BET,The other player does not accept duel bets.,The other player does not accept duel bets.
-TEXTCLIENT_REAPITEM_CNT,You received %dx %s.,You received %dx %s.
-TEXTCLIENT_REAPITEM_SHORT_CNT,Received %dx %s,Received %dx %s
-TEXTCLIENT_TELEPORTMENU,Teleport menu,Teleport menu
-TEXTCLIENT_DUNGEON_REDUCED,Re-entry cooldown for %s has been reduced by %d minutes.,Re-entry cooldown for %s has been reduced by %d minutes.
-TEXTCLIENT_DUNGEON_COOLDOWN_REDUCE_FAILURE,There is no dungeon where cooldown reduction is possible.,There is no dungeon where cooldown reduction is possible.
-TEXTCLIENT_MAGIC_CLOCK_LIMIT,You've already used maximum count of Magic Clock,You've already used maximum count of Magic Clock
-TEXTCLIENT_MAGIC_CLOCK_SHORT_TIME,Remaining cooldown for the instance dungeon is shorter than the item's effect. Are you sure you want to use the item?,Remaining cooldown for the instance dungeon is shorter than the item's effect. Are you sure you want to use the item?
-TEXTCLIENT_CONTINENT_MINLEVEL,You must reach level %d to access this area.,You must reach level %d to access this area.
-TEXTCLIENT_SUMMON_MINLEVEL,You cannot summon a player below level %d.,You cannot summon a player below level %d.
-TEXTCLIENT_SUMMON_MINLEVELPARTY,You cannot summon %s because the level is below %d.,You cannot summon %s because the level is below %d.
-TEXTCLIENT_COLLECT_GUEST,Guest Characters cannot equip this item. Please link an account.,Guest Characters cannot equip this item. Please link an account.
+TEXTCLIENT_KALGAS_REVIVAL_USED_SILVERCOIN,You already use Silver Coin this game.,In questo gioco stai già usando la Moneta d'Argento.
+TEXTCLIENT_KALGAS_REVIVAL_REQUIRE_SILVERCOIN,You require a Silver Coin.,Ti serve una Moneta d'Argento.
+TEXTCLIENT_KALGAS_REVIVAL_REQUIRE_GOLDCOIN,You require Gold Coins.,Ti serve Monete d'Oro.
+TEXTCLIENT_KALGAS_REVIVAL_NOTENOUGH_GOLDCOIN,Not enough Gold Coins.,Monete d'Oro insufficienti.
+TEXTCLIENT_KALGAS_PLAY_SOON,The Kalgas Assault match will start soon.,La partita Kalgas Assault inizierà a breve.
+TEXTCLIENT_KALGAS_FAIL_ENTER,Unable to enter the Kalgas Assault.,Impossibile entrare al Kalgas Assault.
+TEXTCLIENT_KALGAS_REGISTRATION_NOTIFICATION,The Kalgas Assault is scheduled to take place. Register now!!,L'Assault di Kalgas è in programma. Iscriviti subito!!
+TEXTCLIENT_KALGAS_ENTER_NOTRANS,You cannot enter an Kalgas Assault while you are using a Trans item.,Non è possibile partecipare a un Kalgas Assault mentre si sta utilizzando un oggetto Trans.
+TEXTCLIENT_PARTYSKILL_NOTUSE,You cannot use party skills in this area.,In questa zona non puoi usare le abilità di gruppo.
+TEXTCLIENT_HOUSINGGUESTBOOK_COOLDOWN,Please wait a little before posting another guest book message.,Attendi qualche istante prima di inviare un altro messaggio nel libro degli ospiti.
+TEXTCLIENT_HOUSINGTEMPLATE_PLAYERSIN,There are still some players in your house. You can't change the template until there's nobody left inside.,Ci sono ancora alcuni giocatori nella tua casa. Non puoi modificare il modello finché non ci sarà più nessuno all'interno.
+TEXTCLIENT_RAINBOWRACE_NOPENYA_TEAM,%s does not have enough Penya to apply for the Rainbow Race.,%s non ha abbastanza Penya per iscriversi alla Rainbow Race.
+TEXTCLIENT_RAINBOWRACE_OTHER_ACTIONS,%s is during other actions.,%s è durante altre azioni.
+TEXTCLIENT_RAINBOWRACE_TEAM_DISTRIBUTION,Teams will be randomly matched after %d seconds,Le squadre verranno abbinate in modo casuale tra %d secondi
+TEXTCLIENT_RAINBOWRACE_TELEPORT_CLOSED,Teleportation is no longer available.,Il teletrasporto non è più disponibile.
+TEXTCLIENT_RAINBOWRACE_INVITATION_INPROGRESS,Team member invitations are in progress.,Gli inviti ai membri della squadra sono in corso.
+TEXTCLIENT_RAINBOWRACE_REGISTERED_USER,%s has already registered for the race.,%s si è già iscritto alla gara.
+TEXTCLIENT_RAINBOWRACE_INVITED_USER,%s has already received an invitation.,%s ha già ricevuto un invito.
+TEXTCLIENT_RAINBOWRACE_REGISTER_FAILED,Failed to register for the Rainbow Race.,Iscrizione alla Rainbow Race non riuscita.
+TEXTCLIENT_RAINBOWRACE_CANNOT_APPLY,It's currently not possible to apply.,Al momento non è possibile presentare la domanda.
+TEXTCLIENT_RAINBOWRACE_INVITATION_OFFLINE,You can only invite users who are online.,È possibile invitare solo gli utenti che sono online.
+TEXTCLIENT_RAINBOWRACE_INVITATION_CANCELED,The Rainbow Race team invitation has been canceled.,L'invito della squadra Rainbow Race è stato annullato.
+TEXTCLIENT_RAINBOWRACE_INVITATION_REFUSED,%s has refused to invite.,%s ha rifiutato l'invito.
+TEXTCLIENT_KALGASASSAULT_FAIL_MASTER,You cannot play Kalgas Assault during the master quest.,Non puoi giocare a Kalgas Assault durante la missione del maestro.
+TEXTCLIENT_ITEMOTHERPLAYER,The %s belongs to another player.,Il %s appartiene a un altro giocatore.
+TEXTCLIENT_CHAT_NO_TEAM,You are not a member of a team.,Non fai parte di una squadra.
+TEXTCLIENT_LOOTDISABLED,You cannot loot this item.,Non puoi raccogliere questo oggetto.
+TEXTCLIENT_NO_DUEL_BET,The other player does not accept duel bets.,L'altro giocatore non accetta scommesse sul duello.
+TEXTCLIENT_REAPITEM_CNT,You received %dx %s.,Hai ricevuto %dx %s.
+TEXTCLIENT_REAPITEM_SHORT_CNT,Received %dx %s,Ricevuto %dx %s
+TEXTCLIENT_TELEPORTMENU,Teleport menu,Menu Teletrasporto
+TEXTCLIENT_DUNGEON_REDUCED,Re-entry cooldown for %s has been reduced by %d minutes.,Il tempo di ricarica del rientro per %s è stato ridotto di %d minuti.
+TEXTCLIENT_DUNGEON_COOLDOWN_REDUCE_FAILURE,There is no dungeon where cooldown reduction is possible.,Non esiste nessun dungeon in cui sia possibile ridurre i tempi di ricarica.
+TEXTCLIENT_MAGIC_CLOCK_LIMIT,You've already used maximum count of Magic Clock,Hai già raggiunto il numero massimo di Magia Orologio
+TEXTCLIENT_MAGIC_CLOCK_SHORT_TIME,Remaining cooldown for the instance dungeon is shorter than the item's effect. Are you sure you want to use the item?,Il tempo di ricarica residuo per il dungeon istanza è inferiore alla durata dell'effetto dell'oggetto. Sei sicuro di voler usare l'oggetto?
+TEXTCLIENT_CONTINENT_MINLEVEL,You must reach level %d to access this area.,Devi raggiungere il livello %d per accedere a quest'area.
+TEXTCLIENT_SUMMON_MINLEVEL,You cannot summon a player below level %d.,Non è possibile evocare un giocatore di livello inferiore a %d.
+TEXTCLIENT_SUMMON_MINLEVELPARTY,You cannot summon %s because the level is below %d.,Non puoi evocare %s perché il livello è inferiore a %d.
+TEXTCLIENT_COLLECT_GUEST,Guest Characters cannot equip this item. Please link an account.,I personaggi Ospiti non possono equipaggiare questo oggetto. Si prega di collegare un account.
 TEXTCLIENT_ACCOUNT_DELETED,Your account has been successfully deleted.,Il tuo account è stato eliminato con successo.
 TEXTCLIENT_ACCOUNT_DELETIONFAILED,Your password is invalid.,La tua password non è valida.
 TEXTCLIENT_NOT_ENOUGH_ITEM,Not enough %s.,Non abbastanza %s.
-TEXTCLIENT_CRAFTANNOUNCE,%s crafted %s!,%s crafted %s!
-TEXTCLIENT_TRADE_DISTANCE,You cannot trade due to distance.,You cannot trade due to distance.
-TEXTCLIENT_COUPON_ITEM_SUCCESS,The coupon has been submitted successfully. Please check your Post Box.,The coupon has been submitted successfully. Please check your Post Box.
-TEXTCLIENT_COUPON_CASH_SUCCESS,The coupon has been submitted successfully. Please check in the Flyff Shop.,The coupon has been submitted successfully. Please check in the Flyff Shop.
-TEXTCLIENT_COUPON_ALREADYUSED,Coupon has already been used.,Coupon has already been used.
-TEXTCLIENT_COUPON_LIMITREACHED,The coupon usage limit has been reached.,The coupon usage limit has been reached.
-TEXTCLIENT_COUPON_NOTFOUND,No coupon found with this code. Please try again.,No coupon found with this code. Please try again.
-TEXTCLIENT_COUPON_INVALIDCODE,Invalid coupon code. Please try again.,Invalid coupon code. Please try again.
-TEXTCLIENT_COUPONGIFT_MAIL_TITLE,Coupon Gift,Coupon Gift
-TEXTCLIENT_COMBAT_NOTTRADE,You cannot trade during combat.,You cannot trade during combat.
-TEXTCLIENT_EVENT_PREFIX,[Event],[Event]
-TEXTCLIENT_ACCOUNTDISCONNECTED,Account %d disconnected.,Account %d disconnected.
-TEXTCLIENT_ACCOUNTNOTEXIST,Account %d does not exist or is offline.,Account %d does not exist or is offline.
-TEXTCLIENT_ACCOUNTDISCONNECTSELF,You cannot disconnect yourself.,You cannot disconnect yourself.
-TEXTCLIENT_APP_SEARCHSHOP,Search Shop,Search Shop
-TEXTCLIENT_PARTY_READY_ON,There is already a ready check in progress.,There is already a ready check in progress.
-TEXTCLIENT_PIRATESHIP_APPEARS,There is a Pirate Ship above the Madrigal!!,There is a Pirate Ship above the Madrigal!!
-TEXTCLIENT_PARTY_READY_LEADER,"Only the leader may start a ready check, and there is not one currently in progress.","Only the leader may start a ready check, and there is not one currently in progress."
-TEXTCLIENT_THROWITEM_ERROR_15,It can only be used when the target is within 15 meters.,It can only be used when the target is within 15 meters.
-TEXTCLIENT_THROWITEM_ERROR_TARGET,There is no target to use it on.,There is no target to use it on.
-TEXTCLIENT_THROWITEM_ERROR_AREA,You cannot use it there.,You cannot use it there.
-TEXTCLIENT_SEARCHSHOP_TPSELF,You cannot teleport to yourself.,You cannot teleport to yourself.
-TEXTCLIENT_SEARCHSHOP_CLOSED,The shop has been closed.,The shop has been closed.
-TEXTCLIENT_PVPMATCH_TEAM,Team ,Team 
-TEXTCLIENT_PVPMATCH_MATCHEND_WINNER,Match has ended! Winner is %s!,Match has ended! Winner is %s!
-TEXTCLIENT_PVPMATCH_MATCHEND_NOWINNER,Match has ended! There was no winner this time!,Match has ended! There was no winner this time!
-TEXTCLIENT_PVPMATCH_CANTTELEPORT,You can't teleport in the match anymore. Match has ended.,You can't teleport in the match anymore. Match has ended.
-TEXTCLIENT_PVPMATCH_NOOPPONENT,"No opponent joined! Match will then end, giving you the victory!","No opponent joined! Match will then end, giving you the victory!"
-TEXTCLIENT_PVPMATCH_NOOPPONENTWIN,No opponent was found for your match! We then considered your match as won!,No opponent was found for your match! We then considered your match as won!
-TEXTCLIENT_PVPMATCH_KILLNOTIFICATION,[%s] %s killed [%s] %s!,[%s] %s killed [%s] %s!
-TEXTCLIENT_PVPMATCH_KILLNOTIFICATION_KILLINGSPREE_STOP,[%s] %s killed [%s] %s and stopped his killing spree!,[%s] %s killed [%s] %s and stopped his killing spree!
-TEXTCLIENT_PVPMATCH_KILLNOTIFICATION_KILLINGSPREE,[%s] %s is in a killing spree!,[%s] %s is in a killing spree!
-TEXTCLIENT_PVPMATCH_PLAYERNOTJOINED_LIVES,A player has not joined or has left the match! Total guild remaining lives have been decreased by %d!,A player has not joined or has left the match! Total guild remaining lives have been decreased by %d!
-TEXTCLIENT_PVPMATCH_SPECT_ERROR_2,The match you're trying to spectate is ending. Please select another one.,The match you're trying to spectate is ending. Please select another one.
-TEXTCLIENT_PVPMATCH_CANNOT_FRIENDADD,You cannot add friends in a PVP Match.,You cannot add friends in a PVP Match.
-TEXTCLIENT_PVPMATCH_CANNOT_PARTY,You cannot make a party in a PVP Match.,You cannot make a party in a PVP Match.
-TEXTCLIENT_PVPMATCH_NO_OUTWAR,You cannot use Blinkwings to escape a PVP Match.,You cannot use Blinkwings to escape a PVP Match.
-TEXTCLIENT_PVPMATCH_MANUAL_ALREADYIN,This player is already in a team.,This player is already in a team.
-TEXTCLIENT_PVPMATCH_MANUAL_NOTGM,You can only add gamemasters to the observers team.,You can only add gamemasters to the observers team.
-TEXTCLIENT_PVPMATCH_MANUAL_NOTONLINE,This character is needs to be online.,This character is needs to be online.
-TEXTCLIENT_PVPMATCH_MANUAL_NOTYOURSELF,You can't invite yourself in a match.,You can't invite yourself in a match.
-TEXTCLIENT_PVPMATCH_MANUAL_NOTALLREADY,"All players are not ready, you can't start the match yet.","All players are not ready, you can't start the match yet."
-TEXTCLIENT_PVPMATCH_MANUAL_MAXPLAYERS,You can't add more than %d players in the same team!,You can't add more than %d players in the same team!
-TEXTCLIENT_GAME_MATOURNAMENT_NOTUSE,In Madrigal Tournament,In Madrigal Tournament
-TEXTCLIENT_MATOURNAMENT_NO_OUTWAR,You cannot use Blinkwings to escape the Madrigal Tournament.,You cannot use Blinkwings to escape the Madrigal Tournament.
-TEXTCLIENT_MATOURNAMENT_NOTUSEITEM,You cannot use items in the Madrigal Tournament.,You cannot use items in the Madrigal Tournament.
-TEXTCLIENT_TRANS_LOTTERY_MATOURNAMENT,You can't use the roulette in the Madrigal Tournament.,You can't use the roulette in the Madrigal Tournament.
-TEXTCLIENT_MATOURNAMENT_CANNOT_TRADE,You cannot trade in the Madrigal Tournament.,You cannot trade in the Madrigal Tournament.
-TEXTCLIENT_MATOURNAMENT_CANNOT_PARTY,You cannot make a party in the Madrigal Tournament.,You cannot make a party in the Madrigal Tournament.
-TEXTCLIENT_MATOURNAMENT_CANNOT_FRIENDADD,You cannot add friends in the Madrigal Tournament.,You cannot add friends in the Madrigal Tournament.
+TEXTCLIENT_CRAFTANNOUNCE,%s crafted %s!,%s ha creato %s!
+TEXTCLIENT_TRADE_DISTANCE,You cannot trade due to distance.,Non puoi scambiare a causa della distanza.
+TEXTCLIENT_COUPON_ITEM_SUCCESS,The coupon has been submitted successfully. Please check your Post Box.,Il coupon è stato inviato con successo. Controlla la tua posta.
+TEXTCLIENT_COUPON_CASH_SUCCESS,The coupon has been submitted successfully. Please check in the Flyff Shop.,Il coupon è stato inviato con successo. Controlla nel Negozio Flyff.
+TEXTCLIENT_COUPON_ALREADYUSED,Coupon has already been used.,Il coupon è già stato utilizzato.
+TEXTCLIENT_COUPON_LIMITREACHED,The coupon usage limit has been reached.,È stato raggiunto il limite di utilizzo dei coupon.
+TEXTCLIENT_COUPON_NOTFOUND,No coupon found with this code. Please try again.,Non è stato trovato alcun coupon con questo codice. Riprova.
+TEXTCLIENT_COUPON_INVALIDCODE,Invalid coupon code. Please try again.,Codice coupon non valido. Riprova.
+TEXTCLIENT_COUPONGIFT_MAIL_TITLE,Coupon Gift,Regalo Coupon
+TEXTCLIENT_COMBAT_NOTTRADE,You cannot trade during combat.,Non puoi scambiare durante il combattimento.
+TEXTCLIENT_EVENT_PREFIX,[Event],[Evento]
+TEXTCLIENT_ACCOUNTDISCONNECTED,Account %d disconnected.,Account %d disconnesso.
+TEXTCLIENT_ACCOUNTNOTEXIST,Account %d does not exist or is offline.,L'account %d non esiste o è offline.
+TEXTCLIENT_ACCOUNTDISCONNECTSELF,You cannot disconnect yourself.,Non puoi disconnetterti.
+TEXTCLIENT_APP_SEARCHSHOP,Search Shop,Cerca Negozio
+TEXTCLIENT_PARTY_READY_ON,There is already a ready check in progress.,È già in corso una verifica.
+TEXTCLIENT_PIRATESHIP_APPEARS,There is a Pirate Ship above the Madrigal!!,C'è una Nave Pirata sopra il Madrigal!!
+TEXTCLIENT_PARTY_READY_LEADER,"Only the leader may start a ready check, and there is not one currently in progress.","Solo il capo può avviare un controllo di prontezza, e al momento non ce n'è uno in corso."
+TEXTCLIENT_THROWITEM_ERROR_15,It can only be used when the target is within 15 meters.,Può essere utilizzata solo quando il bersaglio si trova entro 15 metri.
+TEXTCLIENT_THROWITEM_ERROR_TARGET,There is no target to use it on.,Non c'è nessun bersaglio su cui usarlo.
+TEXTCLIENT_THROWITEM_ERROR_AREA,You cannot use it there.,Lì non puoi usarlo.
+TEXTCLIENT_SEARCHSHOP_TPSELF,You cannot teleport to yourself.,Non puoi teletrasportarti su te stesso.
+TEXTCLIENT_SEARCHSHOP_CLOSED,The shop has been closed.,Il negozio è chiuso.
+TEXTCLIENT_PVPMATCH_TEAM,Team ,Squadra 
+TEXTCLIENT_PVPMATCH_MATCHEND_WINNER,Match has ended! Winner is %s!,La partita è terminata! Il vincitore è %s!
+TEXTCLIENT_PVPMATCH_MATCHEND_NOWINNER,Match has ended! There was no winner this time!,La partita è finita! Questa volta non c'è stato un vincitore!
+TEXTCLIENT_PVPMATCH_CANTTELEPORT,You can't teleport in the match anymore. Match has ended.,Non puoi più teletrasportarti durante la partita. La partita è terminata.
+TEXTCLIENT_PVPMATCH_NOOPPONENT,"No opponent joined! Match will then end, giving you the victory!","Non si è presentato nessun avversario! La partita terminerà quindi con la tua vittoria!"
+TEXTCLIENT_PVPMATCH_NOOPPONENTWIN,No opponent was found for your match! We then considered your match as won!,Non è stato trovato nessun avversario per la tua partita! Abbiamo quindi considerato la tua partita vinta!
+TEXTCLIENT_PVPMATCH_KILLNOTIFICATION,[%s] %s killed [%s] %s!,[%s] %s ha ucciso [%s] %s!
+TEXTCLIENT_PVPMATCH_KILLNOTIFICATION_KILLINGSPREE_STOP,[%s] %s killed [%s] %s and stopped his killing spree!,[%s] %s ha ucciso [%s] %s e hanno messo fine alla loro serie di omicidi!
+TEXTCLIENT_PVPMATCH_KILLNOTIFICATION_KILLINGSPREE,[%s] %s is in a killing spree!,[%s] %s è in una serie omicida!
+TEXTCLIENT_PVPMATCH_PLAYERNOTJOINED_LIVES,A player has not joined or has left the match! Total guild remaining lives have been decreased by %d!,Un giocatore non si è unito  o l'ha abbandonata! Le vite totali rimanenti della gilda sono state ridotte di %d!
+TEXTCLIENT_PVPMATCH_SPECT_ERROR_2,The match you're trying to spectate is ending. Please select another one.,La partita che stai cercando di guardare sta per terminare. Seleziona un'altra.
+TEXTCLIENT_PVPMATCH_CANNOT_FRIENDADD,You cannot add friends in a PVP Match.,Non puoi aggiungere amici durante una Partita PVP.
+TEXTCLIENT_PVPMATCH_CANNOT_PARTY,You cannot make a party in a PVP Match.,Non puoi creare un gruppo in una Partita PVP.
+TEXTCLIENT_PVPMATCH_NO_OUTWAR,You cannot use Blinkwings to escape a PVP Match.,Non puoi usare alabalzi per sfuggire una partita PVP.
+TEXTCLIENT_PVPMATCH_MANUAL_ALREADYIN,This player is already in a team.,Questo giocatore fa già parte di una squadra.
+TEXTCLIENT_PVPMATCH_MANUAL_NOTGM,You can only add gamemasters to the observers team.,Puoi aggiungere i gamemaster solo alla squadra degli osservatori.
+TEXTCLIENT_PVPMATCH_MANUAL_NOTONLINE,This character is needs to be online.,Questo personaggio deve essere online.
+TEXTCLIENT_PVPMATCH_MANUAL_NOTYOURSELF,You can't invite yourself in a match.,Non puoi invitare te stesso a una partita.
+TEXTCLIENT_PVPMATCH_MANUAL_NOTALLREADY,"All players are not ready, you can't start the match yet.","Non tutti i giocatori sono pronti, non è ancora possibile iniziare la partita."
+TEXTCLIENT_PVPMATCH_MANUAL_MAXPLAYERS,You can't add more than %d players in the same team!,Non puoi aggiungere più di %d giocatori nella stessa squadra!
+TEXTCLIENT_GAME_MATOURNAMENT_NOTUSE,In Madrigal Tournament,Al Torneo di Madrigal
+TEXTCLIENT_MATOURNAMENT_NO_OUTWAR,You cannot use Blinkwings to escape the Madrigal Tournament.,Non puoi usare gli alabalzi per sfuggire al Torneo di Madrigal.
+TEXTCLIENT_MATOURNAMENT_NOTUSEITEM,You cannot use items in the Madrigal Tournament.,Non puoi usare oggetti al Torneo di Madrigal.
+TEXTCLIENT_TRANS_LOTTERY_MATOURNAMENT,You can't use the roulette in the Madrigal Tournament.,Non puoi usare la roulette nel Torneo di Madrigal.
+TEXTCLIENT_MATOURNAMENT_CANNOT_TRADE,You cannot trade in the Madrigal Tournament.,Non puoi scambiare nel Torneo di Madrigal.
+TEXTCLIENT_MATOURNAMENT_CANNOT_PARTY,You cannot make a party in the Madrigal Tournament.,Non puoi create un gruppo nel Torneo di Madrigal.
+TEXTCLIENT_MATOURNAMENT_CANNOT_FRIENDADD,You cannot add friends in the Madrigal Tournament.,Non puoi agguingere amici nel Torneo di Madrigal.
 TEXTCLIENT_MATOURNAMENT_HAVENOT_MASTER,party leader has to participate to the Madrigal Tournament!,party leader has to participate to the Madrigal Tournament!
 TEXTCLIENT_MATOURNAMENT_CAPTION_WAITINGOPPONENT,Waiting for opponent.. ,Waiting for opponent.. 
 TEXTCLIENT_MATOURNAMENT_CAPTION_PREPARE,Preparation phase. Match will start in ,Preparation phase. Match will start in 
